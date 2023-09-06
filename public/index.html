@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AdslClient</title>
+    <link rel="shortcut icon" href="assets/diamond.png" type="image/x-icon">
+    <link rel="stylesheet" href="../dist/output.css">
+</head>
+<body class=" bg-white w-full h-screen text-black dark:text-white dark:bg-black px-2">
+
+    <template id="template-product">
+        <div class="equipmentItem flex justify-between p-7 border-gray-500 border-2 rounded-xl">
+            <div class=" ">
+                <header class="flex space-x-2">
+                    <h2 class="brand">
+                        
+                    </h2>
+                    <p class="model font-bold">
+                        
+                    </p>
+                </header>
+                <div>
+                    <p class="description font-light">
+
+                    </p>
+                </div>
+                <footer class="flex space-x-2">
+                    <a href="http://129.168.20.70/" class="link ip" target="_blank">
+                        
+                    </a>
+                    <p class="font-light location">
+                        
+                    </p>
+                </footer>
+            </div>
+            <figure class="w-10 flex items-center justify-center cursor-pointer ease-in duration-300 dark:invert ">
+                <img src="assets/arrow-enter.svg" alt="">
+            </figure>
+        </div>
+    </template>
+
+    <header class="flex flex-col align-middle px-5 pt-10">
+        <ol class="w-full flex justify-between align-middle">
+            <li class="flex  dark:text-white">
+                AdslClient
+            </li>
+            <li class="">
+                <input id="button-theme" type="checkbox" class="toggle" checked/>
+            </li>
+        </ol>
+        <div class="flex justify-between items-center p-2 mt-2 rounded-xl">
+            <button id="cFilters" class="btn btn-square bg-transparent border-0 w-8">
+                <img src="assets/trash.svg" alt="">
+            </button>
+            <div class="flex space-x-1">
+                <select id="fBrand" class="select select-sm text-white">
+                    <option></option>
+                    <option>Siemens</option>
+                    <option>CCom</option>
+                    <option>UTStarcom</option>
+                    <option>Corecess</option>
+                    <option>Paradyne</option>
+                    <option>ZyXEL</option>
+                    <option>ZHONE</option>
+                </select>
+                <select id="fLocation" class="select select-sm text-white">
+                    <option></option>
+                    <option>30</option>
+                    <option>40</option>
+                    <option>50</option>
+                    <option>central</option>
+                </select>
+            </div>
+        </div>
+    </header>
+        
+    <main id="main-section" class="overflow-scroll h-3/4 px-5 pt-5 space-y-4 grid">
+        
+    </main>
+
+    <script src="../node_modules/axios/dist/axios.min.js"></script>
+    <script src="js/cFilters.js"></script>
+    <script src="js/theme.js"></script>
+    <script src="js/equipment.js"></script>
+</body>
+</html>
