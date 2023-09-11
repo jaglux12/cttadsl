@@ -1,0 +1,1709 @@
+Hix.70 / :1 : *1  * |1|  #85870	# - CLAVE DANIEL CESAR	BALCARCE 1499	75687	
+Hix.70 / :1 : *2  * |0|  #1		# - 		
+Hix.70 / :1 : *3  * |1|  #84555	# - Molina Zulma Noemi	LA RIOJA 958	74949	
+Hix.70 / :1 : *4  * |1|  #502699	# - ALBRECHT JAVIER RAFAEL	5 DE NOVIEMBRE Y SALTA	3492307723	
+Hix.70 / :1 : *5  * |0|  #1		# - 		
+Hix.70 / :1 : *6  * |1|  #84698	# - Fernandez Cintia	SARMIENTO 1048	72909	
+Hix.70 / :1 : *7  * |1|  #84301	# - Perrig Jose Ricardo	HAITI 1297	71522	
+Hix.70 / :1 : *8  * |0|  #1		# - 		
+Hix.70 / :1 : *9  * |1|  #85908	# - DEFAGOT JUAN MANUEL	GOBERNADOR SILVESTRE BEGNIS 1780	70630	
+Hix.70 / :1 : *10 * |1|  #501903	# - PALAVECINO CLAUDIO	2 DE ABRIL 1857	3491537120	
+Hix.70 / :1 : *11 * |1|  #83012	# - Silva Hernan - Fantini Carina Andrea	AV. RIVADAVIA 1245	70512	
+Hix.70 / :1 : *12 * |0|  #1		# - 		
+Hix.70 / :1 : *13 * |1|  #83838	# - Esc. Media para Adultos No. 1035	SARMIENTO 1236	73678	
+Hix.70 / :1 : *14 * |0|  #1		# - 		
+Hix.70 / :1 : *15 * |0|  #1		# - 		
+Hix.70 / :1 : *16 * |0|  #1		# - 		
+Hix.70 / :1 : *17 * |1|  #502616	# - SANCHEZ SABRINA BELEN	PJE SARGENTO CABRAL S/N	3491419197	
+Hix.70 / :1 : *18 * |1|  #501566	# - PEREIRA BLANCA MABEL	JULIO A ROCA Y SANTA CRUZ DPTO 3	3491582492	
+Hix.70 / :1 : *19 * |1|  #84771	# - ARMANDO LUCIANO	HIPOLITO IRIGOYEN 639	75742	
+Hix.70 / :1 : *20 * |1|  #83480	# - Santillan Ramona	JULIO A. ROCA 271	74794	
+Hix.70 / :1 : *21 * |1|  #84154	# - Fondevila Maria Cristina	SAAVEDRA 1226	71811	
+Hix.70 / :1 : *22 * |0|  #		# - 		
+Hix.70 / :1 : *23 * |0|  #		# - 		
+Hix.70 / :1 : *24 * |0|  #		# - 		
+Hix.70 / :1 : *25 * |1|  #84131	# - Aguirre Rafael	LA PAMPA 1884	471222	
+Hix.70 / :1 : *26 * |0|  #		# - 		
+Hix.70 / :1 : *27 * |1|  #500887	# - PIZZICHINI NOELIA	25 DE MAYO 2179	3491443312	
+Hix.70 / :1 : *28 * |0|  #		# - 		
+Hix.70 / :1 : *29 * |1|  #85032	# - SANCHEZ DANIEL Y JUAREZ MIRTA	BOLIVIA 1353	73816	
+Hix.70 / :1 : *30 * |0|  #		# - 		
+Hix.70 / :1 : *31 * |1|  #85027	# - CRUZ CLAUDIO MIGUEL	LOS ANDES 1217	71889	
+Hix.70 / :1 : *32 * |1|  #83870	# - MEDINA HUGO RICARDO	NEUQUEN 1960	73676	
+Hix.70 / :1 : *33 * |1|  #501471	# - ADROVER BRUNO	CABO A CORONEL 1930	3491439793	
+Hix.70 / :1 : *34 * |1|  #84275	# - Hille Lorena Gisela	TUCUMAN 1635	74289	
+Hix.70 / :1 : *35 * |1|  #85557	# - GUNZEL LEIDI	CABO ABEL CORONEL	56432656	
+Hix.70 / :1 : *36 * |1|  #83136	# - Levis Estudio Juridico	AV. RIVADAVIA 1133	470423	
+Hix.70 / :1 : *37 * |1|  #85058	# - ELECTRONICA MEGATONE S.A -musimundo-	AV. RIVADAVIA 1255	75507	
+Hix.70 / :1 : *38 * |0|  #		# - 		
+Hix.70 / :1 : *39 * |2|  #		# - 		
+Hix.70 / :1 : *40 * |1|  #83141	# - Opryska Juan Victorio -laboratorio-	INDEPENDENCIA 1550	470356	
+Hix.70 / :1 : *41 * |1|  #89284	# - AGUIRRE HUGO ALEJANDRO	CHUBUT S/N	79284	
+Hix.70 / :1 : *42 * |0|  #		# - 		
+Hix.70 / :1 : *43 * |0|  #		# - 		
+Hix.70 / :1 : *44 * |1|  #85403	# - BRUNO EDELFO DOMINGO	SAN JUAN CASI PTE PERON	15500673	
+Hix.70 / :1 : *45 * |1|  #501097	# - CIRIGLIANO MARCELA CISTINA	5 DE NOVIEMBRE 2169	3444505151	
+Hix.70 / :1 : *46 * |1|  #502181	# - LEGUIZAMON HEBE ROSALIA	SAN JUAN 650	3491693985	
+Hix.70 / :1 : *47 * |0|  #		# - 		
+Hix.70 / :1 : *48 * |1|  #84560	# - Ceccotti Gabriela	JOSE FELIX 1364	75260	
+Hix.70 / :1 : *49 * |0|  #		# - 		
+Hix.70 / :1 : *50 * |0|  #		# - 		
+Hix.70 / :1 : *51 * |0|  #		# - 		
+Hix.70 / :1 : *52 * |0|  #		# - 		
+Hix.70 / :1 : *53 * |0|  #		# - 		
+Hix.70 / :1 : *54 * |1|  #83160	# - Sucesores Pergolesi Julio	C. ABEL CORONEL 1973	470740	
+Hix.70 / :1 : *55 * |0|  #		# - 		
+Hix.70 / :1 : *56 * |0|  #		# - 		
+Hix.70 / :1 : *57 * |0|  #		# - 		
+Hix.70 / :1 : *58 * |0|  #		# - 		
+Hix.70 / :1 : *59 * |0|  #		# - 		
+Hix.70 / :1 : *60 * |1|  #83146	# - Farias Hilda	SALTA 1080	71596	
+Hix.70 / :1 : *61 * |1|  #83652	# - Bozo Maria de la Mercedes	GDOR GALVEZ S/N	470505	
+Hix.70 / :1 : *62 * |1|  #501043	# - RAMOS RUDAT MARIO HERNAN	MADRES Y ABUELA E PLAZA DE MAYO	3491443154	
+Hix.70 / :1 : *63 * |0|  #		# - 		
+Hix.70 / :1 : *64 * |1|  #500622	# - MOYANO MARTA Y MAGDALENA	9 DE JULIO 2029	70195	
+Hix.70 / :1 : *65 * |0|  #		# - 		
+Hix.70 / :1 : *66 * |0|  #		# - 		
+Hix.70 / :1 : *67 * |0|  #		# - 		
+Hix.70 / :1 : *68 * |0|  #		# - 		
+Hix.70 / :1 : *69 * |1|  #83921	# - Sosa Lorena Elizabeth	GOB. GALVEZ 742	75335	
+Hix.70 / :1 : *70 * |0|  #		# - 		
+Hix.70 / :1 : *71 * |1|  #85442	# - OBIAN JUAN ANGEL	6 DE CABALLERIA S/N	71658	
+Hix.70 / :1 : *72 * |0|  #		# - 		
+Hix.70 / :2 : *1  * |1|  #84501	# - Soria Ariel	CHUBUT 1886	72937	
+Hix.70 / :2 : *2  * |0|  #		# - 		
+Hix.70 / :2 : *3  * |1|  #83130	# - Cassino Aldo	SANTO DOMINGO 1290	471616	
+Hix.70 / :2 : *4  * |0|  #		# - 		
+Hix.70 / :2 : *5  * |0|  #		# - 		
+Hix.70 / :2 : *6  * |2|  #		# - 		
+Hix.70 / :2 : *7  * |1|  #501607	# - JUANOVICH EDGAR	SAAVEDRA 840	3491533466	
+Hix.70 / :2 : *8  * |0|  #		# - 		
+Hix.70 / :2 : *9  * |2|  #		# - 		
+Hix.70 / :2 : *10 * |0|  #		# - 		
+Hix.70 / :2 : *11 * |1|  #500867	# - MONTENEGRO LEANDRA	TUCUMAN Y ERNESTO CHE GUEVARA	3491695106	
+Hix.70 / :2 : *12 * |0|  #		# - 		
+Hix.70 / :2 : *13 * |0|  #		# - 		
+Hix.70 / :2 : *14 * |0|  #		# - 		
+Hix.70 / :2 : *15 * |0|  #		# - 		
+Hix.70 / :2 : *16 * |1|  #85303	# - GHILINI MAYRA ALEXANDRA	GOBERNADOR GALVEZ 706	75975	
+Hix.70 / :2 : *17 * |0|  #		# - 		
+Hix.70 / :2 : *18 * |0|  #		# - 		
+Hix.70 / :2 : *19 * |1|  #501350	# - FONTANA AGUSTIN	JOSE FELIX 1535	3491692778	
+Hix.70 / :2 : *20 * |0|  #		# - 		
+Hix.70 / :2 : *21 * |0|  #		# - 		
+Hix.70 / :2 : *22 * |0|  #		# - 		
+Hix.70 / :2 : *23 * |0|  #		# - 		
+Hix.70 / :2 : *24 * |1|  #501310	# - RUIZ ESTEFANIA - GOMEZ MARIA LUISA	25 DE MAYO 2311	71520	
+Hix.70 / :2 : *25 * |0|  #		# - 		
+Hix.70 / :2 : *26 * |1|  #83110	# - Mansilla Florencio - Zamora Maria Ester	9 DE JULIO 2165	471256	
+Hix.70 / :2 : *27 * |1|  #84790	# - CABRERA GLADYS BELKYS	COSTA RICA 1281	71083	
+Hix.70 / :2 : *28 * |1|  #500923	# - MONJES RICARDO	SAAVEDRA 680	3491439031	
+Hix.70 / :2 : *29 * |0|  #		# - 		
+Hix.70 / :2 : *30 * |0|  #		# - 		
+Hix.70 / :2 : *31 * |0|  #		# - 		
+Hix.70 / :2 : *32 * |0|  #		# - 		
+Hix.70 / :2 : *33 * |0|  #		# - 		
+Hix.70 / :2 : *34 * |1|  #501315	# - CEJAS MARIA SILVIA	ISLAS MALVINAS Y BRIG. LOPEZ	73610	
+Hix.70 / :2 : *35 * |1|  #500924	# - PELAGAGGI GISELA	ART RAMON VILLARREAL	3491583202	baja
+Hix.70 / :2 : *36 * |0|  #		# - 		
+Hix.70 / :2 : *37 * |0|  #		# - 		
+Hix.70 / :2 : *38 * |0|  #		# - 		
+Hix.70 / :2 : *39 * |0|  #		# - 		
+Hix.70 / :2 : *40 * |0|  #		# - 		
+Hix.70 / :2 : *41 * |0|  #		# - 		
+Hix.70 / :2 : *42 * |1|  #84343	# - Gaminde Juan	SANTA FE 1359	70286	
+Hix.70 / :2 : *43 * |1|  #84917	# - GONZALEZ JAVIER HERNAN	HAITI 1292	74317	
+Hix.70 / :2 : *44 * |0|  #		# - 		
+Hix.70 / :2 : *45 * |0|  #		# - 		
+Hix.70 / :2 : *46 * |0|  #		# - 		
+Hix.70 / :2 : *47 * |0|  #		# - 		
+Hix.70 / :2 : *48 * |0|  #		# - 		
+Hix.70 / :2 : *49 * |1|  #500920	# - RODRIGUEZ JANINA CANDELA	LA PAMPA CASI SAAVEDRA	3491550086	
+Hix.70 / :2 : *50 * |0|  #		# - 		
+Hix.70 / :2 : *51 * |1|  #500656	# - CARNEIRO DELIA MARGARITA PEREZ	SAAVEDRA 608	71678	
+Hix.70 / :2 : *52 * |0|  #		# - 		
+Hix.70 / :2 : *53 * |0|  #		# - 		
+Hix.70 / :2 : *54 * |0|  #		# - 		
+Hix.70 / :2 : *55 * |0|  #		# - 		
+Hix.70 / :2 : *56 * |1|  #500699	# - CABAÑA GRACIELA	SAN JUAN 708	3491690467	
+Hix.70 / :2 : *57 * |0|  #		# - 		
+Hix.70 / :2 : *58 * |1|  #83173	# - Heer Tomas	CABO ABEL CORONEL S/N	73809	
+Hix.70 / :2 : *59 * |0|  #		# - 		
+Hix.70 / :2 : *60 * |1|  #501376	# - KARFIS MONICA GABRIELA	ANTARTIDA ARGENTINA 435	73712	
+Hix.70 / :2 : *61 * |0|  #		# - 		
+Hix.70 / :2 : *62 * |1|  #500943	# - BAEZ ANALIA EVANGELINA	CHUBUT 1821	73921	
+Hix.70 / :2 : *63 * |1|  #85046	# - EMMERT FRANCO ANDRES	SAN LORENZO 1461	73695	
+Hix.70 / :2 : *64 * |1|  #84796	# - URRESTI ROMINA VANESA	SANTA CRUZ Y COMANDANTE RAZZETTI	75744	
+Hix.70 / :2 : *65 * |0|  #		# - 		
+Hix.70 / :2 : *66 * |0|  #		# - 		
+Hix.70 / :2 : *67 * |1|  #502410	# - DIAZ JORGE NESTOR	9 DE JULIO 1962	471116	
+Hix.70 / :2 : *68 * |1|  #84547	# - Ruiz octavio	20 DE JUNIO 2096	71149	
+Hix.70 / :2 : *69 * |0|  #		# - 		
+Hix.70 / :2 : *70 * |0|  #		# - 		
+Hix.70 / :2 : *71 * |1|  #84935	# - MORAND FRANCO ANDRES	12 DE OCTUBRE 1413	72953	
+Hix.70 / :2 : *72 * |1|  #83231	# - Borda Bosana Juan Carlos	SAN JUAN 878	71021	
+Hix.70 / :3 : *1  * |1|  #501450	# - PERRIG JOSE MARIA	SANTO DOMINGO 1279	470879	
+Hix.70 / :3 : *2  * |0|  #		# - 		
+Hix.70 / :3 : *3  * |0|  #		# - 		
+Hix.70 / :3 : *4  * |1|  #500433	# - PEREZ WALTER	20 DE JUNIO 1955	3491551903	
+Hix.70 / :3 : *5  * |1|  #501561	# - BARRETO JOSE	9 DE JULIO 2214	472055	
+Hix.70 / :3 : *6  * |0|  #		# - 		
+Hix.70 / :3 : *7  * |0|  #		# - 		
+Hix.70 / :3 : *8  * |0|  #		# - 		
+Hix.70 / :3 : *9  * |0|  #		# - 		
+Hix.70 / :3 : *10 * |0|  #		# - 		
+Hix.70 / :3 : *11 * |1|  #85062	# - CABRERA ELSA	GOB. GALVEZ 655	71092	
+Hix.70 / :3 : *12 * |1|  #83340	# - Paoloni Vilma	BALCARCE 1238	71592	baja
+Hix.70 / :3 : *13 * |0|  #		# - 		
+Hix.70 / :3 : *14 * |1|  #83206	# - Gonzales Yasin y Mirta	20 DE JUNIO 1972	70752	
+Hix.70 / :3 : *15 * |0|  #		# - 		
+Hix.70 / :3 : *16 * |0|  #		# - 		
+Hix.70 / :3 : *17 * |0|  #		# - 		
+Hix.70 / :3 : *18 * |0|  #		# - 		
+Hix.70 / :3 : *19 * |1|  #502251	# - AYALA ADRIANA	SALTA 1136	3491500237	
+Hix.70 / :3 : *20 * |1|  #501391	# - OJEDA ALEXIS ANGEL	CHUBUT S/N	75139	
+Hix.70 / :3 : *21 * |1|  #83214	# - Torres Irma	COMANDANTE RAZZETTI 478	71515	
+Hix.70 / :3 : *22 * |0|  #		# - 		
+Hix.70 / :3 : *23 * |1|  #83215	# - Aguirre Clemente	20 DE JUNIO 2264	72225	
+Hix.70 / :3 : *24 * |0|  #		# - 		
+Hix.70 / :3 : *25 * |1|  #83653	# - Ojeda Virginia	BELGRANO 1650	74775	
+Hix.70 / :3 : *26 * |1|  #83633	# - Fogar Carina Soledad	LOS ANDES 1172	74577	
+Hix.70 / :3 : *27 * |0|  #		# - 		
+Hix.70 / :3 : *28 * |1|  #501662	# - COLUSSI FEDERICO ALBERTO	TUCUMAN S/N	3491536880	
+Hix.70 / :3 : *29 * |2|  #		# - 		
+Hix.70 / :3 : *30 * |0|  #		# - 		
+Hix.70 / :3 : *31 * |1|  #83225	# - Colussi Alicia De	9 DE JULIO 1950	74680	
+Hix.70 / :3 : *32 * |0|  #		# - 		
+Hix.70 / :3 : *33 * |0|  #		# - 		
+Hix.70 / :3 : *34 * |1|  #84797	# - MUNICIPALIDAD DE TOSTADO-C.I.C museo	6 DE CABALLERIA E HIPOLITO YRIGOYEN	75650	
+Hix.70 / :3 : *35 * |0|  #		# - 		
+Hix.70 / :3 : *36 * |0|  #		# - 		
+Hix.70 / :3 : *37 * |1|  #85063	# - LORENZO VERONICA JANET	9 DE JULIO 1992	71042	
+Hix.70 / :3 : *38 * |0|  #		# - 		
+Hix.70 / :3 : *39 * |1|  #500207	# - SAUCO MARTA ELIANA	JOSE FELIX 1331	75649	
+Hix.70 / :3 : *40 * |0|  #		# - 		
+Hix.70 / :3 : *41 * |0|  #		# - 		
+Hix.70 / :3 : *42 * |0|  #		# - 		
+Hix.70 / :3 : *43 * |0|  #		# - 		
+Hix.70 / :3 : *44 * |0|  #		# - 		
+Hix.70 / :3 : *45 * |0|  #		# - 		
+Hix.70 / :3 : *46 * |1|  #501183	# - BELIZAN MARIELA ALEJANDRA	BRIGADIER LOPEZ 1362	3491698137	
+Hix.70 / :3 : *47 * |0|  #		# - 		
+Hix.70 / :3 : *48 * |0|  #		# - 		
+Hix.70 / :3 : *49 * |0|  #		# - 		
+Hix.70 / :3 : *50 * |1|  #84057	# - Antinori Roberto Gerardo	SANTO DOMONGO 1297	72881	
+Hix.70 / :3 : *51 * |1|  #85903	# - ROSALES MARISA MARIELA	PASAJE DE LA MUJER ARGENTINA 750	74902	
+Hix.70 / :3 : *52 * |1|  #500961	# - CAMEJO RAFAEL	JOSE FELIX 1327	3491441251	
+Hix.70 / :3 : *53 * |0|  #		# - 		
+Hix.70 / :3 : *54 * |0|  #		# - 		
+Hix.70 / :3 : *55 * |1|  #83241	# - TURCHI SANTIAGO	SAAVEDRA 922	70130	
+Hix.70 / :3 : *56 * |0|  #		# - 		
+Hix.70 / :3 : *57 * |0|  #		# - 		
+Hix.70 / :3 : *58 * |0|  #		# - 		
+Hix.70 / :3 : *59 * |0|  #		# - 		
+Hix.70 / :3 : *60 * |0|  #		# - 		
+Hix.70 / :3 : *61 * |1|  #85066	# - PERGOLESI STELLA MARIS	SARMIENTO 1290	70418	
+Hix.70 / :3 : *62 * |0|  #		# - 		
+Hix.70 / :3 : *63 * |0|  #		# - 		
+Hix.70 / :3 : *64 * |1|  #84071	# - Correa Hernan	SANTA CRUZ 1512	73490	
+Hix.70 / :3 : *65 * |0|  #		# - 		
+Hix.70 / :3 : *66 * |0|  #		# - 		
+Hix.70 / :3 : *67 * |0|  #		# - 		
+Hix.70 / :3 : *68 * |0|  #		# - 		
+Hix.70 / :3 : *69 * |0|  #		# - 		
+Hix.70 / :3 : *70 * |1|  #83279	# - Cagliero Enrique	9 DE JULIO 1996	70718	
+Hix.70 / :3 : *71 * |0|  #		# - 		
+Hix.70 / :3 : *72 * |1|  #83501	# - Clinica del Norte	AV. SAN MARTIN 1711	70375	
+Hix.70 / :4 : *1  * |0|  #		# - 		
+Hix.70 / :4 : *2  * |1|  #84084	# - Cravero Adriana Marta	GOB. SILVESTRE BEGNIS 1672	74754	
+Hix.70 / :4 : *3  * |0|  #		# - 		
+Hix.70 / :4 : *4  * |1|  #502026	# - CURTI ADRIANA ELISABETH	SAN JUAN 753	3424050542	
+Hix.70 / :4 : *5  * |1|  #85519	# - PORCEL CRISTIAN JAVIER	SALTA 1268	71266	
+Hix.70 / :4 : *6  * |0|  #		# - 		
+Hix.70 / :4 : *7  * |1|  #501585	# - DOMINGUEZ NANCY	GOB. GALVEZ S/N	3491549456	
+Hix.70 / :4 : *8  * |0|  #		# - 		
+Hix.70 / :4 : *9  * |0|  #		# - 		
+Hix.70 / :4 : *10 * |1|  #84800	# - NIZZO MARIELA	TUCUMAN Y CORTADA PUBLICA	72488	
+Hix.70 / :4 : *11 * |1|  #501722	# - SARASOLA MARIA BEATRIZ	ARTESANO RAMON VILLAREAL 1507	474650	
+Hix.70 / :4 : *12 * |0|  #		# - 		
+Hix.70 / :4 : *13 * |1|  #501003	# - SILVA HERNAN	25 DE MAYO 1980	72512	
+Hix.70 / :4 : *14 * |1|  #502053	# - PAZ NELIDA BEATRIZ	SALTA 1227	3491411415	
+Hix.70 / :4 : *15 * |1|  #501486	# - SANCHEZ MARIA GRACIELA	LOS ANDES 1235	3491501770	
+Hix.70 / :4 : *16 * |0|  #		# - 		
+Hix.70 / :4 : *17 * |0|  #		# - 		
+Hix.70 / :4 : *18 * |0|  #		# - 		
+Hix.70 / :4 : *19 * |1|  #85638	# - OLIVA JULIO ALBERTO	CABO ABEL CORONEL Y SALTA	74718	
+Hix.70 / :4 : *20 * |0|  #		# - 		
+Hix.70 / :4 : *21 * |0|  #		# - 		
+Hix.70 / :4 : *22 * |2|  #		# - 		
+Hix.70 / :4 : *23 * |0|  #		# - 		
+Hix.70 / :4 : *24 * |2|  #		# - 		
+Hix.70 / :4 : *25 * |0|  #		# - 		
+Hix.70 / :4 : *26 * |1|  #502155	# - CELIZ SONIA BEATRIZ	CABO ABEL CORONEL 2073	3491695353	
+Hix.70 / :4 : *27 * |0|  #		# - 		
+Hix.70 / :4 : *28 * |0|  #		# - 		
+Hix.70 / :4 : *29 * |1|  #83331	# - Aguirre Jose Luis -lorenzo jeanette-	GUEMES S/N	75463	
+Hix.70 / :4 : *30 * |1|  #83321	# - Alcaraz Mariana	LA RIOJA 880	74827	
+Hix.70 / :4 : *31 * |0|  #		# - 		
+Hix.70 / :4 : *32 * |0|  #		# - 		
+Hix.70 / :4 : *33 * |1|  #85074	# - CASTELLANO RENE MARCELO	VUELTA DE OBLIGADO 194	74249	
+Hix.70 / :4 : *34 * |1|  #83641	# - Cagliero Jose Luis	SAN JUAN 949	72448	
+Hix.70 / :4 : *35 * |1|  #85076	# - ARAYA MONICA Y MARIELA	LA RIOJA 869	71881	
+Hix.70 / :4 : *36 * |0|  #		# - 		
+Hix.70 / :4 : *37 * |1|  #500294	# - MENDOZA TAMARA GISELA	GUEMES 1263	471109	
+Hix.70 / :4 : *38 * |0|  #		# - 		
+Hix.70 / :4 : *39 * |0|  #		# - 		
+Hix.70 / :4 : *40 * |1|  #85458	# - CASA LUIS CHEMES	6 DE CABALLERIA Y AV SAN AMRTIN	POR PAR	
+Hix.70 / :4 : *41 * |0|  #		# - 		
+Hix.70 / :4 : *42 * |0|  #		# - 		
+Hix.70 / :4 : *43 * |0|  #		# - 		
+Hix.70 / :4 : *44 * |1|  #83346	# - Valladares Hugo	20 DE JUNIO 1950	71275	
+Hix.70 / :4 : *45 * |0|  #		# - 		
+Hix.70 / :4 : *46 * |0|  #		# - 		
+Hix.70 / :4 : *47 * |0|  #		# - 		
+Hix.70 / :4 : *48 * |1|  #83350	# - Bustos Andres	SANTA CRUZ 1564	74733	
+Hix.70 / :4 : *49 * |0|  #		# - 		
+Hix.70 / :4 : *50 * |0|  #		# - 		
+Hix.70 / :4 : *51 * |0|  #		# - 		
+Hix.70 / :4 : *52 * |0|  #		# - 		
+Hix.70 / :4 : *53 * |1|  #500145	# - PORTILLO DIEGO ARMANDO	2 DE ABRIL 1877	3491505162	
+Hix.70 / :4 : *54 * |0|  #		# - 		
+Hix.70 / :4 : *55 * |1|  #83502	# - Ferreyra Oscar	ART. RAMON VILLARREAL Y GALVEZ	70147	
+Hix.70 / :4 : *56 * |0|  #		# - 		
+Hix.70 / :4 : *57 * |0|  #		# - 		
+Hix.70 / :4 : *58 * |1|  #83515	# - Asoc.Coop.Escuela No. 2102	PTE PERON 1947	71908	
+Hix.70 / :4 : *59 * |0|  #		# - 		
+Hix.70 / :4 : *60 * |0|  #		# - 		
+Hix.70 / :4 : *61 * |0|  #		# - 		
+Hix.70 / :4 : *62 * |1|  #501748	# - LUNA YESICA	SAN JUAN 635	3491533016	
+Hix.70 / :4 : *63 * |1|  #85600	# - ROMERO JOSE LUIS	COM. RAZZETTI Y SANTA CRUZ	74698	
+Hix.70 / :4 : *64 * |0|  #		# - 		
+Hix.70 / :4 : *65 * |0|  #		# - 		
+Hix.70 / :4 : *66 * |1|  #500591	# - ALGARANA JUAN JOSE	BALCARCE 1475	3482229498	
+Hix.70 / :4 : *67 * |1|  #83386	# - Landriel Carlos	25 DE MAYO 2333	71018	
+Hix.70 / :4 : *68 * |0|  #		# - 		
+Hix.70 / :4 : *69 * |1|  #85594	# - ROLDAN FLORENCIA	JUAN DE GARAY 1175	75591	
+Hix.70 / :4 : *70 * |1|  #85079	# - HEINZE ERIKA	CATAMARCA 847	70510	
+Hix.70 / :4 : *71 * |0|  #		# - 		
+Hix.70 / :4 : *72 * |0|  #		# - 		
+Hix.70 / :5 : *1  * |0|  #		# - 		
+Hix.70 / :5 : *2  * |0|  #		# - 		
+Hix.70 / :5 : *3  * |0|  #		# - 		
+Hix.70 / :5 : *4  * |1|  #83401	# - Salto Estela Lidis	5 DE NOVIEMBRE S/N	70818	
+Hix.70 / :5 : *5  * |0|  #		# - 		
+Hix.70 / :5 : *6  * |0|  #		# - 		
+Hix.70 / :5 : *7  * |1|  #83411	# - Caja de Pensiones Sociales 5110	INDEPENDENCIA 1547	73956	
+Hix.70 / :5 : *8  * |1|  #83414	# - Stoianoff Daniela	25 DE MAYO S/N	74867	
+Hix.70 / :5 : *9  * |0|  #		# - 		
+Hix.70 / :5 : *10 * |0|  #		# - 		
+Hix.70 / :5 : *11 * |1|  #85338	# - FARIAS IRENE NOEMI	COMANDANTE RAZZETTI 556	71795	
+Hix.70 / :5 : *12 * |0|  #		# - 		
+Hix.70 / :5 : *13 * |1|  #83416	# - Maria Claudia Lizarraga	12 DE OCTUBRE 1235	70234	
+Hix.70 / :5 : *14 * |0|  #		# - 		
+Hix.70 / :5 : *15 * |1|  #501015	# - SERRA MARIANA	SAN JUAN 500	349115508361	
+Hix.70 / :5 : *16 * |1|  #501775	# - CEJAS GRISELDA SOLEDAD	20 DE JUNIO 2066	472815	
+Hix.70 / :5 : *17 * |0|  #		# - 		
+Hix.70 / :5 : *18 * |1|  #83424	# - Caro Apolinario	BELGRANO S/N	72024	
+Hix.70 / :5 : *19 * |0|  #		# - 		
+Hix.70 / :5 : *20 * |0|  #		# - 		
+Hix.70 / :5 : *21 * |0|  #		# - 		
+Hix.70 / :5 : *22 * |0|  #		# - 		
+Hix.70 / :5 : *23 * |0|  #		# - 		
+Hix.70 / :5 : *24 * |0|  #		# - 		
+Hix.70 / :5 : *25 * |0|  #		# - 		
+Hix.70 / :5 : *26 * |1|  #500114	# - CICILIN ELVIRA - DOMINGUEZ	HAITI 1283	70153	
+Hix.70 / :5 : *27 * |1|  #83434	# - Dipaolo Isabel	JUJUY 1075	71320	
+Hix.70 / :5 : *28 * |0|  #		# - 		
+Hix.70 / :5 : *29 * |1|  #85134	# - SORIA DIEGO RAMON	20 DE JUNIO 2015	71659	
+Hix.70 / :5 : *30 * |0|  #		# - 		
+Hix.70 / :5 : *31 * |0|  #		# - 		
+Hix.70 / :5 : *32 * |1|  #85624	# - ALQUIMAQ SACIF	2 DE ABRIL 1953		
+Hix.70 / :5 : *33 * |1|  #84865	# - UGARTEMENDIA HORACIO	PTE PERON 2279	72801	
+Hix.70 / :5 : *34 * |1|  #85479	# - MORENO LUCIANA ANTONELLA	20 DE JUNIO 1927	15418365	
+Hix.70 / :5 : *35 * |0|  #		# - 		
+Hix.70 / :5 : *36 * |0|  #		# - 		
+Hix.70 / :5 : *37 * |1|  #500096	# - SOSA RAMON DOMINGO	SANTA CRUZ 1580	71032	
+Hix.70 / :5 : *38 * |0|  #		# - 		
+Hix.70 / :5 : *39 * |2|  #		# - 		
+Hix.70 / :5 : *40 * |0|  #		# - 		
+Hix.70 / :5 : *41 * |0|  #		# - 		
+Hix.70 / :5 : *42 * |1|  #85845	# - ARANDA ANDREA VERONICA	SANTO DOMINGO 1349	72493	
+Hix.70 / :5 : *43 * |0|  #		# - 		
+Hix.70 / :5 : *44 * |2|  #		# - 		
+Hix.70 / :5 : *45 * |2|  #		# - 		
+Hix.70 / :5 : *46 * |2|  #		# - 		
+Hix.70 / :5 : *47 * |0|  #		# - 		
+Hix.70 / :5 : *48 * |0|  #		# - 		
+Hix.70 / :5 : *49 * |0|  #		# - 		
+Hix.70 / :5 : *50 * |1|  #85092	# - ZARATE LIOBA	25 DE MAYO 2472	73768	
+Hix.70 / :5 : *51 * |0|  #		# - 		
+Hix.70 / :5 : *52 * |0|  #		# - 		
+Hix.70 / :5 : *53 * |0|  #		# - 		
+Hix.70 / :5 : *54 * |1|  #85560	# - MOJICA MARGARITA HAYDEE	SALTA 1534	74792	
+Hix.70 / :5 : *55 * |1|  #84516	# - Peralta Silvana Edit	20 DE JUNIO 2000	71776	
+Hix.70 / :5 : *56 * |1|  #85524	# - ASTURIANO NICOLE	ARTURO ILLIA S/N	70023	
+Hix.70 / :5 : *57 * |0|  #		# - 		
+Hix.70 / :5 : *58 * |0|  #		# - 		
+Hix.70 / :5 : *59 * |0|  #		# - 		
+Hix.70 / :5 : *60 * |1|  #85581	# - GARCILAZO ELIANA DELFINA	SAN JUAN Y LA PAMPA		
+Hix.70 / :5 : *61 * |1|  #85344	# - CARDOZO GLORIA INES	25 DE MAYO Y JUJUY	74995	
+Hix.70 / :5 : *62 * |1|  #83459	# - Bozo Luis	AV. SAN MARTIN 1271	70585	
+Hix.70 / :5 : *63 * |0|  #		# - 		
+Hix.70 / :5 : *64 * |1|  #83737	# - Silvestre Raul Fabian	C. ABEL CORONEL 1984	71012	
+Hix.70 / :5 : *65 * |1|  #85593	# - CEJAS CARLOS ERNESTO	BELGRANO 1825		
+Hix.70 / :5 : *66 * |0|  #		# - 		
+Hix.70 / :5 : *67 * |0|  #		# - 		
+Hix.70 / :5 : *68 * |0|  #		# - 		
+Hix.70 / :5 : *69 * |0|  #		# - 		
+Hix.70 / :5 : *70 * |0|  #		# - 		
+Hix.70 / :5 : *71 * |1|  #83817	# - Cabana Martha	20 DE JUNIO Y SALTA	72124	
+Hix.70 / :5 : *72 * |1|  #85094	# - GOETSCHI GERMAN	25 DE MAYO 1959	75874	
+Hix.70 / :6 : *1  * |1|  #85172	# - LEDESMA ANACLETA GALARZA DE	SALTA 1066	72224	
+Hix.70 / :6 : *2  * |0|  #		# - 		
+Hix.70 / :6 : *3  * |1|  #502159	# - CORDOBA DANIEL NICOLAS	LOS ANDES 1080	3424453957	
+Hix.70 / :6 : *4  * |0|  #		# - 		
+Hix.70 / :6 : *5  * |1|  #85461	# - SALA JORGE ANTONIO	SANTA CRUZ 1554	71060	
+Hix.70 / :6 : *6  * |0|  #		# - 		
+Hix.70 / :6 : *7  * |1|  #502252	# - CARRIZO NESTOR ADRIAN	MADRE Y ABUELAS DE PLAZA DE MAYO	3491503118	
+Hix.70 / :6 : *8  * |0|  #		# - 		
+Hix.70 / :6 : *9  * |0|  #		# - 		
+Hix.70 / :6 : *10 * |0|  #		# - 		
+Hix.70 / :6 : *11 * |1|  #500816	# - ALEMAN VICENTE Y SALVATIERRA	9 DE JULIO 2474	74419	
+Hix.70 / :6 : *12 * |0|  #		# - 		
+Hix.70 / :6 : *13 * |1|  #83659	# - Garcia Raul Omar	JUJUY 1028	471739	
+Hix.70 / :6 : *14 * |0|  #		# - 		
+Hix.70 / :6 : *15 * |0|  #		# - 		
+Hix.70 / :6 : *16 * |0|  #		# - 		
+Hix.70 / :6 : *17 * |0|  #		# - 		
+Hix.70 / :6 : *18 * |0|  #		# - 		
+Hix.70 / :6 : *19 * |0|  #		# - 		
+Hix.70 / :6 : *20 * |0|  #		# - 		
+Hix.70 / :6 : *21 * |0|  #		# - 		
+Hix.70 / :6 : *22 * |1|  #501275	# - ANDREU EDELVEIS ANABEL	SAAVEDRA 643	73796	
+Hix.70 / :6 : *23 * |1|  #500737	# - SALGADO GRISELDA MARIA	SANTIAGO DEL ESTERO 1721	70166	
+Hix.70 / :6 : *24 * |1|  #500570	# - BARRETO GABRIELA BEATRIZ	20 DE JUNIO 2405	75846	
+Hix.70 / :6 : *25 * |0|  #		# - 		
+Hix.70 / :6 : *26 * |1|  #85615	# - VELAZQUEZ JOSE ANTONIO MARCOS	PTE. PERON Y LA RIOJA	0	
+Hix.70 / :6 : *27 * |0|  #		# - 		
+Hix.70 / :6 : *28 * |1|  #500833	# - VERDUGO FRANCO EZEQUIEL	SALTA 1141	3491581265	
+Hix.70 / :6 : *29 * |0|  #		# - 		
+Hix.70 / :6 : *30 * |0|  #		# - 		
+Hix.70 / :6 : *31 * |0|  #		# - 		
+Hix.70 / :6 : *32 * |1|  #83647	# - Guex Walter	JUJUY 1221	71249	
+Hix.70 / :6 : *33 * |0|  #		# - 		
+Hix.70 / :6 : *34 * |2|  #		# - 		
+Hix.70 / :6 : *35 * |2|  #		# - 		
+Hix.70 / :6 : *36 * |1|  #83759	# - Nizzo Mariela -Ibarra-	COMANDANTE RAZZETTI 680	71070	
+Hix.70 / :6 : *37 * |1|  #4	    # - Tecnica - Martin			
+Hix.70 / :6 : *38 * |0|  #		# - 		
+Hix.70 / :6 : *39 * |0|  #		# - 		
+Hix.70 / :6 : *40 * |1|  #83588	# - Ponce Nelida	HAITI 1293	72207	
+Hix.70 / :6 : *41 * |0|  #		# - 		
+Hix.70 / :6 : *42 * |0|  #		# - 		
+Hix.70 / :6 : *43 * |0|  #		# - 		
+Hix.70 / :6 : *44 * |0|  #		# - 		
+Hix.70 / :6 : *45 * |0|  #		# - 		
+Hix.70 / :6 : *46 * |1|  #500574	# - PERRIG ROMINA NATALIA	9 DE JULIO 2084	79509	
+Hix.70 / :6 : *47 * |0|  #		# - 		
+Hix.70 / :6 : *48 * |0|  #		# - 		
+Hix.70 / :6 : *49 * |1|  #83771	# - Melo Ismael Adelio	ART. RAMON VILLARREAL 1675	72068	
+Hix.70 / :6 : *50 * |2|  #		# - 		
+Hix.70 / :6 : *51 * |1|  #85109	# - NIZZO JUAN IGNACIO	SAAVEDRA 1083	71766	
+Hix.70 / :6 : *52 * |0|  #		# - 		
+Hix.70 / :6 : *53 * |0|  #		# - 		
+Hix.70 / :6 : *54 * |0|  #		# - 		
+Hix.70 / :6 : *55 * |0|  #		# - 		
+Hix.70 / :6 : *56 * |0|  #		# - 		
+Hix.70 / :6 : *57 * |0|  #		# - 		
+Hix.70 / :6 : *58 * |0|  #		# - 		
+Hix.70 / :6 : *59 * |0|  #		# - 		
+Hix.70 / :6 : *60 * |0|  #		# - 		
+Hix.70 / :6 : *61 * |0|  #		# - 		
+Hix.70 / :6 : *62 * |0|  #		# - 		
+Hix.70 / :6 : *63 * |0|  #		# - 		
+Hix.70 / :6 : *64 * |1|  #84433	# - Odiante Jonatan	GUEMES 1043	72913	
+Hix.70 / :6 : *65 * |0|  #		# - 		
+Hix.70 / :6 : *66 * |1|  #83671	# - Veron Dora Peralta de	AV. RIVADAVIA 1267	70083	
+Hix.70 / :6 : *67 * |1|  #501148	# - BAZAN DAIANA MICAELA	9 DE JULIO 1941	3491696424	
+Hix.70 / :6 : *68 * |2|  #		# - 		
+Hix.70 / :6 : *69 * |0|  #		# - 		
+Hix.70 / :6 : *70 * |1|  #84440	# - King Gladis	PTE PERON 2271	72558	
+Hix.70 / :6 : *71 * |0|  #		# - 		
+Hix.70 / :6 : *72 * |1|  #83314	# - Ramos Domingo	ART. RAMON VILLARREAL 1596	70012	
+Hix.70 / :7 : *1  * |0|  #		# - 		
+Hix.70 / :7 : *2  * |0|  #		# - 		
+Hix.70 / :7 : *3  * |0|  #		# - 		
+Hix.70 / :7 : *4  * |0|  #		# - 		
+Hix.70 / :7 : *5  * |0|  #		# - 		
+Hix.70 / :7 : *6  * |1|  #500429	# - CANCINA FABIO ARIEL	BRIGADIER ESTANISLAO LOPEZ 1319	75358	
+Hix.70 / :7 : *7  * |0|  #		# - 		
+Hix.70 / :7 : *8  * |1|  #85525	# - ALVAREZ JUAN IGNACIO	COSTA RICA 1248	11	
+Hix.70 / :7 : *9  * |0|  #		# - 		
+Hix.70 / :7 : *10 * |0|  #		# - 		
+Hix.70 / :7 : *11 * |0|  #		# - 		
+Hix.70 / :7 : *12 * |0|  #		# - 		
+Hix.70 / :7 : *13 * |0|  #		# - 		
+Hix.70 / :7 : *14 * |0|  #		# - 		
+Hix.70 / :7 : *15 * |0|  #		# - 		
+Hix.70 / :7 : *16 * |0|  #		# - 		
+Hix.70 / :7 : *17 * |0|  #		# - 		
+Hix.70 / :7 : *18 * |0|  #		# - 		
+Hix.70 / :7 : *19 * |0|  #		# - 		
+Hix.70 / :7 : *20 * |0|  #		# - 		
+Hix.70 / :7 : *21 * |1|  #83534	# - TANOYRA MARIA DELIA -ex mercau-	SARMIENTO Y SAN LORENZO	70320	
+Hix.70 / :7 : *22 * |0|  #		# - 		
+Hix.70 / :7 : *23 * |1|  #84447	# - Landriel Raul	SAN JUAN 535	71262	
+Hix.70 / :7 : *24 * |0|  #		# - 		
+Hix.70 / :7 : *25 * |1|  #85022	# - BRIGNONI EDDA	25 DE MAYO S/N	70742	
+Hix.70 / :7 : *26 * |0|  #		# - 		
+Hix.70 / :7 : *27 * |0|  #		# - 		
+Hix.70 / :7 : *28 * |0|  #		# - 		
+Hix.70 / :7 : *29 * |0|  #		# - 		
+Hix.70 / :7 : *30 * |2|  #		# - 		
+Hix.70 / :7 : *31 * |0|  #		# - 		
+Hix.70 / :7 : *32 * |0|  #		# - 		
+Hix.70 / :7 : *33 * |0|  #		# - 		
+Hix.70 / :7 : *34 * |0|  #		# - 		
+Hix.70 / :7 : *35 * |0|  #		# - 		
+Hix.70 / :7 : *36 * |0|  #		# - 		
+Hix.70 / :7 : *37 * |0|  #		# - 		
+Hix.70 / :7 : *38 * |1|  #83720	# - Miqueles Pedro	SAAVEDRA 690	72271	
+Hix.70 / :7 : *39 * |1|  #85123	# - CENTRO DE JUBILADOS Y PENSIONADOS 9 DE J	BALCARCE 1132	75403	
+Hix.70 / :7 : *40 * |1|  #501193	# - SAYAGO JORGE	SAAVEDRA PASANDO RIO NEGRO DPTO 1	3491446194	
+Hix.70 / :7 : *41 * |0|  #		# - 		
+Hix.70 / :7 : *42 * |1|  #500752	# - GONZALEZ EMMANUEL HUMBERT	9 DE JULIO 1941	111532558684	
+Hix.70 / :7 : *43 * |0|  #		# - 		
+Hix.70 / :7 : *44 * |0|  #		# - 		
+Hix.70 / :7 : *45 * |0|  #		# - 		
+Hix.70 / :7 : *46 * |0|  #		# - 		
+Hix.70 / :7 : *47 * |1|  #85810	# - BUSTOS ALEXIS	SAAVEDRA 652	70302	
+Hix.70 / :7 : *48 * |1|  #500856	# - MANSILLA ANGELICA INES	JOSE FELIX 1323	75795	
+Hix.70 / :7 : *49 * |0|  #		# - 		
+Hix.70 / :7 : *50 * |1|  #83738	# - Lopumo Sergio y Angel (GRIDO)	SARMIENTO 1245	72689	
+Hix.70 / :7 : *51 * |0|  #		# - 		
+Hix.70 / :7 : *52 * |0|  #		# - 		
+Hix.70 / :7 : *53 * |0|  #		# - 		
+Hix.70 / :7 : *54 * |1|  #83741	# - Elustondo Mara Gisela	SANTIAGO DEL ESTERO	73980	
+Hix.70 / :7 : *55 * |0|  #		# - 		
+Hix.70 / :7 : *56 * |0|  #		# - 		
+Hix.70 / :7 : *57 * |0|  #		# - 		
+Hix.70 / :7 : *58 * |0|  #		# - 		
+Hix.70 / :7 : *59 * |0|  #		# - 		
+Hix.70 / :7 : *60 * |1|  #83756	# - Moreyra Marcelo Oscar	SAN LORENZO 1632	70540	
+Hix.70 / :7 : *61 * |0|  #		# - 		
+Hix.70 / :7 : *62 * |0|  #		# - 		
+Hix.70 / :7 : *63 * |1|  #501166	# - ROJAS VIRGINIA ANTONELLA	SAAVEDRA ENTRE CHUBUT Y SANTA CRUZ	3491431986	
+Hix.70 / :7 : *64 * |0|  #		# - 		
+Hix.70 / :7 : *65 * |1|  #85137	# - GIMENEZ ROBERTO MARCELO	GOB SILVESTRE BEGNIS 1743	75912	
+Hix.70 / :7 : *66 * |0|  #		# - 		
+Hix.70 / :7 : *67 * |0|  #		# - 		
+Hix.70 / :7 : *68 * |0|  #		# - 		
+Hix.70 / :7 : *69 * |1|  #85491	# - ZURITA ROGELIA NORMA	URUGUAY S/N	75132	
+Hix.70 / :7 : *70 * |1|  #85585	# - ZABALA FABIAN ANIBAL	SAN JUAN 535		
+Hix.70 / :7 : *71 * |0|  #		# - 		
+Hix.70 / :7 : *72 * |0|  #		# - 		
+Hix.70 / :8 : *1  * |1|  #85151	# - PERALTA EDUARDO JOSE	LA RIOJA S/N	72576	
+Hix.70 / :8 : *2  * |0|  #		# - 		
+Hix.70 / :8 : *3  * |1|  #501823	# - GAMARRA VICTOR HUGO	SANTIAGO DEL ESTERO (DPTO ATRAS)	3491538867	
+Hix.70 / :8 : *4  * |1|  #85152	# - VOISARD DIEGO GERMAN	5 DE NOVIEMBRE 2101	72531	
+Hix.70 / :8 : *5  * |0|  #		# - 		
+Hix.70 / :8 : *6  * |1|  #85149	# - GAUNA NILDA	SANTIAGO DEL ESTERO 1563	75832	baja
+Hix.70 / :8 : *7  * |0|  #		# - 		
+Hix.70 / :8 : *8  * |0|  #		# - 		
+Hix.70 / :8 : *9  * |0|  #		# - 		
+Hix.70 / :8 : *10 * |1|  #84615	# - Ledesma Raul	SAAVEDRA 881	71276	
+Hix.70 / :8 : *11 * |1|  #501808	# - ASTURIANO WILFREDO	ARTURO LILA 886	3491537755	
+Hix.70 / :8 : *12 * |0|  #		# - 		
+Hix.70 / :8 : *13 * |0|  #		# - 		
+Hix.70 / :8 : *14 * |1|  #85451	# - GAMBATESE ROXANA	BRIG. LOPEZ ENTRE VUELTA DE OBLIG. Y JUAN MAN.	3491699521	
+Hix.70 / :8 : *15 * |0|  #		# - 		
+Hix.70 / :8 : *16 * |0|  #		# - 		
+Hix.70 / :8 : *17 * |0|  #		# - 		
+Hix.70 / :8 : *18 * |0|  #		# - 		
+Hix.70 / :8 : *19 * |1|  #83851	# - Lutte Juan Carlos	AV. RIVADAVIA 1376	70707	
+Hix.70 / :8 : *20 * |0|  #		# - 		
+Hix.70 / :8 : *21 * |0|  #		# - 		
+Hix.70 / :8 : *22 * |0|  #		# - 		
+Hix.70 / :8 : *23 * |1|  #83859	# - Garcia Edit Isabel	HIPOLITO IRIGOYEN 655	74799	
+Hix.70 / :8 : *24 * |1|  #83862	# - Gonzalez Estela	ART. RAMON VILLARREAL 1534	72136	
+Hix.70 / :8 : *25 * |0|  #		# - 		
+Hix.70 / :8 : *26 * |0|  #		# - 		
+Hix.70 / :8 : *27 * |0|  #		# - 		
+Hix.70 / :8 : *28 * |1|  #83196	# - ROSSO ROBERTO	JUJUY 1056	75406	
+Hix.70 / :8 : *29 * |0|  #		# - 		
+Hix.70 / :8 : *30 * |0|  #		# - 		
+Hix.70 / :8 : *31 * |0|  #		# - 		
+Hix.70 / :8 : *32 * |1|  #500736	# - BUSTOS CARLOS DOMINGO	25 DE MAYO S/N	71473	
+Hix.70 / :8 : *33 * |0|  #		# - 		
+Hix.70 / :8 : *34 * |0|  #		# - 		
+Hix.70 / :8 : *35 * |1|  #83439	# - Montenegro Luis Horacio	Sarmiento 1346	474730	
+Hix.70 / :8 : *36 * |0|  #		# - 		
+Hix.70 / :8 : *37 * |1|  #84843	# - PERGOLESI DELFINA	COMANDANTE RAZZETTI 866	74505	
+Hix.70 / :8 : *38 * |1|  #85420	# - LEMOS GRISELDA MARGARITA	REPUBLICA ARGENTINA 2740	72172	
+Hix.70 / :8 : *39 * |1|  #83881	# - Seib Ruben Aurelio	SAAVEDRA Y SANTIAGO DEL ESTERO	70219	
+Hix.70 / :8 : *40 * |0|  #		# - 		
+Hix.70 / :8 : *41 * |0|  #		# - 		
+Hix.70 / :8 : *42 * |0|  #		# - 		
+Hix.70 / :8 : *43 * |0|  #		# - 		
+Hix.70 / :8 : *44 * |1|  #85186	# - BANEGA AIDE BONIFACIA	ISLAS MALVINAS 123	74281	
+Hix.70 / :8 : *45 * |1|  #83892	# - Campos Amanda	12 DE OCTUBRE 1480	71770	
+Hix.70 / :8 : *46 * |0|  #		# - 		
+Hix.70 / :8 : *47 * |0|  #		# - 		
+Hix.70 / :8 : *48 * |1|  #83897	# - Papazian Gerardo	ALVEAR 1311	71462	
+Hix.70 / :8 : *49 * |0|  #		# - 		
+Hix.70 / :8 : *50 * |0|  #		# - 		
+Hix.70 / :8 : *51 * |0|  #		# - 		
+Hix.70 / :8 : *52 * |0|  #		# - 		
+Hix.70 / :8 : *53 * |0|  #		# - 		
+Hix.70 / :8 : *54 * |0|  #		# - 		
+Hix.70 / :8 : *55 * |1|  #85177	# - BEJARANO MARIA MARTINA	BOLIVIA S/N	74760	
+Hix.70 / :8 : *56 * |0|  #		# - 		
+Hix.70 / :8 : *57 * |1|  #85576	# - MORAND HORACIO	GDOR SILVESTRE BEGNIS Y GALVEZ	72243	
+Hix.70 / :8 : *58 * |0|  #		# - 		
+Hix.70 / :8 : *59 * |0|  #		# - 		
+Hix.70 / :8 : *60 * |1|  #83914	# - Defago Ruben	COMANDANTE RAZZETTI 980	70347	
+Hix.70 / :8 : *61 * |0|  #		# - 		
+Hix.70 / :8 : *62 * |0|  #		# - 		
+Hix.70 / :8 : *63 * |0|  #		# - 		
+Hix.70 / :8 : *64 * |0|  #		# - 		
+Hix.70 / :8 : *65 * |0|  #		# - 		
+Hix.70 / :8 : *66 * |1|  #500179	# - GIMENEZ ROMINA	SAAVEDRA 636 CASA 7	75612	
+Hix.70 / :8 : *67 * |1|  #501832	# - ROSSA GERMAN	JULIO A ROCCA Y BRIGADIER E.		
+Hix.70 / :8 : *68 * |1|  #85179	# - SARCO ANDREA CELESTE	ARTESANO RAMON VILLARREAL ENTRE SAAVEDRA Y GALVEZ	75651	
+Hix.70 / :8 : *69 * |0|  #		# - 		
+Hix.70 / :8 : *70 * |0|  #		# - 		
+Hix.70 / :8 : *71 * |0|  #		# - 		
+Hix.70 / :8 : *72 * |0|  #	    # - 
+Hix.70 / :11	: *1	* |1|	#84473	# - Bozo Luis	GOB GALVEZ 745	73227 - 71055	
+Hix.70 / :11	: *2	* |1|	#501241	# - CABADAS JAVIER RAMON	25 DE MAYO 1972	71196	
+Hix.70 / :11	: *3	* |0|	#		# - 		
+Hix.70 / :11	: *4	* |0|	#		# - 		
+Hix.70 / :11	: *5	* |1|	#85570	# - CORREA DIEGO ARMANDO	ART. RAMON VILLARREAL 1686	75537	
+Hix.70 / :11	: *6	* |1|	#501112	# - ACASTELLO DAVID JOSE E.	5 DE NOVIEMBRE S/N	3491507833	
+Hix.70 / :11	: *7	* |0|	#		# - 		
+Hix.70 / :11	: *8	* |1|	#84394	# - Araujo Mirta Graciela	ISLAS MALVINAS 200	74226	
+Hix.70 / :11	: *9	* |0|	#		# - 		
+Hix.70 / :11	: *10	* |1|	#501818	# - SOSA RAMONA LILIANA	ANGELA PERALTA PINO Y HECTOR ESTELA	472886	
+Hix.70 / :11	: *11	* |0|	#		# - 		
+Hix.70 / :11	: *12	* |1|	#85808	# - HERNANDEZ JOSE LUIS RAUL	LOS ANDES S/N	72741	
+Hix.70 / :11	: *13	* |1|	#83969	# - Fernandez America - Avila	BOLIVIA 1285	72580	
+Hix.70 / :11	: *14	* |0|	#		# - 		
+Hix.70 / :11	: *15	* |0|	#		# - 		
+Hix.70 / :11	: *16	* |1|	#501318	# - SANTILLAN ZULEMA VERONICA	SANTA CRUZ S/N	3491440122	
+Hix.70 / :11	: *17	* |0|	#		# - 		
+Hix.70 / :11	: *18	* |0|	#		# - 		
+Hix.70 / :11	: *19	* |0|	#		# - 		
+Hix.70 / :11	: *20	* |0|	#		# - 		
+Hix.70 / :11	: *21	* |0|	#		# - 		
+Hix.70 / :11	: *22	* |0|	#		# - 		
+Hix.70 / :11	: *23	* |1|	#83957	# - Ibarra Maria Ester	25 DE MAYO 2340	73682	
+Hix.70 / :11	: *24	* |0|	#		# - 		
+Hix.70 / :11	: *25	* |0|	#		# - 		
+Hix.70 / :11	: *26	* |1|	#83298	# - NELLEN MARTA	SILVESTRE BEGNIS 1775	71080	
+Hix.70 / :11	: *27	* |1|	#83347	# - VAROLI MARIA	SALTA 1026	71495	
+Hix.70 / :11	: *28	* |0|	#		# - 		
+Hix.70 / :11	: *29	* |0|	#		# - 		
+Hix.70 / :11	: *30	* |0|	#		# - 		
+Hix.70 / :11	: *31	* |0|	#		# - 		
+Hix.70 / :11	: *32	* |0|	#		# - 		
+Hix.70 / :11	: *33	* |1|	#83966	# - Zapata Walter Osvaldo	SALTA 1055	73741	
+Hix.70 / :11	: *34	* |1|	#85545	# - CARABAJAL RICARDO ADRIAN	SANTO DOMINGO 1268	75582	
+Hix.70 / :11	: *35	* |0|	#		# - 		
+Hix.70 / :11	: *36	* |0|	#		# - 		
+Hix.70 / :11	: *37	* |0|	#		# - 		
+Hix.70 / :11	: *38	* |0|	#		# - 		
+Hix.70 / :11	: *39	* |0|	#		# - 		
+Hix.70 / :11	: *40	* |0|	#		# - 		
+Hix.70 / :11	: *41	* |1|	#83982	# - Coidarripe Maria Carolina	JUJUY 1147	70173	
+Hix.70 / :11	: *42	* |1|	#502125	# - DIAS HERNAN EZEQUIEL	SAN JUAN AL 500	3491441603	
+Hix.70 / :11	: *43	* |0|	#		# - 		
+Hix.70 / :11	: *44	* |0|	#		# - 		
+Hix.70 / :11	: *45	* |0|	#		# - 		
+Hix.70 / :11	: *46	* |1|	#84006	# - Rosso Hector Jose -casa-	JUJUY 1163	72203	
+Hix.70 / :11	: *47	* |0|	#		# - 		
+Hix.70 / :11	: *48	* |0|	#		# - 		
+Hix.70 / :11	: *49	* |0|	#		# - 		
+Hix.70 / :11	: *50	* |1|	#83256	# - Aballay Juan	SAN JUAN 764	72450	
+Hix.70 / :11	: *51	* |0|	#		# - 		
+Hix.70 / :11	: *52	* |1|	#84741	# - Cejas Ambrocio	ANTARTIDA ARGENTINA 548	71857	
+Hix.70 / :11	: *53	* |0|	#		# - 		
+Hix.70 / :11	: *54	* |1|	#85436	# - ROLDAN GABRIELA	COMANDANTE RAZZETTI S/N	75992	
+Hix.70 / :11	: *55	* |0|	#		# - 		
+Hix.70 / :11	: *56	* |0|	#		# - 		
+Hix.70 / :11	: *57	* |1|	#85608	# - LEGA JALIL	AV. RIVADAVIA 1259	70426	
+Hix.70 / :11	: *58	* |1|	#85807	# - PERALTA VIVIANA MARICEL	HAITI 1248	663636363	
+Hix.70 / :11	: *59	* |0|	#		# - 		
+Hix.70 / :11	: *60	* |0|	#		# - 		
+Hix.70 / :11	: *61	* |1|	#501947	# - ALTAMIRANO LUCIANO MARTIN	RIO NEGRO 1981	3491541422	
+Hix.70 / :11	: *62	* |1|	#85626	# - ACOSTA ROSA PATRICIA	BOLIVIA Y 25 DE MAYO	75070	
+Hix.70 / :11	: *63	* |1|	#85245	# - MENDOZA DALMACIO NICOLAS	VENEZUELA 2806	75346	
+Hix.70 / :11	: *64	* |0|	#		# - 		
+Hix.70 / :11	: *65	* |0|	#		# - 		
+Hix.70 / :11	: *66	* |1|	#84087	# - Segovia Silvia	NEUQUEN 1846	72868	
+Hix.70 / :11	: *67	* |0|	#		# - 		
+Hix.70 / :11	: *68	* |0|	#		# - 		
+Hix.70 / :11	: *69	* |0|	#		# - 		
+Hix.70 / :11	: *70	* |0|	#		# - 		
+Hix.70 / :11	: *71	* |0|	#		# - 		
+Hix.70 / :11	: *72	* |0|	#		# - 		
+Hix.70 / :12	: *1	* |0|	#		# - 		
+Hix.70 / :12	: *2	* |1|	#85640	# - RUIZ DIAZ VIVIANA GUADALUPE	25 DE MAYO 2068	75592	
+Hix.70 / :12	: *3	* |1|	#500137	# - DIAZ MARA MARIANELA	COMANDANTE RAZZETTI DPTO A		
+Hix.70 / :12	: *4	* |1|	#84528	# - Vega Susana	2 DE ABRIL 2067	71263	
+Hix.70 / :12	: *5	* |1|	#500307	# - MORENO JULIO HUMBERTO	URUGUAY 1250	73696	
+Hix.70 / :12	: *6	* |1|	#85452	# - PINO MARTA BEATRIZ	JULIO A ROCCA Y TIERRA DEL FUEGO	75585	
+Hix.70 / :12	: *7	* |0|	#		# - 		
+Hix.70 / :12	: *8	* |0|	#		# - 		
+Hix.70 / :12	: *9	* |1|	#501343	# - BASANO ISABEL MAGDALENA	URUGUAY Y 9 DE JULIO	3857414860	
+Hix.70 / :12	: *10	* |0|	#		# - 		
+Hix.70 / :12	: *11	* |1|	#84617	# - Roldan marilin Rosana	BRIGADIER LOPEZ -entre I. Mailvinas y Vuelta de O.	75351	
+Hix.70 / :12	: *12	* |0|	#		# - 		
+Hix.70 / :12	: *13	* |0|	#		# - 		
+Hix.70 / :12	: *14	* |0|	#		# - 		
+Hix.70 / :12	: *15	* |0|	#		# - 		
+Hix.70 / :12	: *16	* |0|	#		# - 		
+Hix.70 / :12	: *17	* |0|	#		# - 		
+Hix.70 / :12	: *18	* |1|	#85826	# - KARAN LUIS HECTOR	INDEPENDENCIA 1754	73871	
+Hix.70 / :12	: *19	* |1|	#84161	# - Saucina Luis	COSTA RICA 1283	72098	BAJA
+Hix.70 / :12	: *20	* |0|	#		# - 		
+Hix.70 / :12	: *21	* |0|	#		# - 		
+Hix.70 / :12	: *22	* |0|	#		# - 		
+Hix.70 / :12	: *23	* |0|	#		# - 		
+Hix.70 / :12	: *24	* |1|	#85248	# - FERNANDEZ ROQUE	CABO ABEL CORONEL S/N	74551	
+Hix.70 / :12	: *25	* |0|	#		# - 		
+Hix.70 / :12	: *26	* |0|	#		# - 		
+Hix.70 / :12	: *27	* |1|	#501229	# - PICCO WALTER ALEJANDRO	5 DE NOVIEMBRE S/N	72561	
+Hix.70 / :12	: *28	* |1|	#85291	# - ASOCIACION MUTUAL ATE	12 DE OCTUBRE Y ALVEAR	72676	
+Hix.70 / :12	: *29	* |0|	#		# - 		
+Hix.70 / :12	: *30	* |0|	#		# - 		
+Hix.70 / :12	: *31	* |0|	#		# - 		
+Hix.70 / :12	: *32	* |0|	#		# - 		
+Hix.70 / :12	: *33	* |0|	#		# - 		
+Hix.70 / :12	: *34	* |1|	#84111	# - Karfis osvaldo Reyes	ANTARTIDA ARGENTINA 485	75047	
+Hix.70 / :12	: *35	* |1|	#84112	# - Vizcarra Graciela	HIPOLITO YRIGOYEN 765	73592	
+Hix.70 / :12	: *36	* |0|	#		# - 		
+Hix.70 / :12	: *37	* |1|	#85087	# - IRURETAGOYENA CARLOS	LOS ANDES 1003	75485	
+Hix.70 / :12	: *38	* |0|	#		# - 		
+Hix.70 / :12	: *39	* |1|	#84119	# - Cejas Arsenio	ANGELA PERALTA PINO S/N	74492	
+Hix.70 / :12	: *40	* |0|	#		# - 		
+Hix.70 / :12	: *41	* |0|	#		# - 		
+Hix.70 / :12	: *42	* |0|	#		# - 		
+Hix.70 / :12	: *43	* |0|	#		# - 		
+Hix.70 / :12	: *44	* |1|	#84129	# - Yedro Nora Raquel	SALTA 1438	474389	
+Hix.70 / :12	: *45	* |0|	#		# - 		
+Hix.70 / :12	: *46	* |1|	#85385	# - FERNANDEZ ALBERTO	TUCUMAN 1640 -Depto 3-	15415488	
+Hix.70 / :12	: *47	* |0|	#		# - 		
+Hix.70 / :12	: *48	* |0|	#		# - 		
+Hix.70 / :12	: *49	* |1|	#84875	# - AGUIRRE OSCAR ALBERTO	PTE PERON 1826	74321	
+Hix.70 / :12	: *50	* |1|	#84595	# - Sarco Gabriela	SAN JUAN 732	75966	
+Hix.70 / :12	: *51	* |1|	#84537	# - Gambatese Roque y Ahmad Romina	COMANDANTE RAZZETTI Y EVA PERO	72878	
+Hix.70 / :12	: *52	* |0|	#		# - 		
+Hix.70 / :12	: *53	* |1|	#85261	# - GARAY OSCAR ANIBAL	COSTA RICA 1263	73818	
+Hix.70 / :12	: *54	* |0|	#		# - 		
+Hix.70 / :12	: *55	* |0|	#		# - 		
+Hix.70 / :12	: *56	* |0|	#		# - 		
+Hix.70 / :12	: *57	* |1|	#85263	# - CLUB SAN LORENZO -Dtos-	SAN LORENZO 1752	75969	
+Hix.70 / :12	: *58	* |0|	#		# - 		
+Hix.70 / :12	: *59	* |0|	#		# - 		
+Hix.70 / :12	: *60	* |0|	#		# - 		
+Hix.70 / :12	: *61	* |0|	#		# - 		
+Hix.70 / :12	: *62	* |0|	#		# - 		
+Hix.70 / :12	: *63	* |0|	#		# - 		
+Hix.70 / :12	: *64	* |0|	#		# - 		
+Hix.70 / :12	: *65	* |0|	#		# - 		
+Hix.70 / :12	: *66	* |0|	#		# - 		
+Hix.70 / :12	: *67	* |0|	#		# - 		
+Hix.70 / :12	: *68	* |1|	#501225	# - GARROFE HUGO JUAN PABLO	JUJUY S/N	70225	
+Hix.70 / :12	: *69	* |0|	#		# - 		
+Hix.70 / :12	: *70	* |0|	#		# - 		
+Hix.70 / :12	: *71	* |0|	#		# - 		
+Hix.70 / :12	: *72	* |1|	#84175	# - Lasota Leoncio	SAAVEDRA 1556	70495	
+Hix.70 / :13	: *1	* |0|	#		# - 		
+Hix.70 / :13	: *2	* |1|	#84177	# - Picco luis Alberto	URUGUAY -entre 20 de junio y 25 de mayo-	72017	
+Hix.70 / :13	: *3	* |0|	#		# - 		
+Hix.70 / :13	: *4	* |	|	#		# - 	
+Hix.70 / :13	: *5	* |1|	#84182	# - Benites Jorge Omar	HAITI 1282	71153	
+Hix.70 / :13	: *6	* |1|	#83828	# - Vega Liliana	5 DE NOVIEMBRE Y GUEMES	475012	
+Hix.70 / :13	: *7	* |0|	#		# - 		
+Hix.70 / :13	: *8	* |1|	#501281	# - PERALTA RAMONA ROSA GOMEZ DE	COSTA RICA 293	72179	
+Hix.70 / :13	: *9	* |1|	#84895	# - GOMEZ VALERIA MARIA ITATI	ARGENTINA Y RECONQUISTA	74270	
+Hix.70 / :13	: *10	* |0|	#		# - 		
+Hix.70 / :13	: *11	* |1|	#83926	# - NUÑEZ ANTONIO	BOLIVIA 1358	74645	
+Hix.70 / :13	: *12	* |0|	#		# - 		
+Hix.70 / :13	: *13	* |0|	#		# - 		
+Hix.70 / :13	: *14	* |0|	#		# - 		
+Hix.70 / :13	: *15	* |0|	#		# - 		
+Hix.70 / :13	: *16	* |0|	#		# - 		
+Hix.70 / :13	: *17	* |0|	#		# - 		
+Hix.70 / :13	: *18	* |1|	#85343	# - ESPINOSA SILVANA GUADALUPE	AV SAN MARTIN 1466	74729	
+Hix.70 / :13	: *19	* |0|	#		# - 		
+Hix.70 / :13	: *20	* |1|	#84204	# - Gorobes Gustavo Gaston	JULIO A ROCCA 217	74720	
+Hix.70 / :13	: *21	* |0|	#		# - 		
+Hix.70 / :13	: *22	* |0|	#		# - 		
+Hix.70 / :13	: *23	* |0|	#		# - 		
+Hix.70 / :13	: *24	* |0|	#		# - 		
+Hix.70 / :13	: *25	* |0|	#		# - 		
+Hix.70 / :13	: *26	* |1|	#85278	# - VERON FERNANDO HUGO	SAN LORENZO 1563	75972	
+Hix.70 / :13	: *27	* |1|	#85896	# - MANSILLA ESEQUIEL ALEJANDRO	20 DE JUNIO 2161	75462	
+Hix.70 / :13	: *28	* |2|	#		# - 		
+Hix.70 / :13	: *29	* |1|	#83402	# - PERREN LIDA	SANTO DOMINGO S/N	73653	
+Hix.70 / :13	: *30	* |0|	#		# - 		
+Hix.70 / :13	: *31	* |1|	#84599	# - Benzel Sergio	CTE. RAZZETTI 574	72962	
+Hix.70 / :13	: *32	* |1|	#84225	# - Benzel Adelina Gotte de	9 DE JULIO 2262	72588	
+Hix.70 / :13	: *33	* |0|	#		# - 		
+Hix.70 / :13	: *34	* |0|	#		# - 		
+Hix.70 / :13	: *35	* |1|	#84248	# - Salgado Maria	SANTA FE 1275	70025	
+Hix.70 / :13	: *36	* |0|	#		# - 		
+Hix.70 / :13	: *37	* |1|	#83960	# - FERNANDEZ ESTEBAN RAMON	COMANDANTE RAZETTI 598	71894	
+Hix.70 / :13	: *38	* |1|	#84374	# - Mijalec Miguel	SAN CRISTOBAL 1226	71808	
+Hix.70 / :13	: *39	* |1|	#84256	# - Garay Mariela	BOLIVIA 1300	74659	
+Hix.70 / :13	: *40	* |0|	#		# - 		
+Hix.70 / :13	: *41	* |0|	#		# - 		
+Hix.70 / :13	: *42	* |0|	#		# - 		
+Hix.70 / :13	: *43	* |1|	#84136	# - Vera Jaquelina	25 DE MAYO 2380	473928	
+Hix.70 / :13	: *44	* |0|	#		# - 		
+Hix.70 / :13	: *45	* |0|	#		# - 		
+Hix.70 / :13	: *46	* |0|	#		# - 		
+Hix.70 / :13	: *47	* |0|	#		# - 		
+Hix.70 / :13	: *48	* |1|	#85877	# - ROJAS CARLOS EZEQUIEL	20 DE JUNIO 2309	74563	
+Hix.70 / :13	: *49	* |0|	#		# - 		
+Hix.70 / :13	: *50	* |0|	#		# - 		
+Hix.70 / :13	: *51	* |0|	#		# - 		
+Hix.70 / :13	: *52	* |0|	#		# - 		
+Hix.70 / :13	: *53	* |0|	#		# - 		
+Hix.70 / :13	: *54	* |0|	#		# - 		
+Hix.70 / :13	: *55	* |0|	#		# - 		
+Hix.70 / :13	: *56	* |0|	#		# - 		
+Hix.70 / :13	: *57	* |1|	#84294	# - Brignoni Patricia	25 DE MAYO Y BOLIVIA	73920	
+Hix.70 / :13	: *58	* |0|	#		# - 		
+Hix.70 / :13	: *59	* |1|	#84307	# - Lagrana Gisela Paola	SANTO DOMINGO 1361	71876	
+Hix.70 / :13	: *60	* |0|	#		# - 		
+Hix.70 / :13	: *61	* |1|	#84304	# - Mercado Rosa Maria - Giromini Alfredo Roberto	HIPOLITO IRIGOYEN 749	72435	
+Hix.70 / :13	: *62	* |	|	#		# - 	
+Hix.70 / :13	: *63	* |2|	#		# - 		
+Hix.70 / :13	: *64	* |0|	#		# - 		
+Hix.70 / :13	: *65	* |1|	#80100	# - MUNICIPALIDAD DE TOSTADO	AV SAN MARTIN		
+Hix.70 / :13	: *66	* |1|	#84315	# - Fonatana Griselda	INDEPENDENCIA 1433	72026	
+Hix.70 / :13	: *67	* |0|	#		# - 		
+Hix.70 / :13	: *68	* |0|	#		# - 		
+Hix.70 / :13	: *69	* |1|	#84585	# - Silva Hugo	AV RIVADAVIA 1147	72077	
+Hix.70 / :13	: *70	* |0|	#		# - 		
+Hix.70 / :13	: *71	* |0|	#		# - 		
+Hix.70 / :13	: *72	* |0|	#		# - 		
+Hix.70 / :14	: *1	* |1|	#84988	# - LOGIOCO MIRNA GLORIA	BELGRANO s/n -Dpto1-	75711	
+Hix.70 / :14	: *2	* |1|	#500587	# - TEMPLADO ERIKA MARIELA	20 DE JUNIO 1953	70073	
+Hix.70 / :14	: *3	* |0|	#		# - 		
+Hix.70 / :14	: *4	* |0|	#		# - 		
+Hix.70 / :14	: *5	* |0|	#		# - 		
+Hix.70 / :14	: *6	* |0|	#		# - 		
+Hix.70 / :14	: *7	* |0|	#		# - 		
+Hix.70 / :14	: *8	* |1|	#501179	# - LEGUIZAMON EMILCE MARIANA	TIERRA DEL FUEGO S/N	74524	
+Hix.70 / :14	: *9	* |0|	#		# - 		
+Hix.70 / :14	: *10	* |1|	#500350	# - LEMOS MARIANA SOLEDAD	SARMIENTO 1374	70306	
+Hix.70 / :14	: *11	* |0|	#		# - 		
+Hix.70 / :14	: *12	* |0|	#		# - 		
+Hix.70 / :14	: *13	* |0|	#		# - 		
+Hix.70 / :14	: *14	* |1|	#84621	# - Sosa Heriberto	TIERRA DEL FUEGO 1538	75708	
+Hix.70 / :14	: *15	* |0|	#		# - 		
+Hix.70 / :14	: *16	* |0|	#		# - 		
+Hix.70 / :14	: *17	* |0|	#		# - 		
+Hix.70 / :14	: *18	* |0|	#		# - 		
+Hix.70 / :14	: *19	* |0|	#		# - 		
+Hix.70 / :14	: *20	* |0|	#		# - 		
+Hix.70 / :14	: *21	* |0|	#		# - 		
+Hix.70 / :14	: *22	* |2|	#		# - 		
+Hix.70 / :14	: *23	* |0|	#		# - 		
+Hix.70 / :14	: *24	* |0|	#		# - 		
+Hix.70 / :14	: *25	* |0|	#		# - 		
+Hix.70 / :14	: *26	* |0|	#		# - 		
+Hix.70 / :14	: *27	* |0|	#		# - 		
+Hix.70 / :14	: *28	* |1|	#83898	# - Gallardo America Nelida	PTE PERON 1850	74608	
+Hix.70 / :14	: *29	* |0|	#		# - 		
+Hix.70 / :14	: *30	* |0|	#		# - 		
+Hix.70 / :14	: *31	* |0|	#		# - 		
+Hix.70 / :14	: *32	* |0|	#		# - 		
+Hix.70 / :14	: *33	* |1|	#84679	# - Cardozo Elida	ART RAMON VILLARREAL Y CTE RAZ	75718	
+Hix.70 / :14	: *34	* |0|	#		# - 		
+Hix.70 / :14	: *35	* |0|	#		# - 		
+Hix.70 / :14	: *36	* |0|	#		# - 		
+Hix.70 / :14	: *37	* |0|	#		# - 		
+Hix.70 / :14	: *38	* |0|	#		# - 		
+Hix.70 / :14	: *39	* |0|	#		# - 		
+Hix.70 / :14	: *40	* |0|	#		# - 		
+Hix.70 / :14	: *41	* |0|	#		# - 		
+Hix.70 / :14	: *42	* |0|	#		# - 		
+Hix.70 / :14	: *43	* |1|	#84710	# - Rio Claudia Andrea	ANGELA PERALTA PINO 455	74315	
+Hix.70 / :14	: *44	* |1|	#85846	# - MALDONADO VANESA ELISABET	SAN JUAN Y CHUBUT	75256	
+Hix.70 / :14	: *45	* |1|	#84718	# - Perez Julio	25 DE MAYO 2279	71681	
+Hix.70 / :14	: *46	* |1|	#84704	# - Martinez Rosaura	PTE PERON 1870	71830	
+Hix.70 / :14	: *47	* |0|	#		# - 		
+Hix.70 / :14	: *48	* |0|	#		# - 		
+Hix.70 / :14	: *49	* |0|	#		# - 		
+Hix.70 / :14	: *50	* |0|	#		# - 		
+Hix.70 / :14	: *51	* |1|	#83599	# - Suarez Angel Esteban	AV. RIVADAVIA 1373	70832	
+Hix.70 / :14	: *52	* |0|	#		# - 		
+Hix.70 / :14	: *53	* |0|	#		# - 		
+Hix.70 / :14	: *54	* |0|	#		# - 		
+Hix.70 / :14	: *55	* |1|	#84734	# - Juarez maria	Crespo 1572	75255	
+Hix.70 / :14	: *56	* |1|	#84763	# - IBANEZ ISABEL	BELGRANO S/N	71711	
+Hix.70 / :14	: *57	* |1|	#84738	# - Carrion Oscar	25 DE MAYO 2641	72297	
+Hix.70 / :14	: *58	* |0|	#		# - 		
+Hix.70 / :14	: *59	* |0|	#		# - 		
+Hix.70 / :14	: *60	* |1|	#84744	# - Velazquez Lidia	JUJUY 1323	72630	
+Hix.70 / :14	: *61	* |0|	#		# - 		
+Hix.70 / :14	: *62	* |0|	#		# - 		
+Hix.70 / :14	: *63	* |0|	#		# - 		
+Hix.70 / :14	: *64	* |0|	#		# - 		
+Hix.70 / :14	: *65	* |1|	#85301	# - BRIGNONI PATRICIA Y CRUZ EMANUEL	LOS ANDES Y CABO ABEL CORONEL	75963	
+Hix.70 / :14	: *66	* |2|	#		# - 		
+Hix.70 / :14	: *67	* |0|	#		# - 		
+Hix.70 / :14	: *68	* |0|	#		# - 		
+Hix.70 / :14	: *69	* |0|	#		# - 		
+Hix.70 / :14	: *70	* |2|	#		# - 		
+Hix.70 / :14	: *71	* |0|	#		# - 		
+Hix.70 / :14	: *72	* |1|	#85858	# - JUAREZ ENRIQUE HECTOR	JUJUY Y 20 DE JUNIO	472896	
+Hix.70 / :15	: *1	* |2|	#		# - 		
+Hix.70 / :15	: *2	* |2|	#		# - 		
+Hix.70 / :15	: *3	* |2|	#		# - 		
+Hix.70 / :15	: *4	* |2|	#		# - 		
+Hix.70 / :15	: *5	* |2|	#		# - 		
+Hix.70 / :15	: *6	* |2|	#		# - 		
+Hix.70 / :15	: *7	* |2|	#		# - 		
+Hix.70 / :15	: *8	* |2|	#		# - 		
+Hix.70 / :15	: *9	* |2|	#		# - 		
+Hix.70 / :15	: *10	* |2|	#		# - 		
+Hix.70 / :15	: *11	* |2|	#		# - 		
+Hix.70 / :15	: *12	* |2|	#		# - 		
+Hix.70 / :15	: *13	* |2|	#		# - 		
+Hix.70 / :15	: *14	* |2|	#		# - 		
+Hix.70 / :15	: *15	* |2|	#		# - 		
+Hix.70 / :15	: *16	* |2|	#		# - 		
+Hix.70 / :15	: *17	* |2|	#		# - 		
+Hix.70 / :15	: *18	* |2|	#		# - 		
+Hix.70 / :15	: *19	* |2|	#		# - 		
+Hix.70 / :15	: *20	* |2|	#		# - 		
+Hix.70 / :15	: *21	* |2|	#		# - 		
+Hix.70 / :15	: *22	* |2|	#		# - 		
+Hix.70 / :15	: *23	* |2|	#		# - 		
+Hix.70 / :15	: *24	* |2|	#		# - 		
+Hix.70 / :15	: *25	* |2|	#		# - 		
+Hix.70 / :15	: *26	* |2|	#		# - 		
+Hix.70 / :15	: *27	* |2|	#		# - 		
+Hix.70 / :15	: *28	* |2|	#		# - 		
+Hix.70 / :15	: *29	* |2|	#		# - 		
+Hix.70 / :15	: *30	* |2|	#		# - 		
+Hix.70 / :15	: *31	* |2|	#		# - 		
+Hix.70 / :15	: *32	* |2|	#		# - 		
+Hix.70 / :15	: *33	* |2|	#		# - 		
+Hix.70 / :15	: *34	* |2|	#		# - 		
+Hix.70 / :15	: *35	* |2|	#		# - 		
+Hix.70 / :15	: *36	* |2|	#		# - 		
+Hix.70 / :15	: *37	* |2|	#		# - 		
+Hix.70 / :15	: *38	* |2|	#		# - 		
+Hix.70 / :15	: *39	* |2|	#		# - 		
+Hix.70 / :15	: *40	* |2|	#		# - 		
+Hix.70 / :15	: *41	* |2|	#		# - 		
+Hix.70 / :15	: *42	* |2|	#		# - 		
+Hix.70 / :15	: *43	* |2|	#		# - 		
+Hix.70 / :15	: *44	* |2|	#		# - 		
+Hix.70 / :15	: *45	* |2|	#		# - 		
+Hix.70 / :15	: *46	* |2|	#		# - 		
+Hix.70 / :15	: *47	* |2|	#		# - 		
+Hix.70 / :15	: *48	* |2|	#		# - 		
+Hix.70 / :15	: *49	* |2|	#		# - 		
+Hix.70 / :15	: *50	* |2|	#		# - 		
+Hix.70 / :15	: *51	* |2|	#		# - 		
+Hix.70 / :15	: *52	* |2|	#		# - 		
+Hix.70 / :15	: *53	* |2|	#		# - 		
+Hix.70 / :15	: *54	* |2|	#		# - 		
+Hix.70 / :15	: *55	* |2|	#		# - 		
+Hix.70 / :15	: *56	* |2|	#		# - 		
+Hix.70 / :15	: *57	* |2|	#		# - 		
+Hix.70 / :15	: *58	* |2|	#		# - 		
+Hix.70 / :15	: *59	* |2|	#		# - 		
+Hix.70 / :15	: *60	* |2|	#		# - 		
+Hix.70 / :15	: *61	* |2|	#		# - 		
+Hix.70 / :15	: *62	* |2|	#		# - 		
+Hix.70 / :15	: *63	* |2|	#		# - 		
+Hix.70 / :15	: *64	* |2|	#		# - 		
+Hix.70 / :15	: *65	* |2|	#		# - 		
+Hix.70 / :15	: *66	* |2|	#		# - 		
+Hix.70 / :15	: *67	* |2|	#		# - 		
+Hix.70 / :15	: *68	* |2|	#		# - 		
+Hix.70 / :15	: *69	* |2|	#		# - 		
+Hix.70 / :15	: *70	* |2|	#		# - 		
+Hix.70 / :15	: *71	* |2|	#		# - 		
+Hix.70 / :15	: *72	* |2|	#		# - 		
+Hix.70 / :16	: *1	* |2|	#		# - 		
+Hix.70 / :16	: *2	* |2|	#		# - 		
+Hix.70 / :16	: *3	* |0|	#		# - 		
+Hix.70 / :16	: *4	* |0|	#		# - 		
+Hix.70 / :16	: *5	* |1|	#84912	# - MONGEZ MARIA ESTHER	17 DE OCTUBRE Y LOS ANDES	72833	
+Hix.70 / :16	: *6	* |1|	#84994	# - SOSA SEGUNDO HILARIO	HECTOR ESTELA 1230	75824	
+Hix.70 / :16	: *7	* |0|	#		# - 		
+Hix.70 / :16	: *8	* |0|	#		# - 		
+Hix.70 / :16	: *9	* |0|	#		# - 		
+Hix.70 / :16	: *10	* |1|	#84914	# - BELIZAN FABIANA	SAAVEDRA Y LA PAMPA	73679	
+Hix.70 / :16	: *11	* |0|	#		# - 		
+Hix.70 / :16	: *12	* |2|	#		# - 		
+Hix.70 / :16	: *13	* |0|	#		# - 		
+Hix.70 / :16	: *14	* |0|	#		# - 		
+Hix.70 / :16	: *15	* |0|	#		# - 		
+Hix.70 / :16	: *16	* |0|	#		# - 		
+Hix.70 / :16	: *17	* |1|	#84928	# - ROTELA MARIA ELENA	BRIG ESTANISLAO LOPEZ S/N	72792	
+Hix.70 / :16	: *18	* |0|	#		# - 		
+Hix.70 / :16	: *19	* |1|	#84931	# - PEREZ CINTIA MARCELA	25 DE MAYO 2263	73911	
+Hix.70 / :16	: *20	* |0|	#		# - 		
+Hix.70 / :16	: *21	* |0|	#		# - 		
+Hix.70 / :16	: *22	* |0|	#		# - 		
+Hix.70 / :16	: *23	* |0|	#		# - 		
+Hix.70 / :16	: *24	* |1|	#84929	# - SALVATIERRA CLAUDIO FABIAN	GOB CRESPO 1531	71024	
+Hix.70 / :16	: *25	* |1|	#85405	# - FOSSA ANGEL IGNACIO	GOB CRESPO 1585	71334	
+Hix.70 / :16	: *26	* |0|	#		# - 		
+Hix.70 / :16	: *27	* |0|	#		# - 		
+Hix.70 / :16	: *28	* |1|	#84951	# - MORENO MIGUEL	SANTO DOMINGO 1252	71137	
+Hix.70 / :16	: *29	* |0|	#		# - 		
+Hix.70 / :16	: *30	* |0|	#		# - 		
+Hix.70 / :16	: *31	* |0|	#		# - 		
+Hix.70 / :16	: *32	* |0|	#		# - 		
+Hix.70 / :16	: *33	* |0|	#		# - 		
+Hix.70 / :16	: *34	* |1|	#84054	# - Gutierrez Sonia	SAN JUAN 477	75097	
+Hix.70 / :16	: *35	* |0|	#		# - 		
+Hix.70 / :16	: *36	* |0|	#		# - 		
+Hix.70 / :16	: *37	* |1|	#84961	# - RIVERO VELIA VITAR	ANTARTIDA ARGENTINA Y JUAN XXIII	74431	
+Hix.70 / :16	: *38	* |0|	#		# - 		
+Hix.70 / :16	: *39	* |0|	#		# - 		
+Hix.70 / :16	: *40	* |0|	#		# - 		
+Hix.70 / :16	: *41	* |1|	#84971	# - ROCCHIA MARIA FERNANDA	SAN JUAN 751	75736	
+Hix.70 / :16	: *42	* |0|	#		# - 		
+Hix.70 / :16	: *43	* |0|	#		# - 		
+Hix.70 / :16	: *44	* |1|	#500315	# - ARAUJO ROCIO BELEN	SANTA FE 1340		
+Hix.70 / :16	: *45	* |0|	#		# - 		
+Hix.70 / :16	: *46	* |1|	#84978	# - COOP. DE AGUA POTABLE	SAN JUAN S/N	70141	
+Hix.70 / :16	: *47	* |0|	#		# - 		
+Hix.70 / :16	: *48	* |1|	#84979	# - SEQUEIRA MARIA ELENA (Gostelli gisela maricel)	SANTO DOMINGO 1268	71154	
+Hix.70 / :16	: *49	* |0|	#		# - 		
+Hix.70 / :16	: *50	* |0|	#		# - 		
+Hix.70 / :16	: *51	* |1|	#84982	# - PERALTA FABIANA ANDREA	CHILE Y CABO ABEL CORONEL	72738	
+Hix.70 / :16	: *52	* |1|	#85882	# - SOCIAS ERMINIA	GOB. SILVESTRE BEGNIS Y COM. RAZETTI	70465	
+Hix.70 / :16	: *53	* |1|	#85887	# - VIGETTI EDUARDO ENRIQUE	9 DE JULIO 1979	71356	
+Hix.70 / :16	: *54	* |1|	#501957	# - LUNA JOSE ROBERTO RAMON	PERON 2233	473551	
+Hix.70 / :16	: *55	* |0|	#		# - 		
+Hix.70 / :16	: *56	* |0|	#		# - 		
+Hix.70 / :16	: *57	* |0|	#		# - 		
+Hix.70 / :16	: *58	* |1|	#85000	# - CASTELLANO CARLOS	HECTOR ESTELA 1057	75464	
+Hix.70 / :16	: *59	* |0|	#		# - 		
+Hix.70 / :16	: *60	* |1|	#85002	# - VISMARA ALONSO ENRIQUE	12 DE OCTUBRE 1773	75785	
+Hix.70 / :16	: *61	* |1|	#85005	# - SAAVEDRA MARX ERIC	GUEMES 1489	75807	
+Hix.70 / :16	: *62	* |0|	#		# - 		
+Hix.70 / :16	: *63	* |0|	#		# - 		
+Hix.70 / :16	: *64	* |0|	#		# - 		
+Hix.70 / :16	: *65	* |0|	#		# - 		
+Hix.70 / :16	: *66	* |1|	#85036	# - FELIX JUAN CARLOS	GUEMES 1040	75851	
+Hix.70 / :16	: *67	* |1|	#		# - 		
+Hix.70 / :16	: *68	* |0|	#		# - 		
+Hix.70 / :16	: *69	* |0|	#		# - 		
+Hix.70 / :16	: *70	* |2|	#		# - 		
+Hix.70 / :16	: *71	* |0|	#		# - 		
+Hix.70 / :16	: *72	* |1|	#85371	# - GERMAIN SEBASTIAN ENRIQUE	BELGRANO 1450	75986
+
+
+
+Hix30.72 / :1	: *1	* |0|	#		# -		
+Hix30.72 / :1	: *2	* |1|	#501769	# -GONZALEZ OLGA	COSTA RICA 1235	474436	
+Hix30.72 / :1	: *3	* |1|	#83697	# -Pino Monica Viviana	GOBERNADOR CRESPO 1164	73965	
+Hix30.72 / :1	: *4	* |1|	#84933	# -RAMOS MARIA EDIT	SANTIAGO DEL ESTERO 1431	71791	
+Hix30.72 / :1	: *5	* |0|	#		# -		
+Hix30.72 / :1	: *6	* |0|	#		# -		
+Hix30.72 / :1	: *7	* |1|	#85497	# -NAVARRO CECILIA	JUAN MANUEL DE ROSAS 318	8	
+Hix30.72 / :1	: *8	* |0|	#		# -		
+Hix30.72 / :1	: *9	* |1|	#85155	# -MENDOZA MARIA ELENA	JUAN MANUEL DE ROSAS 655	72242	
+Hix30.72 / :1	: *10	* |0|	#		# -		
+Hix30.72 / :1	: *11	* |1|	#83723	# -Roldan Juan Carlos	TIERRA DEL FUEGO 1123	75027	
+Hix30.72 / :1	: *12	* |1|	#83630	# -Levis Hector	JUAN MANUEL DE ROSAS 240	72274	
+Hix30.72 / :1	: *13	* |0|	#		# -		
+Hix30.72 / :1	: *14	* |1|	#83730	# -Giromini Hector Oscar	VUELTA DE OBLIGADO (VIV-50)	71510	
+Hix30.72 / :1	: *15	* |0|	#		# -		
+Hix30.72 / :1	: *16	* |2|	#		# -		
+Hix30.72 / :1	: *17	* |0|	#		# -		
+Hix30.72 / :1	: *18	* |0|	#		# -		
+Hix30.72 / :1	: *19	* |0|	#		# -		
+Hix30.72 / :1	: *20	* |0|	#		# -		
+Hix30.72 / :1	: *21	* |0|	#		# -		
+Hix30.72 / :1	: *22	* |0|	#		# -		
+Hix30.72 / :1	: *23	* |0|	#		# -		
+Hix30.72 / :1	: *24	* |1|	#500815	# -VIVAS CONSTANSA	ISLAS MALVINAS 1/2 DE LA TERMINAL	3491419312	
+Hix30.72 / :1	: *25	* |0|	#		# -		
+Hix30.72 / :1	: *26	* |0|	#		# -		
+Hix30.72 / :1	: *27	* |0|	#		# -		
+Hix30.72 / :1	: *28	* |2|	#		# -		
+Hix30.72 / :1	: *29	* |1|	#84952	# -BUSTOS SORAYA BEATRIZ	Jose Felix S/N	75794	
+Hix30.72 / :1	: *30	* |1|	#84227	# -Ruiz Jorge Duval	Eva Peron 1263	71783	
+Hix30.72 / :1	: *31	* |0|	#		# -		
+Hix30.72 / :1	: *32	* |0|	#		# -		
+Hix30.72 / :1	: *33	* |1|	#85313	# -CALCATERRA SERGIO EDGARDO	MORENO 1303	75978	
+Hix30.72 / :1	: *34	* |0|	#		# -		
+Hix30.72 / :1	: *35	* |0|	#		# -		
+Hix30.72 / :1	: *36	* |0|	#		# -		
+Hix30.72 / :1	: *37	* |0|	#		# -		
+Hix30.72 / :1	: *38	* |0|	#		# -		
+Hix30.72 / :1	: *39	* |1|	#84364	# -Campanini Loyda	SANTO DOMINGO Y GDOR CRESPO	74273	baja
+Hix30.72 / :1	: *40	* |0|	#		# -		
+Hix30.72 / :1	: *41	* |0|	#		# -		
+Hix30.72 / :1	: *42	* |1|	#500799	# -MALAGUEÑO JUAN LUIS	JULIO A ROCA 504	74007	
+Hix30.72 / :1	: *43	* |0|	#		# -		
+Hix30.72 / :1	: *44	* |0|	#		# -		
+Hix30.72 / :1	: *45	* |0|	#		# -		
+Hix30.72 / :1	: *46	* |1|	#501600	# -ZURITA CLAUDIA SUSANA	TUCUMAN 1351	475282	
+Hix30.72 / :1	: *47	* |0|	#		# -		
+Hix30.72 / :1	: *48	* |1|	#500683	# -CASTILLO ANTONELLA MARIA	JULIO A ROCA 504	3491537138	
+Hix30.72 / :1	: *49	* |1|	#83746	# -Gonzalez Richard Ceferino	BRIG. ESTANISLAO LOPEZ 1131	73484	
+Hix30.72 / :1	: *50	* |0|	#		# -		
+Hix30.72 / :1	: *51	* |2|	#		# -		
+Hix30.72 / :1	: *52	* |0|	#		# -		
+Hix30.72 / :1	: *53	* |0|	#		# -		
+Hix30.72 / :1	: *54	* |0|	#		# -		
+Hix30.72 / :1	: *55	* |0|	#		# -		
+Hix30.72 / :1	: *56	* |0|	#		# -		
+Hix30.72 / :1	: *57	* |1|	#84992	# -LIGA DE PADRES DE FAMILIA	INDEPENDENCIA 1370	72659	
+Hix30.72 / :1	: *58	* |0|	#		# -		
+Hix30.72 / :1	: *59	* |0|	#		# -		
+Hix30.72 / :1	: *60	* |2|	#		# -		
+Hix30.72 / :1	: *61	* |1|	#84376	# -Bonfigli Mariela	VUELTA DE OBLIGADO 645	74769	
+Hix30.72 / :1	: *62	* |0|	#		# -		
+Hix30.72 / :1	: *63	* |0|	#		# -		
+Hix30.72 / :1	: *64	* |1|	#83384	# -Carrion Patricia	JUAN MANUEL DE ROSAS 597	71484	
+Hix30.72 / :1	: *65	* |0|	#		# -		
+Hix30.72 / :1	: *66	* |0|	#		# -		
+Hix30.72 / :1	: *67	* |0|	#		# -		
+Hix30.72 / :1	: *68	* |1|	#83622	# -Pergolesi Oscar Pablo	INDEPENDENCIA 1333	70054	
+Hix30.72 / :1	: *69	* |1|	#84924	# -LOPEZ DIEGO	RUTA 2	75784	
+Hix30.72 / :1	: *70	* |0|	#		# -		
+Hix30.72 / :1	: *71	* |0|	#		# -		
+Hix30.72 / :1	: *72	* |0|	#		# -		
+Hix30.72 / :2	: *1	* |0|	#		# -		
+Hix30.72 / :2	: *2	* |0|	#		# -		
+Hix30.72 / :2	: *3	* |1|	#500234	# -BRAVO JOSEFA	12 DE OCTUBRE 1185	75307	
+Hix30.72 / :2	: *4	* |0|	#		# -		
+Hix30.72 / :2	: *5	* |0|	#		# -		
+Hix30.72 / :2	: *6	* |0|	#		# -		
+Hix30.72 / :2	: *7	* |0|	#		# -		
+Hix30.72 / :2	: *8	* |1|	#501425	# -GUZMAN HUGO EMILIO	TUCUMAN 1300	3491504123	
+Hix30.72 / :2	: *9	* |2|	#		# -		
+Hix30.72 / :2	: *10	* |1|	#85014	# -BURGUENER ADOLFO HUGO	BR. ESTANISLAO LOPEZ 1156	73517	
+Hix30.72 / :2	: *11	* |1|	#501655	# -ZURITA SORAYA BELEN	ARTESANO RAMON VILLAREAL 1132	475438	
+Hix30.72 / :2	: *12	* |0|	#		# -		
+Hix30.72 / :2	: *13	* |2|	#		# -		
+Hix30.72 / :2	: *14	* |2|	#		# -		
+Hix30.72 / :2	: *15	* |0|	#		# -		
+Hix30.72 / :2	: *16	* |2|	#		# -		
+Hix30.72 / :2	: *17	* |0|	#		# -		
+Hix30.72 / :2	: *18	* |0|	#		# -		
+Hix30.72 / :2	: *19	* |0|	#		# -		
+Hix30.72 / :2	: *20	* |0|	#		# -		
+Hix30.72 / :2	: *21	* |0|	#		# -		
+Hix30.72 / :2	: *22	* |1|	#83634	# -Palavecino Rodolfo Abel	6 DE CABALLERIA 954	73864	
+Hix30.72 / :2	: *23	* |1|	#84037	# -SUAREZ MARIA FERNANDA	BRIGADIER ESTANISLAO LOPEZ 109	71917	
+Hix30.72 / :2	: *24	* |1|	#84377	# -Ferrero Mercedes	EVA PERON S/N	74571	
+Hix30.72 / :2	: *25	* |0|	#		# -		
+Hix30.72 / :2	: *26	* |0|	#		# -		
+Hix30.72 / :2	: *27	* |1|	#85197	# -SCARAFIA JOSE ROBERTO	SANTO DOMINGO 935	71132	
+Hix30.72 / :2	: *28	* |1|	#84187	# -Barreto Luis Omar	JUAN MANUEL DE ROSAS (VIV 346)	74143	
+Hix30.72 / :2	: *29	* |1|	#83450	# -Campanini Vanina	6 DE CABALLERIA 947	74737	
+Hix30.72 / :2	: *30	* |0|	#		# -		
+Hix30.72 / :2	: *31	* |1|	#84200	# -Coria Leopoldo Anibal	RODOLFO CRAVERO 1119	73743	
+Hix30.72 / :2	: *32	* |2|	#		# -		
+Hix30.72 / :2	: *33	* |0|	#		# -		
+Hix30.72 / :2	: *34	* |1|	#84108	# -SCHNIDRIG MILTON MAURICIO	GDOR CRESPO 855	72497	
+Hix30.72 / :2	: *35	* |0|	#		# -		
+Hix30.72 / :2	: *36	* |0|	#		# -		
+Hix30.72 / :2	: *37	* |1|	#84846	# -CARABAJAL CEFERINO ALBERTO	12 DE OCTUBRE 1186	75087	
+Hix30.72 / :2	: *38	* |1|	#84038	# -Almada Maria de Los Angeles	JOSE FELIX 1186	475157	
+Hix30.72 / :2	: *39	* |0|	#		# -		
+Hix30.72 / :2	: *40	* |0|	#		# -		
+Hix30.72 / :2	: *41	* |1|	#83680	# -Regional de Salud	VUELTA DE OBLIGADO S/N	70655	
+Hix30.72 / :2	: *42	* |1|	#84944	# -SOSA LORENA ELIZABET	SANTO DOMINGO 832	74525	
+Hix30.72 / :2	: *43	* |0|	#		# -		
+Hix30.72 / :2	: *44	* |0|	#		# -		
+Hix30.72 / :2	: *45	* |1|	#83389	# -Traversi Leandro	JUAN MANUEL DE ROSAS 474	74688	
+Hix30.72 / :2	: *46	* |0|	#		# -		
+Hix30.72 / :2	: *47	* |1|	#85019	# -MILDEMBERGER JUAN JOSE	GDOR. CRESPO 935	71079	
+Hix30.72 / :2	: *48	* |0|	#		# -		
+Hix30.72 / :2	: *49	* |0|	#		# -		
+Hix30.72 / :2	: *50	* |1|	#501611	# -DIAZ MIRIAM ALEJANDRA	VUELTA DE OBLIGADO 387	475026	
+Hix30.72 / :2	: *51	* |1|	#85043	# -URBAN ESTELA	ISLAS MALVINAS 437	73994	
+Hix30.72 / :2	: *52	* |0|	#		# -		
+Hix30.72 / :2	: *53	* |1|	#85042	# -DUBOIS LUIS ALBERTO	INDEPENDENCIA 1094	75856	
+Hix30.72 / :2	: *54	* |0|	#		# -		
+Hix30.72 / :2	: *55	* |0|	#		# -		
+Hix30.72 / :2	: *56	* |0|	#		# -		
+Hix30.72 / :2	: *57	* |0|	#		# -		
+Hix30.72 / :2	: *58	* |0|	#		# -		
+Hix30.72 / :2	: *59	* |0|	#		# -		
+Hix30.72 / :2	: *60	* |0|	#		# -		
+Hix30.72 / :2	: *61	* |0|	#		# -		
+Hix30.72 / :2	: *62	* |0|	#		# -		
+Hix30.72 / :2	: *63	* |0|	#		# -		
+Hix30.72 / :2	: *64	* |2|	#		# -		
+Hix30.72 / :2	: *65	* |0|	#		# -		
+Hix30.72 / :2	: *66	* |1|	#84427	# -Traversi Alejandra	INDEPENDENCIA Y DR ROMERO	70874	
+Hix30.72 / :2	: *67	* |1|	#84425	# -Goyenechea Liliana	ISLAS MALVINAS 669	71661	
+Hix30.72 / :2	: *68	* |0|	#		# -		
+Hix30.72 / :2	: *69	* |0|	#		# -		
+Hix30.72 / :2	: *70	* |1|	#83203	# -RIEDEL PABLO	SANTO DOMINGO 1253	70074	
+Hix30.72 / :2	: *71	* |0|	#		# -		
+Hix30.72 / :2	: *72	* |1|	#84434	# -Avila Ernesto	GOBERNADOR CRESPO 1433	71758	
+Hix30.72 / :3	: *1	* |0|	#		# -		
+Hix30.72 / :3	: *2	* |0|	#		# -		
+Hix30.72 / :3	: *3	* |1|	#500863	# -ANDRADA ELVIRA ESTER	VUELTA DE OBLIGADO 317 (VIV 29)	74821	
+Hix30.72 / :3	: *4	* |0|	#		# -		
+Hix30.72 / :3	: *5	* |0|	#		# -		
+Hix30.72 / :3	: *6	* |0|	#		# -		
+Hix30.72 / :3	: *7	* |0|	#		# -		
+Hix30.72 / :3	: *8	* |0|	#		# -		
+Hix30.72 / :3	: *9	* |2|	#		# -		
+Hix30.72 / :3	: *10	* |0|	#		# -		
+Hix30.72 / :3	: *11	* |0|	#		# -		
+Hix30.72 / :3	: *12	* |1|	#84494	# -Villarruel Nestor	HECTOR ESTELA 965	72139	
+Hix30.72 / :3	: *13	* |1|	#84500	# -Suarez Nicolas	VUELTA DE OBLIGADO 183	74611	
+Hix30.72 / :3	: *14	* |0|	#		# -		
+Hix30.72 / :3	: *15	* |0|	#		# -		
+Hix30.72 / :3	: *16	* |2|	#		# -		
+Hix30.72 / :3	: *17	* |0|	#		# -		
+Hix30.72 / :3	: *18	* |0|	#		# -		
+Hix30.72 / :3	: *19	* |0|	#		# -		
+Hix30.72 / :3	: *20	* |1|	#500976	# -VIGNALE CARLOS OMAR	RUTA 2	74514	
+Hix30.72 / :3	: *21	* |0|	#		# -		
+Hix30.72 / :3	: *22	* |0|	#		# -		
+Hix30.72 / :3	: *23	* |0|	#		# -		
+Hix30.72 / :3	: *24	* |0|	#		# -		
+Hix30.72 / :3	: *25	* |0|	#		# -		
+Hix30.72 / :3	: *26	* |0|	#		# -		
+Hix30.72 / :3	: *27	* |0|	#		# -		
+Hix30.72 / :3	: *28	* |0|	#		# -		
+Hix30.72 / :3	: *29	* |0|	#		# -		
+Hix30.72 / :3	: *30	* |0|	#		# -		
+Hix30.72 / :3	: *31	* |0|	#		# -		
+Hix30.72 / :3	: *32	* |0|	#		# -		
+Hix30.72 / :3	: *33	* |0|	#		# -		
+Hix30.72 / :3	: *34	* |1|	#84542	# -Foglia Alicia	6 DE CABALLERIA 984	71371	
+Hix30.72 / :3	: *35	* |1|	#85799	# -MENDEZ BLANCA ESTELA	VUELTA DE OBLIGADO 245	71886	
+Hix30.72 / :3	: *36	* |0|	#		# -		
+Hix30.72 / :3	: *37	* |2|	#		# -		
+Hix30.72 / :3	: *38	* |1|	#84031	# -Moreno Domingo	INDEPENDENCIA 857	72353	
+Hix30.72 / :3	: *39	* |2|	#		# -		
+Hix30.72 / :3	: *40	* |0|	#		# -		
+Hix30.72 / :3	: *41	* |0|	#		# -		
+Hix30.72 / :3	: *42	* |0|	#		# -		
+Hix30.72 / :3	: *43	* |1|	#85206	# -ROLDAN NOEL	12 DE OCTUBRE 1154	70526	
+Hix30.72 / :3	: *44	* |0|	#		# -		
+Hix30.72 / :3	: *45	* |1|	#83985	# -Fontana Mariela Cristina	HAITI 857	74897	
+Hix30.72 / :3	: *46	* |1|	#85239	# -GALARZA NICOLAS EDUARDO	HECTOR ESTELA 945	70092	
+Hix30.72 / :3	: *47	* |0|	#		# -		
+Hix30.72 / :3	: *48	* |1|	#85328	# -TOLOZA RAUL	NACIONES UNIDAS S/N	73569	
+Hix30.72 / :3	: *49	* |2|	#		# -		
+Hix30.72 / :3	: *50	* |2|	#		# -		
+Hix30.72 / :3	: *51	* |0|	#		# -		
+Hix30.72 / :3	: *52	* |1|	#84010	# -Cejas Roberto	EVA PERON 1175	72431	
+Hix30.72 / :3	: *53	* |0|	#		# -		
+Hix30.72 / :3	: *54	* |2|	#		# -		
+Hix30.72 / :3	: *55	* |0|	#		# -		
+Hix30.72 / :3	: *56	* |0|	#		# -		
+Hix30.72 / :3	: *57	* |0|	#		# -		
+Hix30.72 / :3	: *58	* |0|	#		# -		
+Hix30.72 / :3	: *59	* |1|	#84032	# -Goestschi Alfredo Omar	EVA PERON 1125	72256	
+Hix30.72 / :3	: *60	* |0|	#		# -		
+Hix30.72 / :3	: *61	* |1|	#84100	# -Mansilla Maria Cristina	ISLAS MALVINAS 541	73810	
+Hix30.72 / :3	: *62	* |1|	#85234	# -ALMEIDA FABRICIO	JUAN XXIII	75823	
+Hix30.72 / :3	: *63	* |2|	#		# -		
+Hix30.72 / :3	: *64	* |0|	#		# -		
+Hix30.72 / :3	: *65	* |0|	#		# -		
+Hix30.72 / :3	: *66	* |0|	#		# -		
+Hix30.72 / :3	: *67	* |0|	#		# -		
+Hix30.72 / :3	: *68	* |1|	#85230	# -STURBA CAMILA	HAITI S/N	75951	
+Hix30.72 / :3	: *69	* |0|	#		# -		
+Hix30.72 / :3	: *70	* |1|	#84120	# -Cristaldo Maria Cristina	TIERRA DEL FUEGO 1247	72339	
+Hix30.72 / :3	: *71	* |0|	#		# -		
+Hix30.72 / :3	: *72	* |1|	#84126	# -Tolosa Ramon Osvaldo	VUELTA DE OBLIGADO (VIV-23)	471503	
+Hix30.72 / :4	: *1	* |0|	#		# -		
+Hix30.72 / :4	: *2	* |0|	#		# -		
+Hix30.72 / :4	: *3	* |0|	#		# -		
+Hix30.72 / :4	: *4	* |1|	#83460	# -Garcia Alejandro	SANTO DOMINGO 924	74918	
+Hix30.72 / :4	: *5	* |1|	#84135	# -Lopez Daniel	VUELTA DE OBLIGADO 237	473613	
+Hix30.72 / :4	: *6	* |1|	#83636	# -Mana Jorge Alejandro	BRIGADIER LOPEZ 1151	74848	
+Hix30.72 / :4	: *7	* |0|	#		# -		
+Hix30.72 / :4	: *8	* |0|	#		# -		
+Hix30.72 / :4	: *9	* |1|	#85296	# -CORDOBA MARIA CRISTINA	INDEPENDENCIA 1002	71507	
+Hix30.72 / :4	: *10	* |0|	#		# -		
+Hix30.72 / :4	: *11	* |0|	#		# -		
+Hix30.72 / :4	: *12	* |0|	#		# -		
+Hix30.72 / :4	: *13	* |1|	#83248	# -Amaya Monica	6 DE CABALLERIA 994	471781	
+Hix30.72 / :4	: *14	* |0|	#		# -		
+Hix30.72 / :4	: *15	* |0|	#		# -		
+Hix30.72 / :4	: *16	* |2|	#		# -		
+Hix30.72 / :4	: *17	* |0|	#		# -		
+Hix30.72 / :4	: *18	* |0|	#		# -		
+Hix30.72 / :4	: *19	* |0|	#		# -		
+Hix30.72 / :4	: *20	* |0|	#		# -		
+Hix30.72 / :4	: *21	* |0|	#		# -		
+Hix30.72 / :4	: *22	* |2|	#		# -		
+Hix30.72 / :4	: *23	* |0|	#		# -		
+Hix30.72 / :4	: *24	* |1|	#83296	# -Urresti Hugo	JULIO A. ROCA S/N	470018	
+Hix30.72 / :4	: *25	* |0|	#		# -		
+Hix30.72 / :4	: *26	* |1|	#84469	# -Ojeda Patricia	INDEPENDENCIA Y JUAN XXII	505272	
+Hix30.72 / :4	: *27	* |0|	#		# -		
+Hix30.72 / :4	: *28	* |0|	#		# -		
+Hix30.72 / :4	: *29	* |1|	#84561	# -Gaitan Carina	6 DE CABALLERIA 226	74758	
+Hix30.72 / :4	: *30	* |1|	#85824	# -RADULOVICH MARIANELA	ARTESANO RAMON VILLARREAL 1378	555655655	
+Hix30.72 / :4	: *31	* |0|	#		# -		
+Hix30.72 / :4	: *32	* |1|	#500130	# -BURGUES MARIA JULIA	HAITI 800	3491530606	
+Hix30.72 / :4	: *33	* |0|	#		# -		
+Hix30.72 / :4	: *34	* |0|	#		# -		
+Hix30.72 / :4	: *35	* |0|	#		# -		
+Hix30.72 / :4	: *36	* |1|	#83499	# -Zabala Angel Daniel	BRIG. ESTANISLAO LOPEZ 1239	471562	
+Hix30.72 / :4	: *37	* |1|	#84589	# -Astuti Ariel Alfredo -carniceria-	TUCUMAN Y JUAN MANUEL DE ROSAS	75515	
+Hix30.72 / :4	: *38	* |0|	#		# -		
+Hix30.72 / :4	: *39	* |0|	#		# -		
+Hix30.72 / :4	: *40	* |0|	#		# -		
+Hix30.72 / :4	: *41	* |0|	#		# -		
+Hix30.72 / :4	: *42	* |0|	#		# -		
+Hix30.72 / :4	: *43	* |0|	#		# -		
+Hix30.72 / :4	: *44	* |2|	#		# -		
+Hix30.72 / :4	: *45	* |1|	#85205	# -DEFAGO RUBEN RICARDO	RUTA 2	70354	
+Hix30.72 / :4	: *46	* |0|	#		# -		
+Hix30.72 / :4	: *47	* |0|	#		# -		
+Hix30.72 / :4	: *48	* |1|	#83508	# -Oros Nilda	6 DE CABALLERIA 370	470891	
+Hix30.72 / :4	: *49	* |0|	#		# -		
+Hix30.72 / :4	: *50	* |0|	#		# -		
+Hix30.72 / :4	: *51	* |0|	#		# -		
+Hix30.72 / :4	: *52	* |0|	#		# -		
+Hix30.72 / :4	: *53	* |0|	#		# -		
+Hix30.72 / :4	: *54	* |0|	#		# -		
+Hix30.72 / :4	: *55	* |1|	#83073	# -Cardozo Omar	BRIG. ESTANISLAO LOPEZ 1186	471576	
+Hix30.72 / :4	: *56	* |0|	#		# -		
+Hix30.72 / :4	: *57	* |0|	#		# -		
+Hix30.72 / :4	: *58	* |0|	#		# -		
+Hix30.72 / :4	: *59	* |0|	#		# -		
+Hix30.72 / :4	: *60	* |1|	#501048	# -PEREZ ANA SOL	ARTESANO RAMON VILLARREAL 1400	510498	
+Hix30.72 / :4	: *61	* |0|	#		# -		
+Hix30.72 / :4	: *62	* |1|	#83125	# -Garay Estela Maris	INDEPENDENCIA 865	470068	
+Hix30.72 / :4	: *63	* |0|	#		# -		
+Hix30.72 / :4	: *64	* |0|	#		# -		
+Hix30.72 / :4	: *65	* |0|	#		# -		
+Hix30.72 / :4	: *66	* |1|	#83470	# -Oliver Liliana Bertello De	BRIG. ESTANISLAO LOPEZ 1136	471814	
+Hix30.72 / :4	: *67	* |0|	#		# -		
+Hix30.72 / :4	: *68	* |0|	#		# -		
+Hix30.72 / :4	: *69	* |0|	#		# -		
+Hix30.72 / :4	: *70	* |0|	#		# -		
+Hix30.72 / :4	: *71	* |2|	#		# -		
+Hix30.72 / :4	: *72	* |1|	#83094	# -Pergolesi Irma	GDOR CRESPO 1445	475688	
+Hix30.72 / :5	: *1	* |0|	#		# -		
+Hix30.72 / :5	: *2	* |0|	#		# -		
+Hix30.72 / :5	: *3	* |0|	#		# -		
+Hix30.72 / :5	: *4	* |0|	#		# -		
+Hix30.72 / :5	: *5	* |1|	#84346	# -Gaitan Juan Antonio	JUAN M DE ROSAS Y ART RAMON VI	72385	
+Hix30.72 / :5	: *6	* |1|	#85233	# -PINO JUAN CARLOS	ISLAS MALVINAS 364	71127	
+Hix30.72 / :5	: *7	* |0|	#		# -		
+Hix30.72 / :5	: *8	* |0|	#		# -		
+Hix30.72 / :5	: *9	* |0|	#		# -		
+Hix30.72 / :5	: *10	* |1|	#501063	# -RUTZ TERESA ESTHER	ISLAS MALVINAS 522	3491417513	
+Hix30.72 / :5	: *11	* |1|	#84610	# -Celiz Juan Marcelo	JUAN MANUEL DE ROSAS S/N	75149	
+Hix30.72 / :5	: *12	* |1|	#85302	# -RUBEN ELIANA	INDEPENDENCIA 929	71547	
+Hix30.72 / :5	: *13	* |0|	#		# -		
+Hix30.72 / :5	: *14	* |1|	#501092	# -ROSSI SILVANA LORENA	DR. RODOLFO ROMERO 891	72648	
+Hix30.72 / :5	: *15	* |1|	#83992	# -Andreu Carina Rogelia	JOSE FELIX 1147	73924	
+Hix30.72 / :5	: *16	* |1|	#85143	# -MANSILLA JOSE ANGEL	INDEPENDENCIA 1007	70720	
+Hix30.72 / :5	: *17	* |0|	#		# -		
+Hix30.72 / :5	: *18	* |0|	#		# -		
+Hix30.72 / :5	: *19	* |2|	#		# -		
+Hix30.72 / :5	: *20	* |0|	#		# -		
+Hix30.72 / :5	: *21	* |0|	#		# -		
+Hix30.72 / :5	: *22	* |0|	#		# -		
+Hix30.72 / :5	: *23	* |0|	#		# -		
+Hix30.72 / :5	: *24	* |0|	#		# -		
+Hix30.72 / :5	: *25	* |0|	#		# -		
+Hix30.72 / :5	: *26	* |0|	#		# -		
+Hix30.72 / :5	: *27	* |1|	#84681	# -Peralta Carina	INDEPENDENCIA 700	75373	
+Hix30.72 / :5	: *28	* |0|	#		# -		
+Hix30.72 / :5	: *29	* |0|	#		# -		
+Hix30.72 / :5	: *30	* |1|	#84724	# -Palacios Margarita de	INDEPENDENCIA 1189	75733	
+Hix30.72 / :5	: *31	* |0|	#		# -		
+Hix30.72 / :5	: *32	* |0|	#		# -		
+Hix30.72 / :5	: *33	* |1|	#83993	# -rodriguez Paola	ART. RAMON VILLARREAL 1368	73772	
+Hix30.72 / :5	: *34	* |0|	#		# -		
+Hix30.72 / :5	: *35	* |0|	#		# -		
+Hix30.72 / :5	: *36	* |0|	#		# -		
+Hix30.72 / :5	: *37	* |2|	#		# -		
+Hix30.72 / :5	: *38	* |0|	#		# -		
+Hix30.72 / :5	: *39	* |0|	#		# -		
+Hix30.72 / :5	: *40	* |0|	#		# -		
+Hix30.72 / :5	: *41	* |1|	#83863	# -Cejas Daniel	ISLAS MALVINAS 830	72682	
+Hix30.72 / :5	: *42	* |0|	#		# -		
+Hix30.72 / :5	: *43	* |0|	#		# -		
+Hix30.72 / :5	: *44	* |0|	#		# -		
+Hix30.72 / :5	: *45	* |1|	#83829	# -MOJICA NORMA CRISTINA	JUAN MANUEL DE ROSAS 443	473652	
+Hix30.72 / :5	: *46	* |1|	#83273	# -Cejas Hector	DR. RODOLFO ROMERO 995	472736	
+Hix30.72 / :5	: *47	* |1|	#84794	# -FERNANDEZ MIGUEL ANGEL	VUELTA DE OBLIGADO 280	73648	
+Hix30.72 / :5	: *48	* |1|	#85252	# -PAOLINO JOSE	MORENO 1167	72774	
+Hix30.72 / :5	: *49	* |0|	#		# -		
+Hix30.72 / :5	: *50	* |1|	#83884	# -ODETTO GUSTAVO DANIEL	SILVESTRE BEGNIS 1410	71304	
+Hix30.72 / :5	: *51	* |0|	#		# -		
+Hix30.72 / :5	: *52	* |0|	#		# -		
+Hix30.72 / :5	: *53	* |1|	#85183	# -ZARATE SANDRA NOEMI	EVA PERON S/N	74782	
+Hix30.72 / :5	: *54	* |0|	#		# -		
+Hix30.72 / :5	: *55	* |0|	#		# -		
+Hix30.72 / :5	: *56	* |1|	#84850	# -PERGOLESI MONICA DE	INDEPENDENCIA 1333	71078	
+Hix30.72 / :5	: *57	* |2|	#		# -		
+Hix30.72 / :5	: *58	* |1|	#83996	# -SARAZOLA IGNACIO	ISLAS MALVINAS 786	72498	
+Hix30.72 / :5	: *59	* |1|	#501573	# -MENDOZA MARTA	VUELTA DE OBLIGADO 445	474031	
+Hix30.72 / :5	: *60	* |0|	#		# -		
+Hix30.72 / :5	: *61	* |0|	#		# -		
+Hix30.72 / :5	: *62	* |1|	#84885	# -LUNA OLGA ROSA	12 DE OCTUBRE 1115	71082	
+Hix30.72 / :5	: *63	* |0|	#		# -		
+Hix30.72 / :5	: *64	* |0|	#		# -		
+Hix30.72 / :5	: *65	* |0|	#		# -		
+Hix30.72 / :5	: *66	* |0|	#		# -		
+Hix30.72 / :5	: *67	* |1|	#85164	# -MARTEL MARIANELA	ART RAMON VILLARREAL Y SANTO DOMINGO	75913	
+Hix30.72 / :5	: *68	* |1|	#84909	# -SOSA JAVIER OMAR	TUCUMAN 1336	74924	baja
+Hix30.72 / :5	: *69	* |0|	#		# -		
+Hix30.72 / :5	: *70	* |0|	#		# -		
+Hix30.72 / :5	: *71	* |1|	#		# -		
+Hix30.72 / :5	: *72	* |0|	#		# -		
+Hix30.72 / :6	: *1	* |1|	#85347	# -PERALTA MARIA DEL CARMEN	INDEPENDENCIA Y JUAN XXIII	74601	
+Hix30.72 / :6	: *2	* |1|	#85349	# -MUNICIPALIDAD DE TOSTADO-TERMINAL	RUTA 2 E ISLAS MALVINAS	71951	
+Hix30.72 / :6	: *3	* |0|	#		# -		
+Hix30.72 / :6	: *4	* |0|	#		# -		
+Hix30.72 / :6	: *5	* |0|	#		# -		
+Hix30.72 / :6	: *6	* |0|	#		# -		
+Hix30.72 / :6	: *7	* |0|	#		# -		
+Hix30.72 / :6	: *8	* |0|	#		# -		
+Hix30.72 / :6	: *9	* |0|	#		# -		
+Hix30.72 / :6	: *10	* |1|	#84498	# -VIZGARRA ROBERTO	JUAN M. DE ROSAS S/N	73736	
+Hix30.72 / :6	: *11	* |0|	#		# -		
+Hix30.72 / :6	: *12	* |0|	#		# -		
+Hix30.72 / :6	: *13	* |1|	#85398	# -CASTILLO CARMEN	VUELTA DE OBLIGADO 226	75120	
+Hix30.72 / :6	: *14	* |1|	#500232	# -BLASI ESTELA DE VALLE	HAITI 1225	71104	
+Hix30.72 / :6	: *15	* |1|	#85410	# -ALDERETE VIVIANA BLANCA	ISLAS MALVINAS	74971	
+Hix30.72 / :6	: *16	* |0|	#		# -		
+Hix30.72 / :6	: *17	* |1|	#85418	# -PONCE DANIEL	TUCUMAN 1186	75788	
+Hix30.72 / :6	: *18	* |0|	#		# -		
+Hix30.72 / :6	: *19	* |0|	#		# -		
+Hix30.72 / :6	: *20	* |1|	#83835	# -GUZMAN WALTER	JUAN MANUEL DE ROSAS 217	71927	
+Hix30.72 / :6	: *21	* |1|	#85430	# -MENDOZA ALICIA LIDIA	VUELTA DE OBLIGADO Y TIERRA DE FUEGO	75887	
+Hix30.72 / :6	: *22	* |0|	#		# -		
+Hix30.72 / :6	: *23	* |1|	#85445	# -PERRIG MERCEDES SOLEDAD	EVA PERON 1126	75115	
+Hix30.72 / :6	: *24	* |0|	#		# -		
+Hix30.72 / :6	: *25	* |0|	#		# -		
+Hix30.72 / :6	: *26	* |1|	#85459	# -CLUB ATLETICO TOSTADO (VILLA RECREATIVA)	RUTA 2	74950	
+Hix30.72 / :6	: *27	* |2|	#		# -		
+Hix30.72 / :6	: *28	* |0|	#		# -		
+Hix30.72 / :6	: *29	* |0|	#		# -		
+Hix30.72 / :6	: *30	* |2|	#		# -		
+Hix30.72 / :6	: *31	* |1|	#85476	# -KREMSER CARLOS Y CEBALLOS MARTA	ISLAS MALVINAS 619	73662	
+Hix30.72 / :6	: *32	* |1|	#85480	# -VITALE MARTHA	INDEPENDENCIA 1015	70134	
+Hix30.72 / :6	: *33	* |1|	#89807	# -DONAMARIA ROSANA DALI	SILVESTRE BEGNIS Y RAM. VILLARREAL	3491697165	
+Hix30.72 / :6	: *34	* |0|	#		# -		
+Hix30.72 / :6	: *35	* |0|	#		# -		
+Hix30.72 / :6	: *36	* |1|	#500779	# -VIOTTI ANDREA AMELIA	ARTESANO RAMON VILLAREAL 1142	74944	
+Hix30.72 / :6	: *37	* |0|	#		# -		
+Hix30.72 / :6	: *38	* |0|	#		# -		
+Hix30.72 / :6	: *39	* |0|	#		# -		
+Hix30.72 / :6	: *40	* |1|	#85511	# -ZURITA MARIO ROBERTO	TUCUMAN 2349	12236585	
+Hix30.72 / :6	: *41	* |1|	#84445	# -galeano Jose	COSTA RICA 615	74169	
+Hix30.72 / :6	: *42	* |0|	#		# -		
+Hix30.72 / :6	: *43	* |0|	#		# -		
+Hix30.72 / :6	: *44	* |0|	#		# -		
+Hix30.72 / :6	: *45	* |0|	#		# -		
+Hix30.72 / :6	: *46	* |2|	#		# -		
+Hix30.72 / :6	: *47	* |2|	#		# -		
+Hix30.72 / :6	: *48	* |0|	#		# -		
+Hix30.72 / :6	: *49	* |0|	#		# -		
+Hix30.72 / :6	: *50	* |1|	#84658	# -Defago Claudio	CRESPO 948	72993	
+Hix30.72 / :6	: *51	* |1|	#85564	# -BENITEZ NILDA	6 DE CABALLERIA Y EVA PERON	71760	
+Hix30.72 / :6	: *52	* |1|	#85795	# -VEGA GRISELDA	NACIONES UNIDAS S/N	72938	
+Hix30.72 / :6	: *53	* |0|	#		# -		
+Hix30.72 / :6	: *54	* |0|	#		# -		
+Hix30.72 / :6	: *55	* |1|	#85569	# -BASUALDO CARLOS	NACIONES UNIDAS 1215	73863	
+Hix30.72 / :6	: *56	* |0|	#		# -		
+Hix30.72 / :6	: *57	* |1|	#85584	# -GARCILAZO CRISTINA ISABEL	JUAN MANUEL DE ROSAS 432	71526	
+Hix30.72 / :6	: *58	* |1|	#85587	# -VIOTTI ABEL JORGE	TUCUMAN 1411	71000	
+Hix30.72 / :6	: *59	* |1|	#500677	# -LEGUIZAMON DALMA MICAELA	TUCUMAN 1345 DPTO 3 (AL LADO DEL DEPARTAMENTO)	3491440299	
+Hix30.72 / :6	: *60	* |1|	#85575	# -CLAVERO MARCELO ARIEL	INDEPENDENCIA Y JUAN XXI	75292	
+Hix30.72 / :6	: *61	* |0|	#		# -		
+Hix30.72 / :6	: *62	* |1|	#85613	# -ROJAS CLEMENTINA TERESA	TUCUMAN 1374	74217	
+Hix30.72 / :6	: *63	* |1|	#500764	# -GOROSTEGUI JULIAN ALEJANDRO	JUAN MANUEL DE ROSAS 295	3491537633	
+Hix30.72 / :6	: *64	* |1|	#85825	# -MANSILLA PEDRO RAMON	TUCUMAN 1427	71702	
+Hix30.72 / :6	: *65	* |0|	#		# -		
+Hix30.72 / :6	: *66	* |1|	#85630	# -BERTOLINO MARTA TERESITA	INDEPENDENCIA 837	71620	
+Hix30.72 / :6	: *67	* |1|	#85828	# -OJEDA LEONARDO LUIS	SANTIAGO DEL ESTERO S/N	72668	
+Hix30.72 / :6	: *68	* |2|	#		# -		
+Hix30.72 / :6	: *69	* |1|	#84035	# -ARAUJO CARLOS JAVIER	J.M. DE ROSAS 396	71598	
+Hix30.72 / :6	: *70	* |1|	#85633	# -GONZALEZ GISELA VERONICA	JOSE FELIX 1100		
+Hix30.72 / :6	: *71	* |0|	#		# -		
+Hix30.72 / :6	: *72	* |2|	#		# -		
+Hix30.72 / :7	: *1	* |1|	#501320	# -ORTIZ CARLOS	INDEPENDENCIA 688	3491697716	
+Hix30.72 / :7	: *2	* |2|	#		# -		
+Hix30.72 / :7	: *3	* |1|	#502306	# -ALMADA ARIEL ALEJANDRO	INDEPENDENCIA Y SAN CRISTOBAL	3491415080	
+Hix30.72 / :7	: *4	* |0|	#		# -		
+Hix30.72 / :7	: *5	* |1|	#83514	# -Escuela de Formacion Lab.	VUELTA DE OBLIGADO 951	472518	
+Hix30.72 / :7	: *6	* |0|	#		# -		
+Hix30.72 / :7	: *7	* |0|	#		# -		
+Hix30.72 / :7	: *8	* |1|	#500901	# -RUIZ OSVALDO CESAR	TIERRA DEL FUEGO 1129	74873	
+Hix30.72 / :7	: *9	* |1|	#85642	# -RODRIGUEZ MARIA ISABEL	VUELTA DE OBLIGADO S/N	73790	
+Hix30.72 / :7	: *10	* |0|	#		# -		
+Hix30.72 / :7	: *11	* |0|	#		# -		
+Hix30.72 / :7	: *12	* |2|	#		# -		
+Hix30.72 / :7	: *13	* |0|	#		# -		
+Hix30.72 / :7	: *14	* |0|	#		# -		
+Hix30.72 / :7	: *15	* |0|	#		# -		
+Hix30.72 / :7	: *16	* |0|	#		# -		
+Hix30.72 / :7	: *17	* |2|	#		# -		
+Hix30.72 / :7	: *18	* |2|	#		# -		
+Hix30.72 / :7	: *19	* |2|	#		# -		
+Hix30.72 / :7	: *20	* |2|	#		# -		
+Hix30.72 / :7	: *21	* |1|	#500097	# -BLASI MARIA BELEN	6 DE CABALLERIA Y SGO. DEL ESTERO	75427	
+Hix30.72 / :7	: *22	* |1|	#500093	# -YBARRA FABIAN LUIS	SANTO DOMINGO 953	75177	
+Hix30.72 / :7	: *23	* |1|	#83415	# -DEFAGOT JORGE	HECTOR ESTELA Y RUTA 2	70830	
+Hix30.72 / :7	: *24	* |0|	#		# -		
+Hix30.72 / :7	: *25	* |1|	#500110	# -ROTELA MERCEDES DEL CARME	HECTOR ESTELA S/N		
+Hix30.72 / :7	: *26	* |0|	#		# -		
+Hix30.72 / :7	: *27	* |2|	#		# -		
+Hix30.72 / :7	: *28	* |0|	#		# -		
+Hix30.72 / :7	: *29	* |1|	#500155	# -FERNANDEZ ANALIA SORAYA	TIERRA DEL FUEGO 1258	75001	
+Hix30.72 / :7	: *30	* |0|	#		# -		
+Hix30.72 / :7	: *31	* |0|	#		# -		
+Hix30.72 / :7	: *32	* |1|	#500202	# -OJEDA ALEJANDRO OSCAR	JUAN MANUEL DE ROSAS 283		
+Hix30.72 / :7	: *33	* |1|	#500262	# -CLAVERO EMMA VELIA	HECTOR ESTELA 1033	73901	
+Hix30.72 / :7	: *34	* |0|	#		# -		
+Hix30.72 / :7	: *35	* |0|	#		# -		
+Hix30.72 / :7	: *36	* |0|	#		# -		
+Hix30.72 / :7	: *37	* |0|	#		# -		
+Hix30.72 / :7	: *38	* |1|	#500349	# -WLOZOVITZ CLAUDIO EMILIO	GOBERNADOR CRESPO 1459	75632	
+Hix30.72 / :7	: *39	* |0|	#		# -		
+Hix30.72 / :7	: *40	* |0|	#		# -		
+Hix30.72 / :7	: *41	* |0|	#		# -		
+Hix30.72 / :7	: *42	* |0|	#		# -		
+Hix30.72 / :7	: *43	* |1|	#85396	# -ROLANDI FABIAN SILVANO	VUELTA DE OBLIGADO 264	15502672	
+Hix30.72 / :7	: *44	* |0|	#		# -		
+Hix30.72 / :7	: *45	* |1|	#500865	# -NEGROTTO CLARA	HAITI ENTRE CRESPO E INDEPENDENCIA	3385461755	
+Hix30.72 / :7	: *46	* |0|	#		# -		
+Hix30.72 / :7	: *47	* |0|	#		# -		
+Hix30.72 / :7	: *48	* |2|	#		# -		
+Hix30.72 / :7	: *49	* |1|	#502187	# -FUTURO GAS S.A	RUTA PROVINCIAL 2 KM 350	475811	
+Hix30.72 / :7	: *50	* |1|	#85517	# -NIELLO JUAN CARLOS	ISLAS MALVINAS 744	71237	
+Hix30.72 / :7	: *51	* |0|	#		# -		
+Hix30.72 / :7	: *52	* |1|	#500555	# -CASSINO MELANI ELEN	INDEPENDENCIA 1052	3491553340	
+Hix30.72 / :7	: *53	* |0|	#		# -		
+Hix30.72 / :7	: *54	* |1|	#474556	# -COOPERATIVA TELEFONICA Y OSPA (SANEAMIENTO)	SARMIENTO 1368	474556	
+Hix30.72 / :7	: *55	* |0|	#		# -		
+Hix30.72 / :7	: *56	* |0|	#		# -		
+Hix30.72 / :7	: *57	* |0|	#		# -		
+Hix30.72 / :7	: *58	* |0|	#		# -		
+Hix30.72 / :7	: *59	* |0|	#		# -		
+Hix30.72 / :7	: *60	* |0|	#		# -		
+Hix30.72 / :7	: *61	* |0|	#		# -		
+Hix30.72 / :7	: *62	* |0|	#		# -		
+Hix30.72 / :7	: *63	* |0|	#		# -		
+Hix30.72 / :7	: *64	* |1|	#501348	# -ROA VICTOR	6 DE CABALLERIA 600	74921	
+Hix30.72 / :7	: *65	* |1|	#500632	# -MIGUELEZ MIRTA ANTONIA	JUAN MANUEL DE ROSAS 483	72770	
+Hix30.72 / :7	: *66	* |2|	#		# -		
+Hix30.72 / :7	: *67	* |2|	#		# -		
+Hix30.72 / :7	: *68	* |0|	#		# -		
+Hix30.72 / :7	: *69	* |0|	#		# -		
+Hix30.72 / :7	: *70	* |0|	#		# -		
+Hix30.72 / :7	: *71	* |2|	#		# -		
+Hix30.72 / :7	: *72	* |0|	#:: *   # -
+
+UT.57 / :8	:* 1	* |2|	#		# - 		
+UT.57 / :8	:* 2	* |1|	#500043	# - Rodriguez Nancy Miriam	Angela Perlta Pino 741	74338	
+UT.57 / :8	:* 3	* |1|	#85269	# - SANCHEZ CESAR HORACIO	SANTO DOMINGO 1755	75267	
+UT.57 / :8	:* 4	* |0|	#		# - 		
+UT.57 / :8	:* 5	* |1|	#84597	# - Pavon Marta	MAIPU 1262	72948	
+UT.57 / :8	:* 6	* |0|	#		# - 		
+UT.57 / :8	:* 7	* |1|	#85321	# - QUIROGA EDUARDO RUBEN	JUAN DE GARAY 1785	75583	
+UT.57 / :8	:* 8	* |1|	#85428	# - OLIVARI RICARDO SEBASTIAN	SANTA FE 1761	75904	
+UT.57 / :8	:* 9	* |1|	#500657	# - BANEGAS MIGUEL	SAN CRISTOBAL 1551	3491687348	
+UT.57 / :8	:* 10	* |1|	#501039	# - ROLDAN GISELA VERONICA	SAN CRISTOBAL Y CARLOS GARDEL	3491544170	
+UT.57 / :8	:* 11	* |0|	#		# - 		
+UT.57 / :8	:* 12	* |1|	#84946	# - CONTE DORA	SAAVEDRA 1533	70112	
+UT.57 / :8	:* 13	* |1|	#84075	# - Castellano Elena Esther	HAITI S/N	74409	
+UT.57 / :8	:* 14	* |0|	#		# - 		
+UT.57 / :8	:* 15	* |0|	#		# - 		
+UT.57 / :8	:* 16	* |0|	#		# - 		
+UT.57 / :8	:* 17	* |1|	#84102	# - Chavez Diego Rolando	CARLOS GARDEL Y COSTA RICA	74625	
+UT.57 / :8	:* 18	* |0|	#		# - 		
+UT.57 / :8	:* 19	* |0|	#		# - 		
+UT.57 / :8	:* 20	* |0|	#		# - 		
+UT.57 / :8	:* 21	* |0|	#		# - 		
+UT.57 / :8	:* 22	* |0|	#		# - 		
+UT.57 / :8	:* 23	* |0|	#		# - 		
+UT.57 / :8	:* 24	* |0|	#		# - 		
+UT.57 / :8	:* 25	* |2|	#		# - 		
+UT.57 / :8	:* 26	* |0|	#		# - 		
+UT.57 / :8	:* 27	* |0|	#		# - 		
+UT.57 / :8	:* 28	* |0|	#		# - 		
+UT.57 / :8	:* 29	* |0|	#		# - 		
+UT.57 / :8	:* 30	* |1|	#85515	# - GUTIERREZ LEONARDO ALBERTO	ELMO PEREZLINDO 1070	74859	
+UT.57 / :8	:* 31	* |0|	#		# - 		
+UT.57 / :8	:* 32	* |1|	#83620	# - Martinez Carlos Mario	BALCARCE S/N	70577	
+UT.57 / :8	:* 33	* |1|	#85657	# - ROJAS GLADIS ESTER	HAITI 1760	74930	
+UT.57 / :8	:* 34	* |0|	#		# - 		
+UT.57 / :8	:* 35	* |0|	#		# - 		
+UT.57 / :8	:* 36	* |1|	#85399	# - ALTAMIRANO ROSANA ZUNILDA	BARTOLOME MITRE 1429	75484	
+UT.57 / :8	:* 37	* |1|	#85477	# - BUSTOS LORENA MARISEL	SAN CRISTOBAL 1966	75586	
+UT.57 / :8	:* 38	* |0|	#		# - 		
+UT.57 / :8	:* 39	* |1|	#84845	# - CEJAS MARIA DEOLINDA	JUAN DE GARAY 1900	75433	
+UT.57 / :8	:* 40	* |0|	#		# - 		
+UT.57 / :8	:* 41	* |0|	#		# - 		
+UT.57 / :8	:* 42	* |0|	#		# - 		
+UT.57 / :8	:* 43	* |1|	#84077	# - Paez Raul	ELMO PEREZLINDO 942	72184	
+UT.57 / :8	:* 44	* |0|	#		# - 		
+UT.57 / :8	:* 45	* |0|	#		# - 		
+UT.57 / :8	:* 46	* |1|	#500941	# - BUSTOS OSCAR ALEJANDRO	SAN CRISTOBAL CASI REP ARGENTINA	3491415818	
+UT.57 / :8	:* 47	* |0|	#		# - 		
+UT.57 / :8	:* 48	* |0|	#		# - 		
+UT.57 / :9	:* 1	* |1|	#84571	# - Peralta Victor Rodolfo	BRASIL 1058	72126	
+UT.57 / :9	:* 2	* |0|	#		# - 		
+UT.57 / :9	:* 3	* |0|	#		# - 		
+UT.57 / :9	:* 4	* |0|	#		# - 		
+UT.57 / :9	:* 5	* |1|	#85174	# - RUIZ ALBINA	COSTA RICA 1341	74335	
+UT.57 / :9	:* 6	* |0|	#		# - 		
+UT.57 / :9	:* 7	* |1|	#84830	# - GARCIA ROMINA SOLEDAD	MORENO Y LAS HERAS	75431	
+UT.57 / :9	:* 8	* |1|	#83747	# - YAPUR LUIS OMAR	INDIO Y 1 DE MAYO	72697	
+UT.57 / :9	:* 9	* |0|	#		# - 		
+UT.57 / :9	:* 10	* |0|	#		# - 		
+UT.57 / :9	:* 11	* |1|	#84962	# - TOLOSA MATIAS -mojica-	1 DE MAYO 1743	75797	
+UT.57 / :9	:* 12	* |1|	#85899	# - GALLARDO EUGENIA CARINA	BETO MARTINI		
+UT.57 / :9	:* 13	* |0|	#		# - 		
+UT.57 / :9	:* 14	* |0|	#		# - 		
+UT.57 / :9	:* 15	* |0|	#		# - 		
+UT.57 / :9	:* 16	* |1|	#		# - 		
+UT.57 / :9	:* 17	* |1|	#84026	# - Asoc. Escuela Nocturna 2549	AV. RIVADAVIA 1685	70575	
+UT.57 / :9	:* 18	* |0|	#		# - 		
+UT.57 / :9	:* 19	* |1|	#83518	# - Amaya Juan	BALCARCE 1734	70607	
+UT.57 / :9	:* 20	* |0|	#		# - 		
+UT.57 / :9	:* 21	* |0|	#		# - 		
+UT.57 / :9	:* 22	* |1|	#84151	# - Cardozo Viviana	INDIO 2231	75020	
+UT.57 / :9	:* 23	* |0|	#		# - 		
+UT.57 / :9	:* 24	* |0|	#		# - 		
+UT.57 / :9	:* 25	* |0|	#		# - 		
+UT.57 / :9	:* 26	* |1|	#83711	# - Mansilla Alejandro	ALVEAR 1554	74934	
+UT.57 / :9	:* 27	* |1|	#83724	# - Moran Antonia Campos de	SARMIENTO 1848	73754	
+UT.57 / :9	:* 28	* |1|	#85529	# - CORIA SANDRA	BETO MARTINI 1179	75873	
+UT.57 / :9	:* 29	* |0|	#		# - 		
+UT.57 / :9	:* 30	* |0|	#		# - 		
+UT.57 / :9	:* 31	* |0|	#		# - 		
+UT.57 / :9	:* 32	* |0|	#		# - 		
+UT.57 / :9	:* 33	* |0|	#		# - 		
+UT.57 / :9	:* 34	* |0|	#		# - 		
+UT.57 / :9	:* 35	* |1|	#83924	# - FARIAS SILVIA	HAITI Y CARLOS GARDEL	73834	
+UT.57 / :9	:* 36	* |0|	#		# - 		
+UT.57 / :9	:* 37	* |1|	#85510	# - MANSILLA JOSE MARIO	BETO MARTINI Y 6 DE CABALLARIA	75544	
+UT.57 / :9	:* 38	* |0|	#		# - 		
+UT.57 / :9	:* 39	* |1|	#85203	# - RODRIGUEZ SILVINA MARINA	PATAGONES 1754	75569	
+UT.57 / :9	:* 40	* |1|	#85811	# - MOLINA RUFINA TERESA	STO DOMINGO T REP. ARGENTINA	75382	
+UT.57 / :9	:* 41	* |0|	#		# - 		
+UT.57 / :9	:* 42	* |0|	#		# - 		
+UT.57 / :9	:* 43	* |2|	#		# - 		
+UT.57 / :9	:* 44	* |1|	#84169	# - Cabrera Adriana	RANQUELES 1836	72490	
+UT.57 / :9	:* 45	* |1|	#85207	# - VISGARRA MARIANA SOLEDAD	BETO MARTINI 835	75944	
+UT.57 / :9	:* 46	* |1|	#83932	# - martinez Miguel Angel	JUAN DE GARAY 1764	71638	
+UT.57 / :9	:* 47	* |0|	#		# - 		
+UT.57 / :9	:* 48	* |0|	#		# - 		
+UT.57 / :10	:* 1	* |1|	#85198	# - ACOSTA LORENA	ALVEAR 1663	75716	
+UT.57 / :10	:* 2	* |0|	#		# - 		
+UT.57 / :10	:* 3	* |0|	#		# - 		
+UT.57 / :10	:* 4	* |2|	#		# - 		
+UT.57 / :10	:* 5	* |0|	#		# - 		
+UT.57 / :10	:* 6	* |0|	#		# - 		
+UT.57 / :10	:* 7	* |1|	#500508	# - GIMENEZ NATALIA EDITH	6 DE CABALLERIA CASI BETO MARTINI	75558	
+UT.57 / :10	:* 8	* |0|	#		# - 		
+UT.57 / :10	:* 9	* |0|	#		# - 		
+UT.57 / :10	:* 10	* |0|	#		# - 		
+UT.57 / :10	:* 11	* |0|	#		# - 		
+UT.57 / :10	:* 12	* |2|	#		# - 		
+UT.57 / :10	:* 13	* |1|	#85406	# - VERON ENRIQUETA	CAMANDANTE CEBALLOS 1816	72233	
+UT.57 / :10	:* 14	* |0|	#		# - 		
+UT.57 / :10	:* 15	* |1|	#85353	# - ROJAS MARIA DORA	HAITI 1663	74384	
+UT.57 / :10	:* 16	* |2|	#		# - 		
+UT.57 / :10	:* 17	* |1|	#84817	# - JUAREZ ELENA BEATRIZ	DR EDUARDO MIRAGAYA 2238	74489	
+UT.57 / :10	:* 18	* |1|	#85181	# - LUIS MARIA DE GUADALUPE	BALCARCE 2162	74557	
+UT.57 / :10	:* 19	* |1|	#85362	# - MORALES GUSTAVO OSCAR	JUAN DE GARAY 2064	75983	
+UT.57 / :10	:* 20	* |0|	#		# - 		
+UT.57 / :10	:* 21	* |1|	#85377	# - CERRUTO VICTORIO FRANCISCO	MAIPU 1536	70057	
+UT.57 / :10	:* 22	* |2|	#		# - 		
+UT.57 / :10	:* 23	* |0|	#		# - 		
+UT.57 / :10	:* 24	* |2|	#		# - 		
+UT.57 / :10	:* 25	* |0|	#		# - 		
+UT.57 / :10	:* 26	* |1|	#85536	# - BREVEL AGUSTIN	SAN CRISTOBAL 1922	75169	
+UT.57 / :10	:* 27	* |2|	#		# - 		
+UT.57 / :10	:* 28	* |0|	#		# - 		
+UT.57 / :10	:* 29	* |2|	#		# - 		
+UT.57 / :10	:* 30	* |1|	#83323	# - Rosa Ruarte -franco diaz-	SAAVEDRA 1668	71835	
+UT.57 / :10	:* 31	* |2|	#		# - 		
+UT.57 / :10	:* 32	* |0|	#		# - 		
+UT.57 / :10	:* 33	* |2|	#		# - 		
+UT.57 / :10	:* 34	* |1|	#500891	# - CEJAS MERCEDES	1 DE MAYO 1849	3491431444	
+UT.57 / :10	:* 35	* |0|	#		# - 		
+UT.57 / :10	:* 36	* |1|	#85455	# - AMAYA DANISA MARILIN	SAAVEDRA Y BUENOS AIRES	75605	
+UT.57 / :10	:* 37	* |0|	#		# - 		
+UT.57 / :10	:* 38	* |0|	#		# - 		
+UT.57 / :10	:* 39	* |2|	#		# - 		
+UT.57 / :10	:* 40	* |0|	#		# - 		
+UT.57 / :10	:* 41	* |0|	#		# - 		
+UT.57 / :10	:* 42	* |2|	#		# - 		
+UT.57 / :10	:* 43	* |1|	#85400	# - SIMBRON DELFINA VILMA	JUAN DE GARAY 2052	72729	
+UT.57 / :10	:* 44	* |0|	#		# - 		
+UT.57 / :10	:* 45	* |1|	#83593	# - IGLESIA VISION DE FUTURO	SAAVEDRA Y MAIPU	75031	
+UT.57 / :10	:* 46	* |0|	#		# - 		
+UT.57 / :10	:* 47	* |1|	#84818	# - SALGADO ROSANA VERONICA	COSTA RICA 1785	75387	
+UT.57 / :10	:* 48	* |2|	#		# - 		
+UT.57 / :11	:* 1	* |2|	#		# - 		
+UT.57 / :11	:* 2	* |0|	#		# - 		
+UT.57 / :11	:* 3	* |1|	#83896	# - Garcia Lucila	MAIPU 1248	73957	
+UT.57 / :11	:* 4	* |0|	#		# - 		
+UT.57 / :11	:* 5	* |1|	#501094	# - VALLEJOS JESICA CECILIA	ANGELA PERALTA PINO 971	3491531453	
+UT.57 / :11	:* 6	* |0|	#		# - 		
+UT.57 / :11	:* 7	* |1|	#85222	# - ELUSTONDO JOSE MIGUEL	AV RIVADAVIA Y LAS HERAS	73822	
+UT.57 / :11	:* 8	* |1|	#500324	# - GAUNA DELFINA MARIA	INDIO 2040	71688	
+UT.57 / :11	:* 9	* |0|	#		# - 		
+UT.57 / :11	:* 10	* |0|	#		# - 		
+UT.57 / :11	:* 11	* |0|	#		# - 		
+UT.57 / :11	:* 12	* |1|	#85388	# - QUIROZ DIEGO EDGARDO	6 DE CABALLERIA 1755	75225	
+UT.57 / :11	:* 13	* |1|	#85242	# - RAVELO CRISTIAN FERNANDO	BALCARCE S/N (VIV-70)	74787	
+UT.57 / :11	:* 14	* |1|	#501809	# - BASANO OLGA ALDANA	TITO PIEDRA 922	3491505331	
+UT.57 / :11	:* 15	* |0|	#		# - 		
+UT.57 / :11	:* 16	* |0|	#		# - 		
+UT.57 / :11	:* 17	* |0|	#		# - 		
+UT.57 / :11	:* 18	* |1|	#84279	# - Centro Crecer Juntos	SARMIENTO Y MITRE	74550	
+UT.57 / :11	:* 19	* |0|	#		# - 		
+UT.57 / :11	:* 20	* |0|	#		# - 		
+UT.57 / :11	:* 21	* |1|	#85578	# - ZURITA GRISELDA ISABEL	HAITI Y REP. ARGENTINA	75381	
+UT.57 / :11	:* 22	* |1|	#84853	# - LUNA AMELIA- MOREYRA JULIA	BARTOLOME MITRE 1950	71163	
+UT.57 / :11	:* 23	* |0|	#		# - 		
+UT.57 / :11	:* 24	* |0|	#		# - 		
+UT.57 / :11	:* 25	* |2|	#		# - 		
+UT.57 / :11	:* 26	* |1|	#85833	# - CORIA RUBEN ABELARDO	JUAN DE GARAY 1865	72719	
+UT.57 / :11	:* 27	* |0|	#		# - 		
+UT.57 / :11	:* 28	* |0|	#		# - 		
+UT.57 / :11	:* 29	* |0|	#		# - 		
+UT.57 / :11	:* 30	* |0|	#		# - 		
+UT.57 / :11	:* 31	* |1|	#84300	# - Tobias Venicia Juana	BRASIL Y MORENO 1900	74880	
+UT.57 / :11	:* 32	* |0|	#		# - 		
+UT.57 / :11	:* 33	* |0|	#		# - 		
+UT.57 / :11	:* 34	* |1|	#500968	# - NIEVES RUBEN EDGARDO	HAITI 1521	72977	
+UT.57 / :11	:* 35	* |0|	#		# - 		
+UT.57 / :11	:* 36	* |1|	#85256	# - LUNA CARLOS HERNAN	MORENO 1678	71582	baja
+UT.57 / :11	:* 37	* |0|	#		# - 		
+UT.57 / :11	:* 38	* |0|	#		# - 		
+UT.57 / :11	:* 39	* |0|	#		# - 		
+UT.57 / :11	:* 40	* |0|	#		# - 		
+UT.57 / :11	:* 41	* |0|	#		# - 		
+UT.57 / :11	:* 42	* |0|	#		# - 		
+UT.57 / :11	:* 43	* |0|	#		# - 		
+UT.57 / :11	:* 44	* |0|	#		# - 		
+UT.57 / :11	:* 45	* |0|	#		# - 		
+UT.57 / :11	:* 46	* |0|	#		# - 		
+UT.57 / :11	:* 47	* |1|	#84860	# - RODRIGUEZ EDUARDO DANIEL	DIAGUITAS 2055	75759	
+UT.57 / :11	:* 48	* |2|	#		# - 		
+UT.57 / :   :*      * | |   #       # - 

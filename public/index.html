@@ -7,81 +7,71 @@
     <link rel="shortcut icon" href="assets/diamond.png" type="image/x-icon">
     <link rel="stylesheet" href="css/styles.css">
 </head>
-<body class=" bg-white w-full h-screen text-black dark:text-white dark:bg-black px-2">
+<body class="w-full  bg-negro-base text-amarillo-base px-2 py-2">
 
-    <template id="template-product">
-        <div class="equipmentItem flex justify-between p-7 border-gray-500 border-2 rounded-xl">
-            <div class=" ">
-                <header class="flex space-x-2">
-                    <h2 class="brand">
-                        
-                    </h2>
-                    <p class="model font-bold">
-                        
-                    </p>
-                </header>
-                <div>
-                    <p class="description font-light">
+    <template id="template">
+            <tr id="templateRow" class="visible flex space-x-4 hover hover:cursor-default">
+                <th class="modelo"></th>
+                <th class="nPlaca"></th>
+                <th class="nPuerto"></th>
+                <th class="estado"></th>
+                <th class="nCliente"></th>
+                <th class="info"></th> 
+            </tr>
 
-                    </p>
-                </div>
-                <footer class="flex space-x-2">
-                    <a href="http://129.168.20.70/" class="link ip" target="_blank">
-                        
-                    </a>
-                    <p class="font-light location">
-                        
-                    </p>
-                </footer>
-            </div>
-            <figure class="w-10 flex items-center justify-center cursor-pointer ease-in duration-300 dark:invert ">
-                <img src="assets/arrow-enter.svg" alt="">
-            </figure>
-        </div>
+            <tr id="templateRow2" class="visible flex space-x-4 hover hover:cursor-default">
+                <th class="modelo"></th>
+                <th class="nPuerto"></th>
+                <th class="estado"></th>
+                <th class="nCliente"></th>
+                <th class="info"></th> 
+            </tr>
     </template>
-
-    <header class="flex flex-col align-middle px-5 pt-10">
-        <ol class="w-full flex justify-between align-middle">
-            <li class="flex  dark:text-white">
-                AdslClient
-            </li>
-            <li class="">
-                <input id="button-theme" type="checkbox" class="toggle" checked/>
-            </li>
-        </ol>
-        <div class="flex justify-between items-center p-2 mt-2 rounded-xl">
-            <button id="cFilters" class="btn btn-square bg-transparent border-0 w-8">
-                <img src="assets/trash.svg" alt="">
-            </button>
-            <div class="flex space-x-1">
-                <select id="fBrand" class="select select-sm text-white">
-                    <option></option>
-                    <option>Siemens</option>
-                    <option>CCom</option>
-                    <option>UTStarcom</option>
-                    <option>Corecess</option>
-                    <option>Paradyne</option>
-                    <option>ZyXEL</option>
-                    <option>ZHONE</option>
-                </select>
-                <select id="fLocation" class="select select-sm text-white">
-                    <option></option>
-                    <option>30</option>
-                    <option>40</option>
-                    <option>50</option>
-                    <option>central</option>
-                </select>
-            </div>
-        </div>
+    
+    <header class=" flex items-center justify-start h-24">
+        <input id="search" type="text" placeholder="Type here" class="input text-white input-bordered border-amarillo-base bg-negro-base w-full max-w-xs mx-4"/>
     </header>
-        
-    <main id="main-section" class="overflow-scroll h-3/4 px-5 pt-5 space-y-4 grid">
-        
+
+    <main id="main-section" class="flex px-3 h-2/3 ">
+        <div class="w-2/4 px-2">
+            <table class="table table-xs grid w-full">
+                <thead class="bg-amarillo-base text-negro-base">
+                    <tr class="">
+                        <th>Modelo</th>
+                        <th>Placa</th>
+                        <th>Puerto</th>
+                        <th>Estado</th>
+                        <th>Nº Cliente</th>
+                        <th>Info</th> 
+                    </tr>
+                </thead> 
+
+                <tbody class="tBody grid">
+                </tbody>
+            </table>
+        </div>
+        <div class="w-2/4 px-2">
+            <table class="table table-xs grid w-full">
+                <thead class="bg-amarillo-base text-negro-base">
+                    <tr class="">
+                        <th>Modelo</th>
+                        <th>Puerto</th>
+                        <th>Estado</th>
+                        <th>Nº Cliente</th>
+                        <th>Info</th> 
+                    </tr>
+                </thead> 
+
+                <tbody class="tBody2 grid">
+                </tbody>
+            </table>
+        </div>
     </main>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.5.0/axios.min.js"></script>
+    <!-- <script src="../node_modules/axios/dist/axios.min.js"></script>
     <script src="js/cFilters.js"></script>
     <script src="js/theme.js"></script>
-    <script src="js/equipment.js"></script>
+    <script src="js/equipment.js"></script> -->
+    <script src="js/search.js"></script>
 </body>
 </html>

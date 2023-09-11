@@ -1,0 +1,732 @@
+DSLAM1.43-40 / :1	: |0|	#		# - 	
+DSLAM1.43-40 / :2	: |0|	#		# - 	
+DSLAM1.43-40 / :3	: |2|	#		# - 	
+DSLAM1.43-40 / :4	: |2|	#		# - 	
+DSLAM1.43-40 / :5	: |2|	#		# - 	
+DSLAM1.43-40 / :6	: |2|	#		# - 	
+DSLAM1.43-40 / :7	: |0|	#		# - 	
+DSLAM1.43-40 / :8	: |0|	#		# - 	
+DSLAM1.43-40 / :9	: |0|	#		# - 	
+DSLAM1.43-40 / :10	: |2|	#		# - 	
+DSLAM1.43-40 / :11	: |1|	#85053	# - MUGA SILVANA ISABEL	RIO NEGRO 2650	75233
+DSLAM1.43-40 / :12	: |1|	#502596	# - PONCE SEGUNDO NABEL	GUEMES 1062	472091
+DSLAM1.43-40 / :13	: |0|	#		# - 	
+DSLAM1.43-40 / :14	: |0|	#		# - 	
+DSLAM1.43-40 / :15	: |2|	#		# - 	
+DSLAM1.43-40 / :16	: |2|	#		# - 	
+DSLAM1.43-40 / :17	: |0|	#		# - 	
+DSLAM1.43-40 / :18	: |0|	#		# - 	
+DSLAM1.43-40 / :19	: |0|	#		# - 	
+DSLAM1.43-40 / :20	: |0|	#		# - 	
+DSLAM1.43-40 / :21	: |0|	#		# - 	
+DSLAM1.43-40 / :22	: |2|	#		# - 	
+DSLAM1.43-40 / :23	: |2|	#		# - 	
+DSLAM1.43-40 / :24	: |0|	#		# - 	
+DSLAM1.43-40 / :25	: |0|	#		# - 	
+DSLAM1.43-40 / :26	: |2|	#		# - 	
+DSLAM1.43-40 / :27	: |2|	#		# - 	
+DSLAM1.43-40 / :28	: |0|	#		# - 	
+DSLAM1.43-40 / :29	: |0|	#		# - 	
+DSLAM1.43-40 / :30	: |0|	#		# - 	
+DSLAM1.43-40 / :31	: |0|	#		# - 	
+DSLAM1.43-40 / :32	: |0|	#		# - 	
+DSLAM1.43-40 / :33	: |0|	#		# - 	
+DSLAM1.43-40 / :34	: |0|	#		# - 	
+DSLAM1.43-40 / :35	: |0|	#		# - 	
+DSLAM1.43-40 / :36	: |0|	#		# - 	
+DSLAM1.43-40 / :37	: |0|	#		# - 	
+DSLAM1.43-40 / :38	: |2|	#		# - 	
+DSLAM1.43-40 / :39	: |0|	#		# - 	
+DSLAM1.43-40 / :40	: |0|	#		# - 	
+DSLAM1.43-40 / :41	: |2|	#		# - 	
+DSLAM1.43-40 / :42	: |0|	#		# - 	
+DSLAM1.43-40 / :43	: |0|	#		# - 	
+DSLAM1.43-40 / :44	: |0|	#		# - 	
+DSLAM1.43-40 / :45	: |0|	#		# - 	
+DSLAM1.43-40 / :46	: |0|	#		# - 	
+DSLAM1.43-40 / :47	: |0|	#		# - 	
+DSLAM1.43-40 / :48	: |2|	#		# - 	
+DSLAM1.43-40 / :    : | |   #       # -                                
+
+
+
+CORESSES4.44-40 /: 1	:|2|	#		# - 	
+CORESSES4.44-40 /: 2	:|0|	#		# - 	
+CORESSES4.44-40 /: 3	:|0|	#		# - 	
+CORESSES4.44-40 /: 4	:|1|	#501513	# - MOJICA RAFAEL	CABO A CORONEL 2686	1222555455
+CORESSES4.44-40 /: 5	:|0|	#		# - 	
+CORESSES4.44-40 /: 6	:|0|	#		# - 	
+CORESSES4.44-40 /: 7	:|1|	#501165	# - FARIAS LILIANA	LA PAMPA 2840	75449
+CORESSES4.44-40 /: 8	:|1|	#500973	# - GAITAN DIEGO JAVIER	LA PAMPA 2386	75194
+CORESSES4.44-40 /: 9	:|0|	#		# - 	
+CORESSES4.44-40 /: 10	:|0|	#		# - 	
+CORESSES4.44-40 /: 11	:|1|	#84068	# - Bustamante Virginia	SANTA CRUZ Y ENTRE RIOS	73749
+CORESSES4.44-40 /: 12	:|0|	#		# - 	
+CORESSES4.44-40 /: 13	:|0|	#		# - 	
+CORESSES4.44-40 /: 14	:|1|	#84208	# - Perez Gisela	NEUQUEN S/N	72837
+CORESSES4.44-40 /: 15	:|0|	#		# - 	
+CORESSES4.44-40 /: 16	:|0|	#		# - 	
+CORESSES4.44-40 /: 17	:|0|	#		# - 	
+CORESSES4.44-40 /: 18	:|1|	#83280	# - Espindola Esther	MISIONES 853	71670
+CORESSES4.44-40 /: 19	:|0|	#		# - 	
+CORESSES4.44-40 /: 20	:|0|	#		# - 	
+CORESSES4.44-40 /: 21	:|0|	#		# - 	
+CORESSES4.44-40 /: 22	:|0|	#		# - 	
+CORESSES4.44-40 /: 23	:|0|	#		# - 	
+CORESSES4.44-40 /: 24	:|0|	#		# - 
+
+
+CCOM1.56-50 /: 1	:|1|	#500400	# - ANTINORI DANIELA EMILCE	SANTA FE CASI LAS HERAS		
+CCOM1.56-50 /: 2	:|1|	#501481	# - RIOS ALEJANDRA	COSTA RICA 1486	32321123132	
+CCOM1.56-50 /: 3	:|1|	#84303	# - Notario Ceverino	TITO PIEDRA 642	74187	
+CCOM1.56-50 /: 4	:|1|	#85382	# - MOLINA MONICA DEL VALLE	1 DE MAYO	75232	
+CCOM1.56-50 /: 5	:|1|	#84334	# - Teves Claudia	PERU 2075	75254	
+CCOM1.56-50 /: 6	:|1|	#84470	# - Boccardo Luisa	BUENOS AIRES 1805	74807	
+CCOM1.56-50 /: 7	:|0|	#		# - 		
+CCOM1.56-50 /: 8	:|1|	#83823	# - Ledesma Santina	TITO PIEDRA 1045	73884	baja
+CCOM1.56-50 /: 9	:|0|	#		# - 		
+CCOM1.56-50 /: 10	:|0|	#		# - 		
+CCOM1.56-50 /: 11	:|1|	#84397	# - Acosta Lorenza	BRASIL S/N	75287	
+CCOM1.56-50 /: 12	:|0|	#		# - 		
+CCOM1.56-50 /: 13	:|0|	#		# - 		
+CCOM1.56-50 /: 14	:|2|	#		# - 		
+CCOM1.56-50 /: 15	:|0|	#		# - 		
+CCOM1.56-50 /: 16	:|1|	#84623	# - Ibarra Luis	ANGELA PERALTA PINO S/N	71097	
+CCOM1.56-50 /: 17	:|1|	#500875	# - MORALES CESAR EDUARDO	LAS HERAS 1392	75822	
+CCOM1.56-50 /: 18	:|1|	#83855	# - Vega Ana	MAIPU 1650	72045	
+CCOM1.56-50 /: 19	:|0|	#		# - 		
+CCOM1.56-50 /: 20	:|2|	#		# - 		
+CCOM1.56-50 /: 21	:|1|	#83344	# - FARIAS OSCAR DANIEL	LAS HERAS 1800	71058	
+CCOM1.56-50 /: 22	:|0|	#		# - 		
+CCOM1.56-50 /: 23	:|0|	#		# - 		
+CCOM1.56-50 /: 24	:|0|	#		# - 		
+CCOM1.56-50 /: 25	:|0|	#		# - 		
+CCOM1.56-50 /: 26	:|0|	#		# - 		
+CCOM1.56-50 /: 27	:|1|	#84460	# - Benites Griselda	MAIPU 1815	73889	
+CCOM1.56-50 /: 28	:|0|	#		# - 		
+CCOM1.56-50 /: 29	:|0|	#		# - 		
+CCOM1.56-50 /: 30	:|0|	#		# - 		
+CCOM1.56-50 /: 31	:|1|	#84355	# - Marabotto Jose	COSTA RICA 1651	73745	
+CCOM1.56-50 /: 32	:|0|	#		# - 		
+CCOM1.56-50 /: 33	:|0|	#		# - 		
+CCOM1.56-50 /: 34	:|0|	#		# - 		
+CCOM1.56-50 /: 35	:|0|	#		# - 		
+CCOM1.56-50 /: 36	:|0|	#		# - 		
+CCOM1.56-50 /: 37	:|0|	#		# - 		
+CCOM1.56-50 /: 38	:|0|	#		# - 		
+CCOM1.56-50 /: 39	:|0|	#		# - 		
+CCOM1.56-50 /: 40	:|0|	#		# - 		
+CCOM1.56-50 /: 41	:|0|	#		# - 		
+CCOM1.56-50 /: 42	:|0|	#		# - 		
+CCOM1.56-50 /: 43	:|0|	#		# - 		
+CCOM1.56-50 /: 44	:|0|	#		# - 		
+CCOM1.56-50 /: 45	:|0|	#		# - 		
+CCOM1.56-50 /: 46	:|1|	#84543	# - Ruiz Maria Cristina	TITO PIEDRA 655	74216	
+CCOM1.56-50 /: 47	:|0|	#		# - 		
+CCOM1.56-50 /: 48	:|1|	#84557	# - maranzana Graciela	JUAN DE GARAY 1669	74793	
+
+
+CCOM2.42-40 / :1	:|0|	#		# - 	
+CCOM2.42-40 / :2	:|2|	#		# - 	
+CCOM2.42-40 / :3	:|1|	#85489	# - LEDESMA JESICA ROMINA	5 DE NOVIEMBRE Y CHILE	75995
+CCOM2.42-40 / :4	:|2|	#		# - 	
+CCOM2.42-40 / :5	:|2|	#		# - 	
+CCOM2.42-40 / :6	:|1|	#83445	# - Carneiro Pedro	CORRIENTES 769 (VIV-16)	70739
+CCOM2.42-40 / :7	:|1|	#84439	# - Cabral Maria	CATAMARCA Y CHUBUT	75301
+CCOM2.42-40 / :8	:|0|	#		# - 	
+CCOM2.42-40 / :9	:|1|	#83274	# - Cuquejo Mirta	PASAJE PUBLICO (VIV- 9) 768	74467
+CCOM2.42-40 / :10	:|0|	#		# - 	
+CCOM2.42-40 / :11	:|2|	#		# - 	
+CCOM2.42-40 / :12	:|1|	#502593	# - LASSO DELIA GUADALUPE	GUEMES 1086	3491400683
+CCOM2.42-40 / :13	:|1|	#501641	# - MEDINA JAIRO	MISIONES 759	3878310294
+CCOM2.42-40 / :14	:|2|	#		# - 	
+CCOM2.42-40 / :15	:|1|	#500910	# - GIORGO ALBERTO	MISIONES 876	3491437456
+CCOM2.42-40 / :16	:|1|	#83606	# - DELLA ROSA TERESA	RIO NEGRO 2040	72254
+CCOM2.42-40 / :17	:|0|	#		# - 	
+CCOM2.42-40 / :18	:|1|	#83802	# - VALDEZ ALICIA	LA PAMPA 1900	72311
+CCOM2.42-40 / :19	:|1|	#502554	# - PAOLONI SILVANA MABEL	5 DE NOVIEMBRE 2374	3491500026
+CCOM2.42-40 / :20	:|1|	#84927	# - BENITES JUAN MANUEL	CATAMARCA Y RIO NEGRO	71309
+CCOM2.42-40 / :21	:|1|	#83790	# - CHAVEZ ENZO	FORMOSA 758	72756
+CCOM2.42-40 / :22	:|0|	#		# - 	
+CCOM2.42-40 / :23	:|1|	#500607	# - GOMEZ RAMON NICOLAS	FORMOSA 961	3878233282
+CCOM2.42-40 / :24	:|0|	#		# - 	
+CCOM2.42-40 / :25	:|1|	#83337	# - ALEGRE MARIA CRISTINA	LA RIOJA 788	71206
+CCOM2.42-40 / :26	:|0|	#		# - 	
+CCOM2.42-40 / :27	:|0|	#		# - 	
+CCOM2.42-40 / :28	:|0|	#		# - 	
+CCOM2.42-40 / :29	:|1|	#84209	# - CORDOBA OSCAR	5 DE NOVIEMBRE 2425	73776
+CCOM2.42-40 / :30	:|1|	#500932	# - RIVERO YANINA ALEJANDRA	CORRIENTES 852	3491698399
+CCOM2.42-40 / :31	:|1|	#501773	# - FERNANDEZ ASUCENA HAIDEE BUENAFE DE	2 DE ABRIL 2341	471556
+CCOM2.42-40 / :32	:|1|	#84004	# - Paz Miguel	DR. RENE FAVALORO	74752
+CCOM2.42-40 / :33	:|1|	#83335	# - HEREDIA MARIO	CATAMARCA 739	74394
+CCOM2.42-40 / :34	:|1|	#83665	# - NATTA DOMINGO	2 DE ABRIL Y FORMOSA	74780
+CCOM2.42-40 / :35	:|1|	#500011	# - CABRERA MARIA ROSA	RIO NEGRO S/N	75621
+CCOM2.42-40 / :36	:|0|	#		# - 	
+CCOM2.42-40 / :37	:|2|	#		# - 	
+CCOM2.42-40 / :38	:|0|	#		# - 	
+CCOM2.42-40 / :39	:|1|	#501466	# - LEGUIZAMON IVAN	CORRIENTES 878	3491541819
+CCOM2.42-40 / :40	:|1|	#83432	# - Monzon Gabriel	2 DE ABRIL S/N	74366
+CCOM2.42-40 / :41	:|0|	#		# - 	
+CCOM2.42-40 / :42	:|0|	#		# - 	
+CCOM2.42-40 / :43	:|1|	#501531	# - ROBLEDO ALBERTO	RECONQUISTA Y LA PAMPA	475656
+CCOM2.42-40 / :44	:|1|	#85605	# - GALLO AUDELINA	PTE PERON 2653	72347
+CCOM2.42-40 / :45	:|0|	#		# - 	
+CCOM2.42-40 / :46	:|0|	#		# - 	
+CCOM2.42-40 / :47	:|2|	#		# - 	
+CCOM2.42-40 / :48	:|0|	#		# - 	
+
+
+
+CCOM3.33-50 /  :1	:|0|	#		# - 	
+CCOM3.33-50 /  :2	:|0|	#		# - 	
+CCOM3.33-50 /  :3	:|1|	#85030	# - OJEDA HECTOR FABIAN	SAN CRISTOBAL S/N	72926
+CCOM3.33-50 /  :4	:|1|	#84888	# - CLUB DE VETERANOS DE BARRIO OESTE	MAIPU E INDIO	74183
+CCOM3.33-50 /  :5	:|1|	#85352	# - DIAZ BEATRIZ ROSA R DE	LAS HERAS 1557	74844
+CCOM3.33-50 /  :6	:|0|	#		# - 	
+CCOM3.33-50 /  :7	:|0|	#		# - 	
+CCOM3.33-50 /  :8	:|1|	#85548	# - REDUELLO LUCIA	SAN CRISTOBAL 1946	74975
+CCOM3.33-50 /  :9	:|1|	#502118	# - ANDRADA NICOLAS EDUARDO	6 DE CABALLERIA 1825	3491537069
+CCOM3.33-50 /  :10	:|0|	#		# - 	
+CCOM3.33-50 /  :11	:|0|	#		# - 	
+CCOM3.33-50 /  :12	:|0|	#		# - 	
+CCOM3.33-50 /  :13	:|0|	#		# - 	
+CCOM3.33-50 /  :14	:|1|	#501272	# - BEJARANO FEDERICO	6 DE CABALLERIA 1846	3491532825
+CCOM3.33-50 /  :15	:|1|	#501724	# - YBALO MARIA	SANTO DOMINGO 1821	3491532781
+CCOM3.33-50 /  :16	:|0|	#		# - 	
+CCOM3.33-50 /  :17	:|1|	#500806	# - ORTIZ JULIO ALBERTO	SAN CRISTOBAL 1360	75553
+CCOM3.33-50 /  :18	:|0|	#		# - 	
+CCOM3.33-50 /  :19	:|0|	#		# - 	
+CCOM3.33-50 /  :20	:|1|	#500100	# - ARAYA MARTA	ELMO PEREZLINDO 857	75471
+CCOM3.33-50 /  :21	:|0|	#		# - 	
+CCOM3.33-50 /  :22	:|1|	#84688	# - Chaparro Pedro hugo	BETO MARTINI 1575	74284
+CCOM3.33-50 /  :23	:|0|	#		# - 	
+CCOM3.33-50 /  :24	:|2|	#		# - 	
+CCOM3.33-50 /  :25	:|1|	#501496	# - PICCO ANGELES MALENA	6 DE CABALLERIA 1751	474228
+CCOM3.33-50 /  :26	:|0|	#		# - 	
+CCOM3.33-50 /  :27	:|1|	#84732	# - mogica Elsa	DIAGUITAS 1945	71287
+CCOM3.33-50 /  :28	:|1|	#501923	# - OJEDA VICTORIA	SAN CRISTOBAL CASI B. MARTINI	3491504377
+CCOM3.33-50 /  :29	:|0|	#		# - 	
+CCOM3.33-50 /  :30	:|0|	#		# - 	
+CCOM3.33-50 /  :31	:|1|	#500301	# - ELIAS FERNANDO	LAS HERAS Y BALCARCE	74724
+CCOM3.33-50 /  :32	:|0|	#		# - 	
+CCOM3.33-50 /  :33	:|0|	#		# - 	
+CCOM3.33-50 /  :34	:|0|	#		# - 	
+CCOM3.33-50 /  :35	:|0|	#		# - 	
+CCOM3.33-50 /  :36	:|1|	#85425	# - BARRIONUEVO JUAN MAURO	6 DE CABALLERIA 1577	71655
+CCOM3.33-50 /  :37	:|0|	#		# - 	
+CCOM3.33-50 /  :38	:|0|	#		# - 	
+CCOM3.33-50 /  :39	:|0|	#		# - 	
+CCOM3.33-50 /  :40	:|1|	#84619	# - Ortiz Natividad	MAIPU Y MORENO	72611
+CCOM3.33-50 /  :41	:|1|	#84786	# - AGUIRRE LIDIA DE	PATAGONES Y VENEZUELA	71200
+CCOM3.33-50 /  :42	:|1|	#84787	# - MORENO CRISTINA MABEL	SAN CRISTOBAL Y CARLOS GARDEL	75285
+CCOM3.33-50 /  :43	:|0|	#		# - 	
+CCOM3.33-50 /  :44	:|0|	#		# - 	
+CCOM3.33-50 /  :45	:|0|	#		# - 	
+CCOM3.33-50 /  :46	:|1|	#500804	# - MANSILLA GUSTAVO ARIEL	AV RIVADAVIA 1929	3491503009
+CCOM3.33-50 /  :47	:|0|	#		# - 	
+CCOM3.33-50 /  :48	:|2|	#		# - 	
+
+
+
+Paradyne.46-40 / :1	    :|0|	#		# - 	
+Paradyne.46-40 / :2	    :|0|	#		# - 	
+Paradyne.46-40 / :3	    :|0|	#		# - 	
+Paradyne.46-40 / :4	    :|0|	#		# - 	
+Paradyne.46-40 / :5	    :|0|	#		# - 	
+Paradyne.46-40 / :6	    :|0|	#		# - 	
+Paradyne.46-40 / :7	    :|0|	#		# - 	
+Paradyne.46-40 / :8	    :|0|	#		# - 	
+Paradyne.46-40 / :9	    :|0|	#		# - 	
+Paradyne.46-40 / :10	:|0|	#		# - 	
+Paradyne.46-40 / :11	:|1|	#85163	# - RODRIGUEZ LORENA ALEJANDRA	RIO NEGRO 1956	75308
+Paradyne.46-40 / :12	:|1|	#501244	# - FERNANDEZ MALVINA	RECONQUISTA Y 9 DE JULIO	3491547132
+Paradyne.46-40 / :13	:|0|	#		# - 	
+Paradyne.46-40 / :14	:|0|	#		# - 	
+Paradyne.46-40 / :15	:|1|	#84898	# - CANSINO TRANSITO	2 DE ABRIL S/N CASI CANADA	71260
+Paradyne.46-40 / :16	:|0|	#		# - 	
+Paradyne.46-40 / :17	:|0|	#		# - 	
+Paradyne.46-40 / :18	:|0|	#		# - 	
+Paradyne.46-40 / :19	:|0|	#		# - 	
+Paradyne.46-40 / :20	:|0|	#		# - 	
+Paradyne.46-40 / :21	:|0|	#		# - 	
+Paradyne.46-40 / :22	:|0|	#		# - 	
+Paradyne.46-40 / :23	:|0|	#		# - 	
+Paradyne.46-40 / :24	:|1|	#84820	# - CEJAS MARTINEZ ROSA BEATRIZ	MISIONES 900	74251
+Paradyne.46-40 / :25	:|0|	#		# - 	
+Paradyne.46-40 / :26	:|1|	#85306	# - PERALTA ANTONIO NORBERTO	LA PAMPA S/N	75289
+Paradyne.46-40 / :27	:|1|	#85444	# - HIPELMAYER ALBERTO	LA RIOJA 777	70050
+Paradyne.46-40 / :28	:|0|	#		# - 	
+Paradyne.46-40 / :29	:|0|	#		# - 	
+Paradyne.46-40 / :30	:|0|	#		# - 	
+Paradyne.46-40 / :31	:|0|	#		# - 	
+Paradyne.46-40 / :32	:|1|	#475888	# - Castelli Spengler Antonio	Catamarca 555	500033
+Paradyne.46-40 / :33	:|1|	#501128	# - CEJAS DARIO JAVIER	BOLIVIA 1141	75709
+Paradyne.46-40 / :34	:|0|	#		# - 	
+Paradyne.46-40 / :35	:|0|	#		# - 	
+Paradyne.46-40 / :36	:|1|	#85622	# - LECLER MARIA VIRGINIA	CORRIENTES 842	
+Paradyne.46-40 / :37	:|0|	#		# - 	
+Paradyne.46-40 / :38	:|0|	#		# - 	
+Paradyne.46-40 / :39	:|0|	#		# - 	
+Paradyne.46-40 / :40	:|1|	#84223	# - Ponce Juan Hugo	CHUBUT 2061	71026
+Paradyne.46-40 / :41	:|1|	#84125	# - Rey Cesar y Rodriguez Carina	MISIONES 841	73641
+Paradyne.46-40 / :42	:|1|	#85364	# - CARNEIRO MARIA ADELINA	FORMOSA 863	75984
+Paradyne.46-40 / :43	:|0|	#		# - 	
+Paradyne.46-40 / :44	:|1|	#85381	# - MUGA ERICA SOLEDAD	CHUBUT S/N	75584
+Paradyne.46-40 / :45	:|0|	#		# - 	
+Paradyne.46-40 / :46	:|0|	#		# - 	
+Paradyne.46-40 / :47	:|0|	#		# - 	
+Paradyne.46-40 / :48	:|0|	#		# - 
+
+
+
+Paradyne 54-50 / : 1	:|0| 	#		# - 	
+Paradyne 54-50 / : 2	:|0| 	#		# - 	
+Paradyne 54-50 / : 3	:|0| 	#		# - 	
+Paradyne 54-50 / : 4	:|0| 	#		# - 	
+Paradyne 54-50 / : 5	:|0| 	#		# - 	
+Paradyne 54-50 / : 6	:|0| 	#		# - 	
+Paradyne 54-50 / : 7	:|0| 	#		# - 	
+Paradyne 54-50 / : 8	:|0| 	#		# - 	
+Paradyne 54-50 / : 9	:|0| 	#		# - 	
+Paradyne 54-50 / : 10	:|0| 	#		# - 	
+Paradyne 54-50 / : 11	:|1| 	#500346	# - CLAVE UCLE DANIEL HECTOR	JUAN DE GARAY 1666	
+Paradyne 54-50 / : 12	:|1| 	#84989	# - BAEZ SUSANA ELENA	LAS HERAS 1200	74234
+Paradyne 54-50 / : 13	:|1| 	#84991	# - VAROLI LUIS DARIO	BALCARCE 1760	70142
+Paradyne 54-50 / : 14	:|0| 	#		# - 	
+Paradyne 54-50 / : 15	:|0| 	#		# - 	
+Paradyne 54-50 / : 16	:|0| 	#		# - 	
+Paradyne 54-50 / : 17	:|0| 	#		# - 	
+Paradyne 54-50 / : 18	:|0| 	#		# - 	
+Paradyne 54-50 / : 19	:|0| 	#		# - 	
+Paradyne 54-50 / : 20	:|0| 	#		# - 	
+Paradyne 54-50 / : 21	:|0| 	#		# - 	
+Paradyne 54-50 / : 22	:|0| 	#		# - 	
+Paradyne 54-50 / : 23	:|0| 	#		# - 	
+Paradyne 54-50 / : 24	:|1| 	#85033	# - SEIB GERARDO Y YEDRO DANIELA	RUTA 2	73574
+Paradyne 54-50 / : 25	:|0| 	#		# - 	
+Paradyne 54-50 / : 26	:|0| 	#		# - 	
+Paradyne 54-50 / : 27	:|0| 	#		# - 	
+Paradyne 54-50 / : 28	:|1| 	#83539	# - Varela Antonia	BTME MITRE 1830	74878
+Paradyne 54-50 / : 29	:|1| 	#85083	# - RUBIANO JUAN MANUEL	MITRE 1746	75875
+Paradyne 54-50 / : 30	:|0| 	#		# - 	
+Paradyne 54-50 / : 31	:|0| 	#		# - 	
+Paradyne 54-50 / : 32	:|0| 	#		# - 	
+Paradyne 54-50 / : 33	:|0| 	#		# - 	
+Paradyne 54-50 / : 34	:|0| 	#		# - 	
+Paradyne 54-50 / : 35	:|1| 	#85118	# - OJEDA ETELVINA FLAVIA CARINA	TOBAS 1746	74268
+Paradyne 54-50 / : 36	:|0| 	#		# - 	
+Paradyne 54-50 / : 37	:|0| 	#		# - 	
+Paradyne 54-50 / : 38	:|0| 	#		# - 	
+Paradyne 54-50 / : 39	:|0| 	#		# - 	
+Paradyne 54-50 / : 40	:|0| 	#		# - 	
+Paradyne 54-50 / : 41	:|0| 	#		# - 	
+Paradyne 54-50 / : 42	:|0| 	#		# - 	
+Paradyne 54-50 / : 43	:|1| 	#85105	# - SOSA MARCELA	SAN CRISTOBAL 1447	74669
+Paradyne 54-50 / : 44	:|0| 	#		# - 	
+Paradyne 54-50 / : 45	:|0| 	#		# - 	
+Paradyne 54-50 / : 46	:|1| 	#85124	# - DIAZ HUGO OSCAR	VENEZUELA S/N CASI TOBAS	73819
+Paradyne 54-50 / : 47	:|0| 	#		# - 	
+Paradyne 54-50 / : 48	:|0| 	#		# - 	
+
+Paradyne55-50 / :1	: |0|	#		# - 	
+Paradyne55-50 / :2	: |0|	#		# - 	
+Paradyne55-50 / :3	: |1|	#502238	# - MANZANAREZ MARCELO RAMON	2 DE ABRIL 2176	3491430744
+Paradyne55-50 / :4	: |0|	#		# - 	
+Paradyne55-50 / :5	: |1|	#84074	# - Duarte Hector	CHUBUT 2055	72350
+Paradyne55-50 / :6	: |1|	#500083	# - CHURRUARIN LIDIA Y GOYENECHEA	CATAMARCA 700	74681
+Paradyne55-50 / :7	: |0|	#		# - 	
+Paradyne55-50 / :8	: |1|	#85485	# - PERALTA MARIO VICTOR	2 DE ABRIL 2138	70558
+Paradyne55-50 / :9	: |0|	#		# - 	
+Paradyne55-50 / :10	: |0|	#		# - 	
+Paradyne55-50 / :11	: |1|	#85490	# - ODIANTE MICAEL	GUEMES 1046	
+Paradyne55-50 / :12	: |1|	#85293	# - COMISION DE APOYO A LA CULTURA	PRES. PERON 2200	73333
+Paradyne55-50 / :13	: |1|	#84535	# - Pelagagge Lorena	RIOJA 839	72508
+Paradyne55-50 / :14	: |2|	#		# - 	
+Paradyne55-50 / :15	: |0|	#		# - 	
+Paradyne55-50 / :16	: |0|	#		# - 	
+Paradyne55-50 / :17	: |0|	#		# - 	
+Paradyne55-50 / :18	: |1|	#85514	# - CORIA MARCELA MYRIAM	CORRIENTES 784	74481
+Paradyne55-50 / :19	: |0|	#		# - 	
+Paradyne55-50 / :20	: |1|	#84692	# - Ogdi Victor	5 DE NOVIEMBRE Y GUEMES	75720
+Paradyne55-50 / :21	: |1|	#85528	# - FERNANDEZ HECTOR FABIAN	9 DE JULIO 2665	74421
+Paradyne55-50 / :22	: |0|	#		# - 	
+Paradyne55-50 / :23	: |0|	#		# - 	
+Paradyne55-50 / :24	: |0|	#		# - 	
+Paradyne55-50 / :25	: |1|	#85801	# - VERGARA JESUS ARMANDO	RECONQUISTA Y 2 DE ABRIL	72148
+Paradyne55-50 / :26	: |1|	#85538	# - CASTILLO HUGO MARCELO	SANTA CRUZ S/N	75052
+Paradyne55-50 / :27	: |0|	#		# - 	
+Paradyne55-50 / :28	: |0|	#		# - 	
+Paradyne55-50 / :29	: |1|	#84673	# - Scarafia Margarita	RIO NEGRO 1961	72390
+Paradyne55-50 / :30	: |1|	#84995	# - VIANO VIANO SRL	RECONQUISTA S/N	74580
+Paradyne55-50 / :31	: |1|	#501178	# - MEZA MARIO RODOLFO	5 DE NOVIEMBRE 2332	74415
+Paradyne55-50 / :32	: |2|	#		# - 	
+Paradyne55-50 / :33	: |2|	#		# - 	
+Paradyne55-50 / :34	: |1|	#85298	# - BENEGAS WALTER Y MARSALA NORMA	RIO NEGRO Y ENTRE RIOS	75057
+Paradyne55-50 / :35	: |1|	#83905	# - Olmedilla Maria del Carme	PASAJE PUBLICO 725	72779
+Paradyne55-50 / :36	: |0|	#		# - 	
+Paradyne55-50 / :37	: |0|	#		# - 	
+Paradyne55-50 / :38	: |0|	#		# - 	
+Paradyne55-50 / :39	: |0|	#		# - 	
+Paradyne55-50 / :40	: |0|	#		# - 	
+Paradyne55-50 / :41	: |0|	#		# - 	
+Paradyne55-50 / :42	: |0|	#		# - 	
+Paradyne55-50 / :43	: |2|	#		# - 	
+Paradyne55-50 / :44	: |2|	#		# - 	
+Paradyne55-50 / :45	: |2|	#		# - 	
+Paradyne55-50 / :46	: |2|	#		# - 	
+Paradyne55-50 / :47	: |2|	#		# - 	
+Paradyne55-50 / :48	: |2|	#		# - 	
+
+Zyxel140-40 / :1	:|1| 	#502210	# - GOYENECHEA MARIANA	FORMOSA 945	3491535490
+Zyxel140-40 / :2	:|0| 	#		# - 	
+Zyxel140-40 / :3	:|0| 	#		# - 	
+Zyxel140-40 / :4	:|1| 	#83524	# - Perez, Estela Mariela	LA PAMPA 2500	74985
+Zyxel140-40 / :5	:|0| 	#		# - 	
+Zyxel140-40 / :6	:|0| 	#		# - 	
+Zyxel140-40 / :7	:|1| 	#500237	# - BUSTOS CIRILO	LA PAMPA 2537	75643
+Zyxel140-40 / :8	:|1| 	#84428	# - Kremser Leticia	LA RIOJA 568	74264
+Zyxel140-40 / :9	:|0| 	#		# - 	
+Zyxel140-40 / :10	:|0| 	#		# - 	
+Zyxel140-40 / :11	:|2| 	#		# - 	
+Zyxel140-40 / :12	:|1| 	#83965	# - Dario Gabriel	LA PAMPA 1969	73645
+Zyxel140-40 / :13	:|1| 	#500284	# - ROSALES MARIA CRISTINA	SAN JUAN 570	73549
+Zyxel140-40 / :14	:|2| 	#		# - 	
+Zyxel140-40 / :15	:|1| 	#500288	# - ROSSO ANABELA	LA RIOJA 324	74544
+Zyxel140-40 / :16	:|1| 	#84870	# - CARRION MARIELA	CATAMARCA S/N	72835
+Zyxel140-40 / :17	:|0| 	#		# - 	
+Zyxel140-40 / :18	:|0| 	#		# - 	
+Zyxel140-40 / :19	:|1| 	#502169	# - PACHECO ELIZABET	BOLIVIA 1085	3491550273
+Zyxel140-40 / :20	:|1| 	#500811	# - ALVAREZ EDUARDO GABRIEL	MISIONES 860	72675
+Zyxel140-40 / :21	:|1| 	#85562	# - BLANCO SANDRA	5 DE NOVIEMBRE 2820	75386
+Zyxel140-40 / :22	:|1| 	#500869	# - BENEGA (cejas juan manuel y banega)	CORRIENTES Y NEUQUEN	474881
+Zyxel140-40 / :23	:|1| 	#500473	# - CEJAS WALTER OSCAR	RECONQUISTA 613	75060
+Zyxel140-40 / :24	:|0| 	#		# - 	
+Zyxel140-40 / :25	:|1| 	#85582	# - JUANOVICH MARIO OSCAR	MISIONES 880	
+Zyxel140-40 / :26	:|1| 	#500544	# - FARIAS MARIA ESTELA	LA PAMPA 2300	75261
+Zyxel140-40 / :27	:|1| 	#500543	# - AVALLAY MYRIAM RAQUEL	ENTRE RIOS 737	72421
+Zyxel140-40 / :28	:|0| 	#		# - 	
+Zyxel140-40 / :29	:|1| 	#84626	# - Rucci Veronica	RIO NEGRO S/N	75235
+Zyxel140-40 / :30	:|0| 	#		# - 	
+Zyxel140-40 / :31	:|0| 	#		# - 	
+Zyxel140-40 / :32	:|0| 	#		# - 	
+Zyxel140-40 / :33	:|0| 	#		# - 	
+Zyxel140-40 / :34	:|1| 	#500628	# - SENA ELENA NATIVIDAD	CATAMARCA (CASI CHUBUT)	72826
+Zyxel140-40 / :35	:|1| 	#501542	# - ARAUJO OSCAR ALBERTO	RIO NEGRO Y NEUQUEN	474558
+Zyxel140-40 / :36	:|1| 	#85551	# - PERALTA LIDIA	CATAMARCA 818	74319
+Zyxel140-40 / :37	:|1| 	#500646	# - VOISARD DIEGO GERMAN	CATAMARCA Y CHUBUT	75614
+Zyxel140-40 / :38	:|1| 	#500249	# - GHIONE MARIANA AINELEN	MISIONES (ESQUINA LA PAMPA)	3491687394
+Zyxel140-40 / :39	:|0| 	#		# - 	
+Zyxel140-40 / :40	:|1| 	#500676	# - HAIDAR CRISTINA	CATAMARCA 132	75723
+Zyxel140-40 / :41	:|1| 	#502744	# - CUNEO FRANCISCO PABLO DAVID	2 DE ABRIL 2379	3491536831
+Zyxel140-40 / :42	:|0| 	#		# - 	
+Zyxel140-40 / :43	:|0| 	#		# - 	
+Zyxel140-40 / :44	:|1| 	#85876	# - PUCHETA EMILIA Y MENDEZ OSCAR	RECONQUISTA Y CHUBUT	75389
+Zyxel140-40 / :45	:|1| 	#500728	# - BUSTOS MARIA ANDREA DEL LUJAN	CHUBUT 1973	72197
+Zyxel140-40 / :46	:|1| 	#83313	# - Gomez Eduardo	CATAMARCA 814	71893
+Zyxel140-40 / :47	:|1| 	#502018	# - CENA NELSON	LA PAMPA 2159	3491439099
+Zyxel140-40 / :48	:|1| 	#500780	# - ALEMAN LORELEY LUMILA	NEUQUEN 2160	3491418532
+
+
+
+Zyxel141-40 / :1	:|1| 	#85460	# - MONZON HECTOR RUBEN	CHILE 1047	3491690714
+Zyxel141-40 / :2	:|1| 	#501300	# - GAUNA MARIO ALBERTO	NEUQUEN 2373 (VIV-03)	74341
+Zyxel141-40 / :3	:|0| 	#		# - 	
+Zyxel141-40 / :4	:|2| 	#		# - 	
+Zyxel141-40 / :5	:|0| 	#		# - 	
+Zyxel141-40 / :6	:|1| 	#84072	# - VERGARA MARIA	SANTA CRUZ 2055	71654
+Zyxel141-40 / :7	:|2| 	#		# - 	
+Zyxel141-40 / :8	:|0| 	#		# - 	
+Zyxel141-40 / :9	:|2| 	#		# - 	
+Zyxel141-40 / :10	:|1| 	#500687	# - ANDRADA HECTOR ISILIO	NEUQUEN 2319	74987
+Zyxel141-40 / :11	:|0| 	#		# - 	
+Zyxel141-40 / :12	:|1| 	#85150	# - CRESPO STELLA MARIS	CHILE 1048	72104
+Zyxel141-40 / :13	:|1| 	#501181	# - CAMPOS MARIA CECILIA	NEUQUEN 2521	3491550876
+Zyxel141-40 / :14	:|0| 	#		# - 	
+Zyxel141-40 / :15	:|0| 	#		# - 	
+Zyxel141-40 / :16	:|0| 	#		# - 	
+Zyxel141-40 / :17	:|0| 	#		# - 	
+Zyxel141-40 / :18	:|1| 	#85895	# - PIEDRABUENA MARIA ADELINA	ENTRE RIOS 885	75898
+Zyxel141-40 / :19	:|0| 	#		# - 	
+Zyxel141-40 / :20	:|0| 	#		# - 	
+Zyxel141-40 / :21	:|0| 	#		# - 	
+Zyxel141-40 / :22	:|1| 	#502129	# - RIOS DIEGO HUGO HERNAN	NEUQUEN 2030	3491534135
+Zyxel141-40 / :23	:|0| 	#		# - 	
+Zyxel141-40 / :24	:|1| 	#501482	# - BENZEL JUAN JOSE	CATAMARCA 640	3491443285
+Zyxel141-40 / :25	:|0| 	#		# - 	
+Zyxel141-40 / :26	:|0| 	#		# - 	
+Zyxel141-40 / :27	:|0| 	#		# - 	
+Zyxel141-40 / :28	:|0| 	#		# - 	
+Zyxel141-40 / :29	:|0| 	#		# - 	
+Zyxel141-40 / :30	:|0| 	#		# - 	
+Zyxel141-40 / :31	:|0| 	#		# - 	
+Zyxel141-40 / :32	:|0| 	#		# - 	
+Zyxel141-40 / :33	:|0| 	#		# - 	
+Zyxel141-40 / :34	:|0| 	#		# - 	
+Zyxel141-40 / :35	:|0| 	#		# - 	
+Zyxel141-40 / :36	:|0| 	#		# - 	
+Zyxel141-40 / :37	:|0| 	#		# - 	
+Zyxel141-40 / :38	:|0| 	#		# - 	
+Zyxel141-40 / :39	:|0| 	#		# - 	
+Zyxel141-40 / :40	:|0| 	#		# - 	
+Zyxel141-40 / :41	:|0| 	#		# - 	
+Zyxel141-40 / :42	:|0| 	#		# - 	
+Zyxel141-40 / :43	:|0| 	#		# - 	
+Zyxel141-40 / :44	:|0| 	#		# - 	
+Zyxel141-40 / :45	:|0| 	#		# - 	
+Zyxel141-40 / :46	:|0| 	#		# - 	
+Zyxel141-40 / :47	:|0| 	#		# - 	
+Zyxel141-40 / :48	:|0| 	#		# - 	
+
+
+
+Zyxel142-40 / :1	:|1| 	#85568	# - CHAVEZ GONZALO	LAS HERAS 1277	75819
+Zyxel142-40 / :2	:|1| 	#500905	# - REDUELLO GABRIELA A	SAN CRISTOBAL 1946	3491695133
+Zyxel142-40 / :3	:|1| 	#85574	# - BARBONA DAINA VICTORIA	HAITI Y TITO PIEDRA 1490	75201
+Zyxel142-40 / :4	:|1| 	#85577	# - BERTELO MAGDALENA	REP. ARGENTINA 1873	71764
+Zyxel142-40 / :5	:|0| 	#		# - 	
+Zyxel142-40 / :6	:|0| 	#		# - 	
+Zyxel142-40 / :7	:|1| 	#84793	# - RODRIGUEZ TANIA MURIEL	SANTO DOMINGO Y TITO PIEDRA	75667
+Zyxel142-40 / :8	:|0| 	#		# - 	
+Zyxel142-40 / :9	:|0| 	#		# - 	
+Zyxel142-40 / :10	:|1| 	#85402	# - MOREIRA CLAUDIA ALEJANDRA	TOBAS 1672	75443
+Zyxel142-40 / :11	:|0| 	#		# - 	
+Zyxel142-40 / :12	:|1| 	#85481	# - CEJAS SIRLEY DEL VALLE	LLAMBI CAMBELL (VIV-30)	71542
+Zyxel142-40 / :13	:|1| 	#85602	# - PICCO NOEMI MARIELA	MAIPU 1856	75230
+Zyxel142-40 / :14	:|0| 	#		# - 	
+Zyxel142-40 / :15	:|0| 	#		# - 	
+Zyxel142-40 / :16	:|1| 	#500411	# - NIEVA MARIA ELENA	SANTO DOMINGO 1768	74318
+Zyxel142-40 / :17	:|1| 	#85619	# - TULIAN CEFERINO	REP. ARGENTINA 1807	71114
+Zyxel142-40 / :18	:|1| 	#85803	# - GARCIA MARIA ISABEL	6 DE CABALLERIA Y CARLOS GARDEL	75456
+Zyxel142-40 / :19	:|1| 	#500874	# - MOJICA ROSA	BME MITRE 1671	73687
+Zyxel142-40 / :20	:|1| 	#84591	# - Coria Ivana	BUENOS AIRES Y DR EDUARDO MIRA	72883
+Zyxel142-40 / :21	:|0| 	#		# - 	
+Zyxel142-40 / :22	:|0| 	#		# - 	
+Zyxel142-40 / :23	:|1| 	#501307	# - PAEZ JOANA	HAITI 1580	3491533562
+Zyxel142-40 / :24	:|0| 	#		# - 	
+Zyxel142-40 / :25	:|1| 	#85819	# - CACERES ROGELIA	LAS HERAS 1450	71884
+Zyxel142-40 / :26	:|1| 	#85820	# - SOSA RICARDO DAVID	CARLOS GARDEL S/N	75241
+Zyxel142-40 / :27	:|0| 	#		# - 	
+Zyxel142-40 / :28	:|0| 	#		# - 	
+Zyxel142-40 / :29	:|1| 	#500939	# - DIAZ MATIAS GONZALO	BETO MARTINI 764	74182
+Zyxel142-40 / :30	:|1| 	#84344	# - Rodriguez Santo	ANGELA PERALTA PINO 763	72442
+Zyxel142-40 / :31	:|0| 	#		# - 	
+Zyxel142-40 / :32	:|1| 	#501617	# - VILLALBA JULIO	BETO MARTINI Y SAN CRISTOBAL	
+Zyxel142-40 / :33	:|1| 	#500896	# - BASANO JOSE LUIS	SAN CRISTOBAL 1628	3491550198
+Zyxel142-40 / :34	:|0| 	#		# - 	
+Zyxel142-40 / :35	:|0| 	#		# - 	
+Zyxel142-40 / :36	:|1| 	#85850	# - ARRIOLA VALERIA ALEJANDRA	CARLOS GARDEL 743	
+Zyxel142-40 / :37	:|1| 	#85855	# - PICCO MARIANELA GISEL	PASAJE 750	
+Zyxel142-40 / :38	:|0| 	#		# - 	
+Zyxel142-40 / :39	:|0| 	#		# - 	
+Zyxel142-40 / :40	:|0| 	#		# - 	
+Zyxel142-40 / :41	:|0| 	#		# - 	
+Zyxel142-40 / :42	:|0| 	#		# - 	
+Zyxel142-40 / :43	:|0| 	#		# - 	
+Zyxel142-40 / :44	:|0| 	#		# - 	
+Zyxel142-40 / :45	:|0| 	#		# - 	
+Zyxel142-40 / :46	:|0| 	#		# - 	
+Zyxel142-40 / :47	:|0| 	#		# - 	
+Zyxel142-40 / :48	:|1| 	#84677	# - Mansilla Jose -solo cuando estoy-	MAIPU Y ALVEAR	73529
+
+
+
+Zyxel143-40 / :1	:|1| 	#85836	DIAZ MARIA ELENA	RECONQUISTA CASI 5 DE NOVIEMBRE	75763
+Zyxel143-40 / :2	:|1| 	#85601	# - CEJAS TERESA	LA PAMPA Y FORMOSA	75191
+Zyxel143-40 / :3	:|1| 	#85457	# - MONZON JESICA SOLEDAD	FORMOSA S/N	15536164
+Zyxel143-40 / :4	:|1| 	#500839	# - ANDREU ELOY MAURICIO	CORRIENTES Y 2 DE ABRIL	3491534042
+Zyxel143-40 / :5	:|0| 	#		# - 	
+Zyxel143-40 / :6	:|0| 	#		# - 	
+Zyxel143-40 / :7	:|1| 	#84096	# - Andreu Aurelio	RECONQUISTA Y 2 DE ABRIL	72053
+Zyxel143-40 / :8	:|1| 	#84900	# - RUIZ RAMON JAVIER	5 DE NOVIEMBRE 2424	75774
+Zyxel143-40 / :9	:|0| 	#		# - 	
+Zyxel143-40 / :10	:|1| 	#500930	# - BASANO NELIDA ELBA	CATAMARCA 220	73979
+Zyxel143-40 / :11	:|1| 	#501119	# - ROSALES RAMON ENRIQUE	CORRIENTES 879	3491438798
+Zyxel143-40 / :12	:|0| 	#		# - 	
+Zyxel143-40 / :13	:|1| 	#84635	# - Juanovich Romina	MISIONES 700	75038
+Zyxel143-40 / :14	:|0| 	#		# - 	
+Zyxel143-40 / :15	:|0| 	#		# - 	
+Zyxel143-40 / :16	:|0| 	#		# - 	
+Zyxel143-40 / :17	:|0| 	#		# - 	
+Zyxel143-40 / :18	:|0| 	#		# - 	
+Zyxel143-40 / :19	:|0| 	#		# - 	
+Zyxel143-40 / :20	:|1| 	#84480	# - Peralta Ramona	TIERRA DEL FUEGO CASI LA RIOJA	75145
+Zyxel143-40 / :21	:|1| 	#85175	# - TOLEDO ALDO BENJAMIN	CABO ABEL CORONEL 2630	71009
+Zyxel143-40 / :22	:|1| 	#84660	# - Altamiranda Sandra Beatriz	5 DE NOVIEMBRE 2463	74395
+Zyxel143-40 / :23	:|0| 	#		# - 	
+Zyxel143-40 / :24	:|1| 	#85583	# - CORDOBA CAMILA JUDITH	LA PAMPA 2082	75693
+Zyxel143-40 / :25	:|0| 	#		# - 	
+Zyxel143-40 / :26	:|1| 	#84550	# - Jimenez Ramon Oscar	BOLIVIA 1081	71437
+Zyxel143-40 / :27	:|0| 	#		# - 	
+Zyxel143-40 / :28	:|0| 	#		# - 	
+Zyxel143-40 / :29	:|1| 	#85040	# - MANSILLA PAOLA NOEMI	FORMOSA 835	75478
+Zyxel143-40 / :30	:|0| 	#		# - 	
+Zyxel143-40 / :31	:|0| 	#		# - 	
+Zyxel143-40 / :32	:|1| 	#84683	# - Ponce Daniel Alberto	LA PAMPA 2090	73666
+Zyxel143-40 / :33	:|0| 	#		# - 	
+Zyxel143-40 / :34	:|0| 	#		# - 	
+Zyxel143-40 / :35	:|1| 	#84964	# - ROLDAN CARLOS RUBEN	CORRIENTES 887	74983
+Zyxel143-40 / :36	:|1| 	#501071	# - PERALTA ANTONIO EXEQUIEL	2 DE ABRIL 2569	3491438503
+Zyxel143-40 / :37	:|0| 	#		# - 	
+Zyxel143-40 / :38	:|0| 	#		# - 	
+Zyxel143-40 / :39	:|1| 	#84709	# - Ruiz Noemi	NEUQUEN 2559	73538
+Zyxel143-40 / :40	:|0| 	#		# - 	
+Zyxel143-40 / :41	:|0| 	#		# - 	
+Zyxel143-40 / :42	:|0| 	#		# - 	
+Zyxel143-40 / :43	:|0| 	#		# - 	
+Zyxel143-40 / :44	:|0| 	#		# - 	
+Zyxel143-40 / :45	:|0| 	#		# - 	
+Zyxel143-40 / :46	:|1| 	#84848	# - CORONEL HILDA RAMONA	ENTRE RIOS Y CHUBUT	73849
+Zyxel143-40 / :47	:|0| 	#		# - 	
+Zyxel143-40 / :48	:|0| 	#		# -
+
+
+
+Zyxel145-40 / :1	:|1| 	#500861	# - MEDRANO LUDMILA	SANTA CRUZ Y HECTOR VERGARA	3491547587
+Zyxel145-40 / :2	:|1| 	#85508	# - SANCHEZ JULIA DANIELA	LA PAMPA S/N	72882
+Zyxel145-40 / :3	:|1| 	#85848	# - MOJICA MARIA DE LOS ANGELES	FORMOSA S/N	75469
+Zyxel145-40 / :4	:|0| 	#		# - 	
+Zyxel145-40 / :5	:|1| 	#85246	# - MONTENEGRO ALEJANDRA NATALI	FORMOSA 980	75455
+Zyxel145-40 / :6	:|1| 	#84549	# - Peralta Monica Estela	LA PAMPA 2519	72149
+Zyxel145-40 / :7	:|1| 	#85549	# - RODRIGUEZ LIDIA GRACIELA	5 DE NOVIEMBRE Y CHILE 2404	75535
+Zyxel145-40 / :8	:|0| 	#		# - 	
+Zyxel145-40 / :9	:|1| 	#85488	# - MUNICIPALIDAD DE TOSTADO-C DE SALUD	ENTRE RIOS 673	75574
+Zyxel145-40 / :10	:|1| 	#85204	# - MOJICA ANTONIO UBALDO	5 DE NOVIEMBRE 2345	73689
+Zyxel145-40 / :11	:|0| 	#		# - 	
+Zyxel145-40 / :12	:|1| 	#83065	# - Maria del Valle Lopez	FORMOSA 700	74469
+Zyxel145-40 / :13	:|2| 	#		# - 	
+Zyxel145-40 / :14	:|0| 	#		# - 	
+Zyxel145-40 / :15	:|1| 	#83722	# - CAINERO MIGUEL	LA PAMPA 2375	72044
+Zyxel145-40 / :16	:|1| 	#85798	# - LEIVA LIDIA BEATRIZ	ENTRE RIOS 417	75240
+Zyxel145-40 / :17	:|0| 	#		# - 	
+Zyxel145-40 / :18	:|0| 	#		# - 	
+Zyxel145-40 / :19	:|1| 	#83531	# - CARRION SERGIO	LA PAMPA 2500	74536
+Zyxel145-40 / :20	:|0| 	#		# - 	
+Zyxel145-40 / :21	:|1| 	#84486	# - Barrios Hector	LA PAMPA 2509	72683
+Zyxel145-40 / :22	:|1| 	#84044	# - Pelagagge Elsa	PASAJE RENE FAVALORO 768	70089
+Zyxel145-40 / :23	:|0| 	#		# - 	
+Zyxel145-40 / :24	:|0| 	#		# - 	
+Zyxel145-40 / :25	:|0| 	#		# - 	
+Zyxel145-40 / :26	:|1| 	#84511	# - Castillo Juan Domingo	2 DE ABRIL Y MISIONES	75028
+Zyxel145-40 / :27	:|0| 	#		# - 	
+Zyxel145-40 / :28	:|0| 	#		# - 	
+Zyxel145-40 / :29	:|1| 	#84431	# - Mojica Javier	ENTRE RIOS 266	74587
+Zyxel145-40 / :30	:|1| 	#84387	# - Almada Marcelo	DR RENE FAVALORO 724	75054
+Zyxel145-40 / :31	:|1| 	#83600	# - Juarez Oscar	CATAMARCA S/N	73815
+Zyxel145-40 / :32	:|0| 	#		# - 	
+Zyxel145-40 / :33	:|1| 	#84891	# - RODRIGUEZ VICENTE OMAR	CATAMARCA Y LA PAMPA	73521
+Zyxel145-40 / :34	:|0| 	#		# - 	
+Zyxel145-40 / :35	:|1| 	#83368	# - Crespo Primitivo	LA PAMPA 2474	72046
+Zyxel145-40 / :36	:|1| 	#84388	# - Marabotto Victor	NEUQUEN 2037	73704
+Zyxel145-40 / :37	:|1| 	#500438	# - ESCUDERO JUAN RAMON	ENTRE RIOS ENTRE SANTA CRUZ Y CHUBUT	74623
+Zyxel145-40 / :38	:|0| 	#		# - 	
+Zyxel145-40 / :39	:|0| 	#		# - 	
+Zyxel145-40 / :40	:|0| 	#		# - 	
+Zyxel145-40 / :41	:|0| 	#		# - 	
+Zyxel145-40 / :42	:|1| 	#84452	# - Trecco Roberto	CATAMARCA Y RIO NEGRO	75303
+Zyxel145-40 / :43	:|0| 	#		# - 	
+Zyxel145-40 / :44	:|0| 	#		# - 	
+Zyxel145-40 / :45	:|1| 	#501677	# - ALMEIDA DANIEL FERNANDO	GUEMES 1145	15438831
+Zyxel145-40 / :46	:|0| 	#		# - 	
+Zyxel145-40 / :47	:|1| 	#84720	# - Chaparro Griselda	RECONQUISTA 1301 Y 9 DE JULIO	74744
+Zyxel145-40 / :48	:|1| 	#85223	# - IGLESIA DE DIOS	CATAMARCA 379	73895
+
+
+Zyxel146-50 / :1	:|1| 	#501426	# - MORENO VIVIANA SOLEDAD	SAN CRISTOBAL 1728	3491502893
+Zyxel146-50 / :2	:|0| 	#		# - 	
+Zyxel146-50 / :3	:|0| 	#		# - 	
+Zyxel146-50 / :4	:|0| 	#		# - 	
+Zyxel146-50 / :5	:|0| 	#		# - 	
+Zyxel146-50 / :6	:|1| 	#84545	# - Gutierrez Patricio	DR EDUARDO MIRAGAYA 2228	74487
+Zyxel146-50 / :7	:|0| 	#		# - 	
+Zyxel146-50 / :8	:|1| 	#500381	# - CAMPANINI LUIS ELIAS	BARTOLOME MITRE 1458	75835
+Zyxel146-50 / :9	:|1| 	#500563	# - PAZ ALBERTO GABRIEL	MAIPU 1758 - FRENTE A MANTOVANI	
+Zyxel146-50 / :10	:|0| 	#		# - 	
+Zyxel146-50 / :11	:|0| 	#		# - 	
+Zyxel146-50 / :12	:|0| 	#		# - 	
+Zyxel146-50 / :13	:|1| 	#85438	# - SUAREZ LUCIANO HIPOLITO	HECTOR ESTELA 1762	15500761
+Zyxel146-50 / :14	:|1| 	#89307	# - OJEDA ISMAEL MATEO	MITRE S/N (ENTRE RIV Y SARMIE)	75614
+Zyxel146-50 / :15	:|0| 	#		# - 	
+Zyxel146-50 / :16	:|1| 	#83868	# - Sauco Martin y Galeano Sara	BETO MARTINI 1400	75098
+Zyxel146-50 / :17	:|1| 	#501995	# - SALVATIERRA CARINA ELISABETH	BETO MARTINI 1040	3491542903
+Zyxel146-50 / :18	:|0| 	#		# - 	
+Zyxel146-50 / :19	:|1| 	#500626	# - DUARTE ROMINA DANIELA	BUENOS AIRES 1667	72769
+Zyxel146-50 / :20	:|0| 	#		# - 	
+Zyxel146-50 / :21	:|0| 	#		# - 	
+Zyxel146-50 / :22	:|0| 	#		# - 	
+Zyxel146-50 / :23	:|1| 	#500642	# - FERNANDEZ DAMIANA	BALCARCE (VIV-25) 2100	74772
+Zyxel146-50 / :24	:|1| 	#85209	# - SOSA PAOLA LORENA	HECTOR ESTELA 1460	75714
+Zyxel146-50 / :25	:|0| 	#		# - 	
+Zyxel146-50 / :26	:|1| 	#502023	# - GALVAN GRISELDA ALEJANDRA	SAN CRISTOBAL 1447	3491504749
+Zyxel146-50 / :27	:|1| 	#85408	# - LOVEY ANA MARIA	ELMO PEREZLINDO 1142	74224
+Zyxel146-50 / :28	:|0| 	#		# - 	
+Zyxel146-50 / :29	:|1| 	#84880	# - GUZMAN ANGELA	HECTOR ESTELA Y ELMO PEREZLINDO	75263
+Zyxel146-50 / :30	:|1| 	#500670	# - QUIROGA ANA	MITRE 1750	3491510946
+Zyxel146-50 / :31	:|0| 	#		# - 	
+Zyxel146-50 / :32	:|0| 	#		# - 	
+Zyxel146-50 / :33	:|1| 	#501460	# - QUIROZ JUAN DOMINGO	ELMOS PEREZLINDO 937	474653
+Zyxel146-50 / :34	:|0| 	#		# - 	
+Zyxel146-50 / :35	:|0| 	#		# - 	
+Zyxel146-50 / :36	:|0| 	#		# - 	
+Zyxel146-50 / :37	:|0| 	#		# - 	
+Zyxel146-50 / :38	:|1| 	#500714	# - REUCCI NORMA INES	MITRE 1831	75016
+Zyxel146-50 / :39	:|0| 	#		# - 	
+Zyxel146-50 / :40	:|1| 	#85168	# - SOSA DELIA SUSANA	COSTA RICA 1426	74655
+Zyxel146-50 / :41	:|1| 	#500724	# - TARALLI MARIO	BALCARCE 1630	3857411187
+Zyxel146-50 / :42	:|1| 	#500735	# - JOBSON MARCELO JAVIER	HECTOR ESTELA S/N	3491541442
+Zyxel146-50 / :43	:|1| 	#500741	# - CABRERA MAXIMILIANO	MORENO Y BARTOLOME MITRE	15551311
+Zyxel146-50 / :44	:|1| 	#500601	# - GARCIA LEONARDO	SAN CRISTOBAL Y REPUBLICA ARG.	3413049915
+Zyxel146-50 / :45	:|1| 	#500746	# - LUGO DAIANA SABRINA	MAIPU Y RIVADAVIA (PANADERIA)	3491555358
+Zyxel146-50 / :46	:|1| 	#500755	# - LEIVA LUCIANA	BUENOS AIRES 1540	3491419793
+Zyxel146-50 / :47	:|0| 	#		# - 	
+Zyxel146-50 / :48	:|1| 	#502102	# - VIVAS GISELA EUGENIA	REPUBLICA ARGENTINA 711	3491690518
+
+
+
+Zyxel148-50 / :1	:|1| 	#84324	# - Espindola Francisco -Diaz-	ONAS Y PERU	71842
+Zyxel148-50 / :2	:|0| 	#		# - 	
+Zyxel148-50 / :3	:|1| 	#85130	# - CHAVEZ JUAN CARLOS - RODRIGUEZ MIRTA CRISTINA	ELMO PEREZLINDO 1187	72798
+Zyxel148-50 / :4	:|0| 	#		# - 	
+Zyxel148-50 / :5	:|0| 	#		# - 	
+Zyxel148-50 / :6	:|0| 	#		# - 	
+Zyxel148-50 / :7	:|1| 	#501001	# - NOTARIO MARIA DEL CARMEN	ELMO PEREZLINDO 762	75990
+Zyxel148-50 / :8	:|0| 	#		# - 	
+Zyxel148-50 / :9	:|1| 	#501014	# - BENITEZ RAMON ANTONIO	HAITI 1609	3491534332
+Zyxel148-50 / :10	:|0| 	#		# - 	
+Zyxel148-50 / :11	:|0| 	#		# - 	
+Zyxel148-50 / :12	:|0| 	#		# - 	
+Zyxel148-50 / :13	:|0| 	#		# - 	
+Zyxel148-50 / :14	:|0| 	#		# - 	
+Zyxel148-50 / :15	:|1| 	#501053	# - ROLDAN YOLANDA	CARLOS GARDEL Y HAITI	3491691669
+Zyxel148-50 / :16	:|0| 	#		# - 	
+Zyxel148-50 / :17	:|0| 	#		# - 	
+Zyxel148-50 / :18	:|1| 	#501102	# - GALLO RAMONA	SAAVEDRA 1840	3491548480
+Zyxel148-50 / :19	:|0| 	#		# - 	
+Zyxel148-50 / :20	:|0| 	#		# - 	
+Zyxel148-50 / :21	:|0| 	#		# - 	
+Zyxel148-50 / :22	:|1| 	#85866	# - GUZMAN MARTA ALICIA	SAN CRISTOBAL 1621	75490
+Zyxel148-50 / :23	:|0| 	#		# - 	
+Zyxel148-50 / :24	:|0| 	#		# - 	
+Zyxel148-50 / :25	:|0| 	#		# - 	
+Zyxel148-50 / :26	:|1| 	#501141	# - RIOS YOLANDA INES	PERU 2282	74012
+Zyxel148-50 / :27	:|0| 	#		# - 	
+Zyxel148-50 / :28	:|0| 	#		# - 	
+Zyxel148-50 / :29	:|0| 	#		# - 	
+Zyxel148-50 / :30	:|0| 	#		# - 	
+Zyxel148-50 / :31	:|1| 	#500671	# - SILVA YESICA	BETO MARTINI 1148	3491534893
+Zyxel148-50 / :32	:|1| 	#500934	# - CAÑETE TANIA	BALCARCE Y 1 DE MAYO	3491550917
+Zyxel148-50 / :33	:|1| 	#501491	# - QUIROGA ALEJANDRA DANIELA	REPUBLICA ARGENTINA 1862	474515
+Zyxel148-50 / :34	:|0| 	#		# - 	
+Zyxel148-50 / :35	:|0| 	#		# - 	
+Zyxel148-50 / :36	:|0| 	#		# - 	
+Zyxel148-50 / :37	:|0| 	#		# - 	
+Zyxel148-50 / :38	:|0| 	#		# - 	
+Zyxel148-50 / :39	:|0| 	#		# - 	
+Zyxel148-50 / :40	:|0| 	#		# - 	
+Zyxel148-50 / :41	:|1| 	#501216	# - ACOSTA BELKYS MARGARITA	LAS HERAS 1762	73664
+Zyxel148-50 / :42	:|0| 	#		# - 	
+Zyxel148-50 / :43	:|1| 	#501220	# - GUZMAN ANA	TITO PIEDRA 723	3491691284
+Zyxel148-50 / :44	:|1| 	#501795	# - BARRETO MALVINA	HECTOR ESTELA 1732	3491543991
+Zyxel148-50 / :45	:|1| 	#501240	# - ACOSTA MIRIAM ALEJANDRA	GUARANIES 1982	3491548929
+Zyxel148-50 / :46	:|1| 	#501254	# - ALCARAZ GLADIS HERMINDA (CACERES OMAR)	TEHUELCHE Y SAAVEDRA	74201
+Zyxel148-50 / :47	:|1| 	#501260	# - FERNANDEZ MARTIN	MORENO CASI LAS HERAS	3491505182
+Zyxel148-50 / :48	:|0| 	#		# - 	
