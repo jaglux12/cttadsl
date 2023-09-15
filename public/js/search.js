@@ -5,7 +5,8 @@ const $template = document.querySelector("#template").content,
             $fragmento = document.createDocumentFragment(),
             $fragmento2 = document.createDocumentFragment(),
             $search = document.querySelector("#search"),
-            $bSearch = document.querySelector("#bSearch")
+            $bSearch = document.querySelector("#bSearch"),
+            $sTipo = document.querySelector("#lSearch")
 
 function setState(value){
     let result = 0
@@ -46,6 +47,7 @@ function addRows(lineaTexto){
     $templateRow.querySelector(".info").textContent = info
 
     $templateRow.dataset.id = nCliente
+    $templateRow.dataset.info = info != undefined ? info.toLowerCase():""
 
     let $clone = document.importNode($templateRow,true)
     if(setBaja(lineaTexto)){
@@ -72,6 +74,7 @@ function addRows2(lineaTexto){
     
 
     $templateRow2.dataset.id = nCliente
+    $templateRow2.dataset.info = info != undefined ? info.toLowerCase():""
 
     let $clone = document.importNode($templateRow2,true)
     if(setBaja(lineaTexto)){
@@ -80,6 +83,57 @@ function addRows2(lineaTexto){
     $fragmento2.appendChild($clone)
     document.querySelector(".tBody2").appendChild($fragmento2)
 }
+
+function searchItems(){
+    if($sTipo.value == "NºCliente"){
+        let registros = document.querySelectorAll(".tBody *")
+    registros.forEach(element => {
+        if(element.dataset.id != " " && element.dataset.id != undefined){
+            if(element.dataset.id.startsWith($search.value)){
+                element.classList.remove("filterNone")
+            }else{
+                element.classList.add("filterNone")
+            }
+        }
+    })
+
+    let registros2 = document.querySelectorAll(".tBody2 *")
+    registros2.forEach(element => {
+        if(element.dataset.id != " " && element.dataset.id != undefined){
+            if(element.dataset.id.startsWith($search.value)){
+                element.classList.remove("filterNone")
+            }else{
+                element.classList.add("filterNone")
+            }
+        }
+    })
+    }else{
+        
+        let registros = document.querySelectorAll(".tBody *")
+    registros.forEach(element => {
+        if(element.dataset.info != " " && element.dataset.info != undefined){
+            if(element.dataset.info.includes($search.value.toLowerCase())){
+                element.classList.remove("filterNone")
+            }else{
+                element.classList.add("filterNone")
+            }
+        }
+    })
+
+    let registros2 = document.querySelectorAll(".tBody2 *")
+    registros2.forEach(element => {
+        if(element.dataset.info != " " && element.dataset.info != undefined){
+            if(element.dataset.info.includes($search.value.toLowerCase())){
+                element.classList.remove("filterNone")
+            }else{
+                element.classList.add("filterNone")
+            }
+        }
+    })
+    }
+}
+
+
 
         document.addEventListener("DOMContentLoaded", async event => {
             await fetch("data1.txt") 
@@ -113,29 +167,15 @@ function addRows2(lineaTexto){
         });
 
 
-        document.addEventListener("keyup", event => {
-            if(event.target == $search){
-                let registros = document.querySelectorAll(".tBody *")
-                registros.forEach(element => {
-                    if(element.dataset.id != " " && element.dataset.id != undefined){
-                        if(element.dataset.id.startsWith($search.value)){
-                            element.classList.remove("filterNone")
-                        }else{
-                            element.classList.add("filterNone")
-                        }
-                    }
-                })
+        document.addEventListener("click", event => {
+            if(event.target.matches("#bBuscar")){
+                searchItems()
+            }
+        })
 
-                let registros2 = document.querySelectorAll(".tBody2 *")
-                registros2.forEach(element => {
-                    if(element.dataset.id != " " && element.dataset.id != undefined){
-                        if(element.dataset.id.startsWith($search.value)){
-                            element.classList.remove("filterNone")
-                        }else{
-                            element.classList.add("filterNone")
-                        }
-                    }
-                })
+        document.addEventListener("keypress", event =>{
+            if(event.target.matches("#search") && event.key === "Enter"){
+                searchItems()
             }
         })
 

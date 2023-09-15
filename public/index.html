@@ -7,36 +7,57 @@
     <link rel="shortcut icon" href="assets/diamond.png" type="image/x-icon">
     <link rel="stylesheet" href="css/styles.css">
 </head>
-<body class="w-full  bg-negro-base text-amarillo-base px-2 py-2">
+<body class=" bg-white px-2 py-5">
 
     <template id="template">
-            <tr id="templateRow" class="visible flex space-x-4 hover hover:cursor-default">
-                <th class="modelo"></th>
-                <th class="nPlaca"></th>
-                <th class="nPuerto"></th>
-                <th class="estado"></th>
-                <th class="nCliente"></th>
-                <th class="info"></th> 
+            <tr id="templateRow" class="visible  text-xs hover:cursor-default">
+                <th class="modelo max-lg:text-table text-table2"></th>
+                <th class="nPlaca max-lg:text-table text-table2"></th>
+                <th class="nPuerto max-lg:text-table text-table2"></th>
+                <th class="estado max-lg:text-table text-table2"></th>
+                <th class="nCliente max-lg:text-table text-table2"></th>
+                <th class="info max-lg:text-table text-table2"></th> 
             </tr>
 
-            <tr id="templateRow2" class="visible flex space-x-4 hover hover:cursor-default">
-                <th class="modelo"></th>
-                <th class="nPuerto"></th>
-                <th class="estado"></th>
-                <th class="nCliente"></th>
-                <th class="info"></th> 
+            <tr id="templateRow2" class="visible flex justify-start text-xs  hover:cursor-default">
+                <th class="modelo max-lg:text-table text-table2"></th>
+                <th class="nPuerto max-lg:text-table text-table2"></th>
+                <th class="estado max-lg:text-table text-table2"></th>
+                <th class="nCliente max-lg:text-table text-table2"></th>
+                <th class="info max-lg:text-table text-table2"></th> 
             </tr>
+            
     </template>
     
-    <header class=" flex items-center justify-start h-24">
+    <header class="w-full h-24 flex items-center justify-center">
+        <div class="join">
+            <div>
+              <div>
+                <input id="search" type="text" placeholder="Type here" class="input text-white input-bordered border-amarillo-base bg-negro-base w-full max-w-xs rounded-none"/>
+              </div>
+            </div>
+            <select id="lSearch" class="select select-bordered join-item">
+                <option selected>NºCliente</option>
+                <option>Nombre/Apellido</option>
+            </select>
+            <div class="indicator">
+              <button id="bBuscar" class="btn join-item">Buscar</button>
+            </div>
+          </div>
+        <!-- <select id="lSearch" class="select text-white px-2 ms-3  bg-black text-sm w-28 m-0">
+            <option selected>NºCliente</option>
+            <option>Nombre/Apellido</option>
+        </select>
         <input id="search" type="text" placeholder="Type here" class="input text-white input-bordered border-amarillo-base bg-negro-base w-full max-w-xs mx-4"/>
+        <button id="bBuscar" class="btn">Buscar</button> -->
     </header>
 
-    <main id="main-section" class="flex px-3 h-2/3 ">
-        <div class="w-2/4 px-2">
+    <main id="main-section" class="flex px-3 max-lg:flex-col max-lg:space-y-5 lg:space-x-2">
+
+        <div class="w-2/4  bg-black rounded-md overflow-hidden  h-auto max-lg:w-full max-lg:h-96">
             <table class="table table-xs grid w-full">
-                <thead class="bg-amarillo-base text-negro-base">
-                    <tr class="">
+                <thead class="flex justify-center w-full">
+                    <tr class="flex w-full bg-gray-600 text-white font-light">
                         <th>Modelo</th>
                         <th>Placa</th>
                         <th>Puerto</th>
@@ -46,13 +67,14 @@
                     </tr>
                 </thead> 
 
-                <tbody class="tBody grid">
+                <tbody class="tBody text-white font-sans font-light grid max-lg:snap-y max-lg:snap-mandatory max-lg:h-screen max-lg:overflow-scroll">
                 </tbody>
             </table>
         </div>
-        <div class="w-2/4 px-2">
+
+        <div class="w-2/4 rounded-md overflow-hidden h-auto max-lg:w-full max-lg:h-96">
             <table class="table table-xs grid w-full">
-                <thead class="bg-amarillo-base text-negro-base">
+                <thead class="bg-amarillo-base text-white flex w-full">
                     <tr class="">
                         <th>Modelo</th>
                         <th>Puerto</th>
@@ -62,7 +84,7 @@
                     </tr>
                 </thead> 
 
-                <tbody class="tBody2 grid">
+                <tbody class="tBody2 text-black grid max-lg:snap-y max-lg:snap-mandatory max-lg:h-screen max-lg:overflow-scroll">
                 </tbody>
             </table>
         </div>
